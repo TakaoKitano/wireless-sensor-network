@@ -49,7 +49,7 @@ void vADT7410_Final(tsObjData_ADT7410 *pData, tsSnsObj *pSnsObj);
 /***        Exported Functions (primitive funcs)                          ***/
 /****************************************************************************/
 PUBLIC bool_t bADT7410reset(bool_t);
-PUBLIC bool_t bADT7410startRead();
+PUBLIC bool_t bADT7410startRead(bool_t);
 PUBLIC int16 i16ADT7410readResult(bool_t);
 
 /****************************************************************************/

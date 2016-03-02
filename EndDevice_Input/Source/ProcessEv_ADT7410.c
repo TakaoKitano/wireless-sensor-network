@@ -66,6 +66,7 @@ PRSEV_HANDLER_DEF(E_STATE_IDLE, tsEvent *pEv, teEvent eEvent, uint32 u32evarg) {
 
 		// ADT7410 の初期化
 		vADT7410_Init(&sObjADT7410, &sSnsObj);
+		// @tk このイベントにより、ADT7410 one-shot mode での測定を開始する(ように変更した)
 		vSnsObj_Process(&sSnsObj, E_ORDER_KICK);
 		if (bSnsObj_isComplete(&sSnsObj)) {
 			// 即座に完了した時はセンサーが接続されていない、通信エラー等
@@ -88,13 +89,8 @@ PRSEV_HANDLER_DEF(E_STATE_IDLE, tsEvent *pEv, teEvent eEvent, uint32 u32evarg) {
 }
 
 PRSEV_HANDLER_DEF(E_STATE_RUNNING, tsEvent *pEv, teEvent eEvent, uint32 u32evarg) {
-		// 短期間スリープからの起床をしたので、センサーの値をとる
-	if ((eEvent == E_EVENT_START_UP) && (u32evarg & EVARG_START_UP_WAKEUP_RAMHOLD_MASK)) {
-		V_PRINTF("#");
-		vProcessADT7410(E_EVENT_START_UP);
-	}
-
-	// ２回スリープすると完了
+	// @tk ADT7410 one-shot mode 
+	vProcessADT7410(eEvent);
 	if (u8sns_cmplt != E_SNS_ALL_CMP && (u8sns_cmplt & E_SNS_ADC_CMP_MASK)) {
 		// ADC 完了後、この状態が来たらスリープする
 		pEv->bKeepStateOnSetAll = TRUE; // スリープ復帰の状態を維持
@@ -104,7 +100,9 @@ PRSEV_HANDLER_DEF(E_STATE_RUNNING, tsEvent *pEv, teEvent eEvent, uint32 u32evarg
 
 		// スリープを行うが、WAKE_TIMER_0 は定周期スリープのためにカウントを続けているため
 		// 空いている WAKE_TIMER_1 を利用する
-		ToCoNet_vSleep(E_AHI_WAKE_TIMER_1, 50, FALSE, FALSE); // PERIODIC RAM OFF SLEEP USING WK1
+		// @tk このスリープから復帰すると、E_EVENT_START_UP が送られる
+                // ADT7410 data sheet では one-shot 測定開始後 240ms 必要なので、マージン足して 320ms スリープ
+		ToCoNet_vSleep(E_AHI_WAKE_TIMER_1, 320, FALSE, FALSE); 
 	}
 
 	// 送信処理に移行
@@ -113,7 +111,7 @@ PRSEV_HANDLER_DEF(E_STATE_RUNNING, tsEvent *pEv, teEvent eEvent, uint32 u32evarg
 	}
 
 	// タイムアウト
-	if (ToCoNet_Event_u32TickFrNewState(pEv) > 100) {
+	if (ToCoNet_Event_u32TickFrNewState(pEv) > 500) {	// @tk 100->500 に変更
 		V_PRINTF(LB"! TIME OUT (E_STATE_RUNNING)");
 		ToCoNet_Event_SetState(pEv, E_STATE_APP_SLEEP); // スリープ状態へ遷移
 	}
@@ -171,7 +169,7 @@ PRSEV_HANDLER_DEF(E_STATE_APP_SLEEP, tsEvent *pEv, teEvent eEvent, uint32 u32eva
 		V_PRINTF(LB"! Sleeping...");
 		V_FLUSH();
 
-		pEv->bKeepStateOnSetAll = FALSE; // スリープ復帰の状態を維持
+		pEv->bKeepStateOnSetAll = FALSE; // スリープ復帰の状態を維持しない
 
 		// Mininode の場合、特別な処理は無いのだが、ポーズ処理を行う
 		ToCoNet_Nwk_bPause(sAppData.pContextNwk);
@@ -181,7 +179,8 @@ PRSEV_HANDLER_DEF(E_STATE_APP_SLEEP, tsEvent *pEv, teEvent eEvent, uint32 u32eva
 
 		// 周期スリープに入る
 		//  - 初回は５秒あけて、次回以降はスリープ復帰を基点に５秒
-		vSleep(sAppData.sFlash.sData.u32Slp, sAppData.u16frame_count == 1 ? FALSE : TRUE, FALSE);
+		// @tk changed to bDeepSleep=TRUE (used to be FALSE), in order to reduce power usage
+		vSleep(sAppData.sFlash.sData.u32Slp, sAppData.u16frame_count == 1 ? FALSE : TRUE, TRUE);
 	}
 }
 
@@ -245,7 +244,8 @@ static uint8 cbAppToCoNet_u8HwInt(uint32 u32DeviceId, uint32 u32ItemBitmap) {
 static void cbAppToCoNet_vHwEvent(uint32 u32DeviceId, uint32 u32ItemBitmap) {
 	switch (u32DeviceId) {
 	case E_AHI_DEVICE_TICK_TIMER:
-		vProcessADT7410(E_EVENT_TICK_TIMER);
+		//@tk we don't use TICK_TIMER for ADT7410 one-shot mode
+		//vProcessADT7410(E_EVENT_TICK_TIMER);
 		break;
 
 	case E_AHI_DEVICE_ANALOGUE:

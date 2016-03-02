@@ -492,6 +492,10 @@ void cbAppColdStart(bool_t bAfterAhiInit) {
 		ToCoNet_vDebugInit(&sSerStream);
 		ToCoNet_vDebugLevel(TOCONET_DEBUG_LEVEL);
 	}
+	// @tk センサー素子への電力供給は行わないので ここでOFF にする
+	// LED を瞬間的に光らせるために 上のTRUE にしているコードはそのまま残す
+	// pin9-4-DO3 に LED の GND、VCC に抵抗2kΩを介して LED の入力に入れる
+	vPortSetSns(FALSE);     //@tk
 }
 
 /**

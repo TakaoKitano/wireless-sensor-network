@@ -26,7 +26,8 @@
 #ifdef SERIAL_DEBUG
 # include <serial.h>
 # include <fprintf.h>
-extern tsFILE sDebugStream;
+extern tsFILE sSerStream;
+tsFILE sDebugStream;
 #endif
 
 /****************************************************************************/
@@ -67,6 +68,9 @@ void vADT7410_Init(tsObjData_ADT7410 *pData, tsSnsObj *pSnsObj) {
 	pSnsObj->pvProcessSnsObj = (void*)vProcessSnsObj_ADT7410;
 
 	memset((void*)pData, 0, sizeof(tsObjData_ADT7410));
+#ifdef SERIAL_DEBUG
+	sDebugStream = sSerStream;
+#endif
 }
 
 void vADT7410_Final(tsObjData_ADT7410 *pData, tsSnsObj *pSnsObj) {
@@ -103,7 +107,7 @@ PUBLIC bool_t bADT7410reset( bool_t bMode16 )
 
 /****************************************************************************
  *
- * NAME: vHTSstartReadTemp
+ * NAME: vHTSstartRead
  *
  * DESCRIPTION:
  * Wrapper to start a read of the temperature sensor.
@@ -112,15 +116,19 @@ PUBLIC bool_t bADT7410reset( bool_t bMode16 )
  * void
  *
  ****************************************************************************/
-PUBLIC bool_t bADT7410startRead()
+PUBLIC bool_t bADT7410startRead(bool_t bMode16)
 {
 	bool_t bOk = TRUE;
+        uint8 u8confOneShotMode16 = 0xa0;       //      16bit mode
+        uint8 u8confOneShotMode13 = 0x20;       //      13bit mode
 
-	// start conversion (will take some ms according to bits accuracy)
-	//	レジスタ0x00を読み込む宣言
-	bOk &= bSMBusWrite(ADT7410_ADDRESS, 0x00, 0, NULL);
+        if( bMode16 == TRUE ){
+                bOk &= bSMBusWrite(ADT7410_ADDRESS, 0x03, 1, &u8confOneShotMode16 );
+        } else {
+                bOk &= bSMBusWrite(ADT7410_ADDRESS, 0x03, 1, &u8confOneShotMode13 );
+        }
 
-	return bOk;
+        return bOk;
 }
 
 /****************************************************************************
@@ -144,38 +152,39 @@ PUBLIC int16 i16ADT7410readResult( bool_t bMode16 )
 {
 	bool_t bOk = TRUE;
 	uint16 u16result;
-    int32 i32result;
-    float temp;
-    uint8 au8data[2];
+	int32 i32result;
+	float temp;
+	uint8 au8data[2];
 
-    bOk &= bSMBusSequentialRead(ADT7410_ADDRESS, 2, au8data);
-    if (bOk == FALSE) {
-    	i32result = SENSOR_TAG_DATA_ERROR;
-    }
+	//	レジスタ0x00を読み込む宣言
+	bOk &= bSMBusWrite(ADT7410_ADDRESS, 0x00, 0, NULL);
+	bOk &= bSMBusSequentialRead(ADT7410_ADDRESS, 2, au8data);
+	if (bOk == FALSE) {
+	    	i32result = SENSOR_TAG_DATA_ERROR;
+	}
 
 	u16result = ((au8data[0] << 8) | au8data[1]);	//	読み込んだ数値を代入
-    if( bMode16 == FALSE ){		//	13bitモード
-    	i32result = (int32)u16result >> 3;
-    	//	符号判定
-    	if(u16result & 0x8000 ){
-    		i32result -= 8192;
-    	}
-    	temp = (float)i32result/16.0;
-    }else{		//	16bitモード
-    	i32result = (int32)u16result;
-    	//	符号判定
-    	if(u16result & 0x8000){
-    		i32result -= 65536;
-    	}
-    	temp = (float)i32result/128.0;
-    }
-
+	if ( bMode16 == FALSE ) {		//	13bitモード
+	    	i32result = (int32)u16result >> 3;
+    		//	符号判定
+	    	if(u16result & 0x8000 ){
+    			i32result -= 8192;
+    		}
+    		temp = (float)i32result/16.0;
+	} else {		//	16bitモード
+    		i32result = (int32)u16result;
+    		//	符号判定
+    		if(u16result & 0x8000){
+    			i32result -= 65536;
+    		}
+    		temp = (float)i32result/128.0;
+	}
 
 #ifdef SERIAL_DEBUG
 vfPrintf(&sDebugStream, "\n\rADT7410 DATA %x", *((uint16*)au8data) );
 #endif
 
-    return (int16)(temp*100);
+	return (int16)(temp*100);
 }
 
 /****************************************************************************/
@@ -185,26 +194,6 @@ vfPrintf(&sDebugStream, "\n\rADT7410 DATA %x", *((uint16*)au8data) );
 PRIVATE void vProcessSnsObj_ADT7410(void *pvObj, teEvent eEvent) {
 	tsSnsObj *pSnsObj = (tsSnsObj *)pvObj;
 	tsObjData_ADT7410 *pObj = (tsObjData_ADT7410 *)pSnsObj->pvData;
-
-	// general process (independent from each state)
-	switch (eEvent) {
-		case E_EVENT_TICK_TIMER:
-			if (pObj->u8TickCount < 100) {
-				pObj->u8TickCount += pSnsObj->u8TickDelta;
-#ifdef SERIAL_DEBUG
-vfPrintf(&sDebugStream, "+");
-#endif
-			}
-			break;
-		case E_EVENT_START_UP:
-			pObj->u8TickCount = 100; // expire immediately
-#ifdef SERIAL_DEBUG
-vfPrintf(&sDebugStream, "\n\rADT7410 WAKEUP");
-#endif
-			break;
-		default:
-			break;
-	}
 
 	// state machine
 	switch(pSnsObj->u8State)
@@ -219,6 +208,9 @@ vfPrintf(&sDebugStream, "\n\rADT7410 WAKEUP");
 			break;
 
 		case E_ORDER_KICK:
+                        if (!bADT7410startRead(TRUE)) {
+                                vSnsObj_NewState(pSnsObj, E_SNSOBJ_STATE_COMPLETE);
+                        }
 			vSnsObj_NewState(pSnsObj, E_SNSOBJ_STATE_MEASURING);
 
 			#ifdef SERIAL_DEBUG
@@ -234,47 +226,14 @@ vfPrintf(&sDebugStream, "\n\rADT7410 WAKEUP");
 
 	case E_SNSOBJ_STATE_MEASURING:
 		switch (eEvent) {
-		case E_EVENT_NEW_STATE:
-			pObj->i16Result = SENSOR_TAG_DATA_ERROR;
-			pObj->u8TickWait = ADT7410_CONVTIME;
 
-			pObj->bBusy = TRUE;
-#ifdef ADT7410_ALWAYS_RESET
-			u8reset_flag = TRUE;
-			if (!bADT7410reset(TURE)) {
-				vSnsObj_NewState(pSnsObj, E_SNSOBJ_STATE_COMPLETE);
-			}
-#else
-			if (!bADT7410startRead()) { // kick I2C communication
-				vSnsObj_NewState(pSnsObj, E_SNSOBJ_STATE_COMPLETE);
-			}
-#endif
-			pObj->u8TickCount = 0;
+                case E_EVENT_START_UP:
+                        pObj->i16Result = i16ADT7410readResult(TRUE);
+                        vSnsObj_NewState(pSnsObj, E_SNSOBJ_STATE_COMPLETE);
 			break;
 
 		default:
 			break;
-		}
-
-		// wait until completion
-		if (pObj->u8TickCount > pObj->u8TickWait) {
-#ifdef ADT7410_ALWAYS_RESET
-			if (u8reset_flag) {
-				u8reset_flag = 0;
-				if (!bADT7410startRead()) {
-					vADT7410_new_state(pObj, E_SNSOBJ_STATE_COMPLETE);
-				}
-
-				pObj->u8TickCount = 0;
-				pObj->u8TickWait = ADT7410_CONVTIME;
-				break;
-			}
-#endif
-			pObj->i16Result = i16ADT7410readResult(FALSE);
-
-			// data arrival
-			pObj->bBusy = FALSE;
-			vSnsObj_NewState(pSnsObj, E_SNSOBJ_STATE_COMPLETE);
 		}
 		break;
 
