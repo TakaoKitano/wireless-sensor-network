@@ -230,7 +230,7 @@ void cbToCoNet_vRxEvent(tsRxDataApp *pRx) {
 		sAppData.u32LedCt = u32TickCount_ms;
 
 		// LED の点灯を行う
-		sAppData.u16LedDur_ct = 125;
+		sAppData.u16LedDur_ct = 50;     //@tk shorten the duration: used to be 125
 
 		// 基本情報
 		sRxPktInfo.u8lqi_1st = pRx->u8Lqi;

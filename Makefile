@@ -32,13 +32,13 @@
 #
 #############################################################################
 
-DIRS	= Parent Router EndDevice_Input EndDevice_Remote
+DIRS	= Parent Router EndDevice_Input
 
 TARGETS: clean all
 
 all: 
-	-for d in $(DIRS); do (cd $$d; $(MAKE) $(MFLAGS) TWE_CHIP_MODEL=JN5164 all; $(MAKE) $(MFLAGS) TWE_CHIP_MODEL=JN5148 all; ); done
+	-for d in $(DIRS); do (cd $$d; $(MAKE) $(MFLAGS) TWE_CHIP_MODEL=JN5164 all ); done
 
 clean: 
-	-for d in $(DIRS); do (cd $$d; $(MAKE) $(MFLAGS) TWE_CHIP_MODEL=JN5164 clean; $(MAKE) $(MFLAGS) TWE_CHIP_MODEL=JN5148 clean; ); done
+	-for d in $(DIRS); do (cd $$d; $(MAKE) $(MFLAGS) TWE_CHIP_MODEL=JN5164 clean); done
 

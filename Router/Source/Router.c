@@ -257,6 +257,7 @@ PUBLIC void cbToCoNet_vRxEvent(tsRxDataApp *pRx) {
 			pRx->u32SrcAddr, pRx->u8Len, // Actual payload byte: the network layer uses additional 4 bytes.
 			pRx->u8Seq, pRx->u8Lqi, pRx->u32Tick & 0xFFFF, pRx->bSecurePkt ? "Enc " : "");
 
+	sAppData.u32LedCt = u32TickCount_ms;	//@tk added to lighten the LED (pin20-17-BPS PORT_KIT_LED1 in Wks_MAC/SimpleTag_3/Common/Source/utils.h)
 	for (i = 0; i < pRx->u8Len; i++) {
 		if (i < 32) {
 			A_PUTCHAR((pRx->auData[i] >= 0x20 && pRx->auData[i] <= 0x7f) ?
@@ -437,7 +438,7 @@ PUBLIC void cbToCoNet_vHwEvent(uint32 u32DeviceId, uint32 u32ItemBitmap) {
 		vPortSet_TrueAsLo(PORT_KIT_LED2, u32TickCount_ms & 0x400);
 
 		// LED ON when receive
-		if (u32TickCount_ms - sAppData.u32LedCt < 300) {
+		if (u32TickCount_ms - sAppData.u32LedCt < 100) {	//@tk shorten the period: used to be 300
 			vPortSetLo(PORT_KIT_LED1);
 		} else {
 			vPortSetHi(PORT_KIT_LED1);
