@@ -48,10 +48,10 @@ extern "C" {
 #define UART_PORT			E_AHI_UART_0
 
 /* Specify the PAN ID and CHANNEL to be used by tags, readers and gateway */
-#define APP_TWELITE_ID		0x67720102
-#define APP_ID				0x67726305
+#define APP_TWELITE_ID		0x810149B3
+#define APP_ID			0x810149B3
 
-#define APP_NAME            "Samp_Monitor"
+#define APP_NAME            "TempMonitor"
 #define APP_TWELITE_CHANNEL	18
 #define CHANNEL				15
 
@@ -72,7 +72,7 @@ extern "C" {
 #elif CNFMST
 #define DEFAULT_SENSOR		0x35
 #else
-#define DEFAULT_SENSOR		0x10
+#define DEFAULT_SENSOR		0x32    // @tk 0x32:ADT7410(I2C temperature sensor) used to be 0x10 (analog input)
 #endif
 //#define CHMASK              ((1UL << CHANNEL) | (1UL << (CHANNEL+5)) | (1UL << (CHANNEL+10)))
 #define CHMASK              (1UL << CHANNEL)
@@ -91,7 +91,7 @@ extern "C" {
 #elif CNFMST
 #define DEFAULT_SLEEP_DUR_ms (500UL)
 #else
-#define DEFAULT_SLEEP_DUR_ms (5000UL)
+#define DEFAULT_SLEEP_DUR_ms (30000UL) // @tk 30 sec. (used to be 5 sec)
 #endif
 /**
  * 温度センサーの利用

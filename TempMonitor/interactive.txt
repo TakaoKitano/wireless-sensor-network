@@ -1,0 +1,25 @@
+# parent
+
+--- CONFIG/TempMonitor V1-05-5/SID=0x81012b38/LID=0x00 ---
+ a: set Application ID (0x810149b3)
+ i: set Device ID (--)
+ c: set Channels (15)
+ x: set Tx Power (3)
+ b: set UART baud (115200)
+ B: set UART option (8N1)
+ k: set Enc Key (0xA5A5A5A5)
+ o: set Option Bits (0x00020001) # 20000 for suppress the per-second output
+
+# EndDevice
+
+ a: set Application ID (0x810149b3)
+ i: set Device ID (--)
+ c: set Channels (15)
+ x: set Tx Power (13)
+ d: set Sleep Dur (30000)
+ w: set Sensor Wait Dur (30)
+ m: set Sensor Mode (0x32)
+ p: set Sensor Parameter (0)
+ P: set Sensor Parameter2 ( )
+ k: set Enc Key (0xA5A5A5A5)
+ o: set Option Bits (0x00000001) # or 0x00010000 for debug,  0x1 for using router
