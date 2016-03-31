@@ -1,3 +1,4 @@
 pushd ../Tools/ba-elf-ba2/bin
 export PATH=`pwd`:$PATH
 popd
+alias wireless="cd `pwd`"

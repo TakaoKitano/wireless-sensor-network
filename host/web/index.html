@@ -1,0 +1,85 @@
+<html>
+  <head>
+  <script type="text/javascript" src="jquery-2.1.4.js"></script>
+  <script type="text/javascript"
+          src="https://www.google.com/jsapi?autoload={
+            'modules':[{ 'name':'visualization', 'version':'1', 'packages':['corechart'] }] }">
+  </script>
+  <script type="text/javascript">
+  </script>
+  <script type="text/javascript">
+
+    var year;
+    var month;
+    var day;
+
+    var tempdata = [];
+    var tempobj = {};
+    var nodes = { "49B3":1, "F2B6":2, "F390":3 };
+
+    tempdata.push(["epoch", "49B3", "F2B6", "F390"]);
+    google.setOnLoadCallback(loadFiles);
+  
+    function loadFiles() {
+  	$.ajax({
+          type: "GET",
+          url: "twelog/temperature.json",
+          dataType: "json",
+          success: loadTemperature
+          });
+    }
+
+    function loadTemperature(array) {
+    //
+    // should be the array of array, the inner array format is:
+    // [
+    //   [0] 1459423312,  epoch
+    //   [1] "49B3",      nodename
+    //   [2] 7,           routes
+    //   [3] 102,         signal strength
+    //   [4] 17.4,        temperature
+    //   [5] 3330,        battery mV
+    //  ]
+    //
+    $.each(array, function( i, val) {
+        var epoch = Math.round((val[0] - array[0][0])/60.0);
+          if (typeof tempobj[epoch] === "undefined") {
+              tempobj[epoch] = [epoch, undefined, undefined, undefined];
+          } 
+          var nodename = val[1];
+          var index = nodes[nodename];
+          var te =  val[4];
+        
+          if (typeof tempobj[epoch][index] === "undefined") {
+            tempobj[epoch][index] = te;
+          } else {
+            tempobj[epoch][index] = (tempobj[epoch][index] + te) / 2;
+          }
+      });
+
+      $.each(tempobj, function(key, elm) {
+        tempdata.push([key, elm[1], elm[2], elm[3]]);
+      });
+      drawChart(tempdata);
+    }
+
+    function drawChart(tempdata) {
+
+        var data = google.visualization.arrayToDataTable(tempdata);
+        var options = {
+          title: 'wireless temperature sensor',
+          curveType: 'function',
+          legend: { position: 'bottom' }
+        };
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+        chart.draw(data, options);
+    }
+
+  </script>
+  </head>
+  <body>
+    <div id="curve_chart" style="width: 1200px; height: 800px"></div>
+    <hr/>
+    <div id="rawdata"></div>
+  </body>
+</html>

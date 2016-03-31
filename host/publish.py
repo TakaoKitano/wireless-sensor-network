@@ -27,20 +27,24 @@ def _reconnect(message):
 def _disconnect(message):
   print("DISCONNECTED")
 
-def publish(data):
+def pubnub_publish(data):
   pubnub = Pubnub(publish_key=PUBLISH_KEY, subscribe_key=SUBSCRIBE_KEY)
-  pubnub.publish('mytest', data, callback=_callback, error=_error)
+  pubnub.publish('khaus', data, callback=_callback, error=_error)
+
+def dweet_publish(data):
+  for key in data:
+    param = 'temperature=' + str(data[key]['temperature'])
+    print(param)  
+    requests.get('http://dweet.io/dweet/for/khaus_' + key + '?' + param)
 
 def main():
   FILE_PATH = "/var/tmp/twelog/current.json"
   file = open(FILE_PATH, "r")
   with file:
     data = json.load(file)
-  for key in data:
-    data[key][5] = int(data[key][5] / 10) / 10
-    requests.get('http://dweet.io/dweet/for/' + key + '?v=' + str(data[key][5]))
   print(data)  
-  publish(data)
+  pubnub_publish(data)
+  dweet_publish(data)
 
 if __name__ == '__main__':
   main()
