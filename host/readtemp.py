@@ -111,7 +111,7 @@ def readtemp():
     ed = m.group(3)[4:]
     id = m.group(4)
     ba = int(m.group(5))
-    te = round(int(m.group(6))/100, 1)
+    te = round(int(m.group(6))/100, 2)
     return {'rc':rc, 'lq':lq, 'ed':ed, 'id':id, 'ba':ba, 'te':te}
   else:
     print("read invalid line")
@@ -150,7 +150,7 @@ def main():
   secondary_log_dump_at  = int(time.time())
 
   initialize()
-  load_log_file()
+  logs = load_log_file()
 
   while True:
     values = readtemp()
@@ -225,6 +225,9 @@ def main():
         recentenough = i
         break
     del logs[0:recentenough]
+    # adjust the indexes in current
+    for nodename in current:
+      current[nodename] = current[nodename] - recentenough
     with open(os.path.join(PRIMARY_LOG_DIR, LOG_FILENAME), "w") as f:
       json.dump(logs, f, indent=2)
 
