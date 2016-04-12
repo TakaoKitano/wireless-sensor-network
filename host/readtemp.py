@@ -9,15 +9,19 @@ import time
 import os
 import sys
 import json
+import shutil
 from collections import OrderedDict
 
 PRIMARY_LOG_DIR = "/var/tmp/twelog/"
-LOG_FILENAME = "temperature.json"
+LOG_FILEPATH = os.path.join(PRIMARY_LOG_DIR, "temperature.json")
+LOG_TMP_FILEPATH = os.path.join(PRIMARY_LOG_DIR, "temperature.tmp")
+AT_A_GLANCE_FILEPATH = os.path.join(PRIMARY_LOG_DIR, "current.json")
+AT_A_GLANCE_TMP_FILEPATH = os.path.join(PRIMARY_LOG_DIR, "current.tmp")
 PRIMARY_LOG_PERIOD = 3600 * 6
-AT_A_GLANCE_FILENAME = "current.json"
 SECONDARY_LOG_DIR = "/var/www/twetemp/logs/"
 SECONDARY_LOG_DUMP_INTERVAL = 3600    # typical 1hour=3600 
 LOG_DUMP_DURATION = 600               # resolution 10minutes=600
+secondary_log_dump_at  = 0
 
 #
 # initialize 
@@ -35,7 +39,7 @@ def load_log_file():
   # read from the primary log files
   #
   try:
-    with open(os.path.join(PRIMARY_LOG_DIR, LOG_FILENAME)) as f:
+    with open(os.path.join(PRIMARY_LOG_DIR, LOG_FILEPATH)) as f:
       return json.load(f)
   except:
     print("no log file")
@@ -70,9 +74,9 @@ def update_secondary_log_files(logs):
       dict[nodename][key] = [temperature]
   #####
     
+  filename = ""
   for nodename in dict:
     for key, values in dict[nodename].items():
-      filename = ""
       f = None
       name = time.strftime("%Y-%m-%d", time.localtime(key))
       if name != filename:
@@ -144,9 +148,100 @@ def readtemp():
 #     ... (there are a dozen of nodes)
 # }
 #
+
+def processvalue(current, logs, values):
+  global secondary_log_dump_at
+  # rc: routing device
+  # lq: link quality(signal strength) int
+  # ed: nodename string
+  # id: deviceid string (not used, though)
+  # ba: battery int (mV)
+  # te: temperature float
+  now = int(time.time())
+  flag = 0 
+  nodename = values['ed']
+  if values['rc'] == '80000000':           # parent
+    rc = 1
+  elif values['rc'] == '8100D797':         # router1
+    rc = 2
+  elif values['rc'] == '8100978C':         # router2
+    rc = 4
+  else:
+    rc = 0
+  signal = values['lq']
+
+  route = rc
+  if nodename in current:
+    index = current[nodename]
+    element = logs[index]
+    if (element[0] > (now - 2)) and not (rc & element[2]):
+      route |= element[2]       # merge route
+      if element[3] > signal:   # retain the maximum signal strength
+        signal = element[3]
+      flag = element[6]
+    else:
+      logs.append([])
+      index = len(logs) - 1
+  else:
+    logs.append([])
+    index = len(logs) - 1
+
+  current[nodename] = index
+  logs[index] = [now, nodename, route, signal, values['te'], values['ba'], flag]
+
+  #
+  # update secondary log files 
+  #
+  if now > (secondary_log_dump_at + SECONDARY_LOG_DUMP_INTERVAL):
+    secondary_log_dump_at  = now
+    update_secondary_log_files(logs)
+
+  #
+  # update at_a_glance file 
+  #
+  dict = {}
+  for nodename, index in current.items():
+    element = logs[index]
+    dict[nodename] = { 'datetime': time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(element[0])),
+                       'time': element[0],
+                       'route': element[2],
+                       'signal': element[3],
+                       'temperature': element[4],
+                       'battery': element[5] }
+  #
+  # dump to a temporary file, then move to the target file
+  # (to prevent the chance to read imcomplete content)
+  #
+  with open(AT_A_GLANCE_TMP_FILEPATH, "w") as f:
+    json.dump(dict, f, indent=2)
+  shutil.move(AT_A_GLANCE_TMP_FILEPATH, AT_A_GLANCE_FILEPATH)
+
+  #
+  # update the primary log files
+  #
+
+  # delete old entries
+  recentenough = 0
+  for i, element in enumerate(logs):
+    if element[0] > (now - PRIMARY_LOG_PERIOD):
+      recentenough = i
+      break
+  del logs[0:recentenough]
+  # adjust the indexes in current
+  for nodename in current:
+    current[nodename] = current[nodename] - recentenough
+
+  #
+  # dump to a temporary file, then move to the target file
+  # (to prevent the chance to read imcomplete content)
+  #
+  with open(LOG_TMP_FILEPATH, "w") as f:
+    json.dump(logs, f, indent=2)
+  shutil.move(LOG_TMP_FILEPATH, LOG_FILEPATH)
+
 def main():  
+  global secondary_log_dump_at
   current = {}
-  logs = []
   secondary_log_dump_at  = int(time.time())
 
   initialize()
@@ -154,82 +249,8 @@ def main():
 
   while True:
     values = readtemp()
-    if not values:
-      continue
-
-    # rc: routing device
-    # lq: link quality(signal strength) int
-    # ed: nodename string
-    # id: deviceid string (not used, though)
-    # ba: battery int (mV)
-    # te: temperature float
-    now = int(time.time())
-    flag = 0 
-    nodename = values['ed']
-    if values['rc'] == '80000000':           # parent
-      rc = 1
-    elif values['rc'] == '8100D797':         # router1
-      rc = 2
-    elif values['rc'] == '8100978C':         # router2
-      rc = 4
-    else:
-      rc = 0
-    signal = values['lq']
-
-    route = rc
-    if nodename in current:
-      index = current[nodename]
-      element = logs[index]
-      if (element[0] > (now - 2)) and not (rc & element[2]):
-        route |= element[2]       # merge route
-        if element[3] > signal:   # retain the maximum signal strength
-          signal = element[3]
-        flag = element[6]
-      else:
-        logs.append([])
-        index = len(logs) - 1
-    else:
-      logs.append([])
-      index = len(logs) - 1
-    current[nodename] = index
-    logs[index] = [now, nodename, route, signal, values['te'], values['ba'], flag]
-      
-    #
-    # update secondary log files 
-    #
-    if now > (secondary_log_dump_at + SECONDARY_LOG_DUMP_INTERVAL):
-      secondary_log_dump_at  = now
-      update_secondary_log_files(logs)
-
-    #
-    # update at_a_glance file 
-    #
-    dict = {}
-    for nodename, index in current.items():
-      element = logs[index]
-      dict[nodename] = { 'datetime': time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(element[0])),
-                         'time': element[0],
-                         'route': element[2],
-                         'signal': element[3],
-                         'temperature': element[4],
-                         'battery': element[5] }
-    with open(os.path.join(PRIMARY_LOG_DIR, AT_A_GLANCE_FILENAME), "w") as f:
-      json.dump(dict, f, indent=2)
-
-    #
-    # update the primary log files
-    #
-    recentenough = 0
-    for i, element in enumerate(logs):
-      if element[0] > (now - PRIMARY_LOG_PERIOD):
-        recentenough = i
-        break
-    del logs[0:recentenough]
-    # adjust the indexes in current
-    for nodename in current:
-      current[nodename] = current[nodename] - recentenough
-    with open(os.path.join(PRIMARY_LOG_DIR, LOG_FILENAME), "w") as f:
-      json.dump(logs, f, indent=2)
+    if values:
+      processvalue(current, logs, values)
 
 if __name__ == '__main__':
   main()

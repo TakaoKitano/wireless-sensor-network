@@ -32,10 +32,15 @@ def pubnub_publish(data):
   pubnub.publish('khaus', data, callback=_callback, error=_error)
 
 def dweet_publish(data):
-  for key in data:
-    param = 'temperature=' + str(data[key]['temperature'])
+  for node in data:
+    val = data[node]
+    param = '?'.join(['temperature=' + str(val['temperature']),
+                     '&datetime=' + str(val['datetime']), 
+                     '&battery=' + str(val['battery']),
+                     '&signal=' + str(val['signal']),
+                     '&route=' + str(val['route'])])
     print(param)  
-    requests.get('http://dweet.io/dweet/for/khaus_' + key + '?' + param)
+    requests.get('http://dweet.io/dweet/for/khaus_' + node +  param)
 
 def main():
   FILE_PATH = "/var/tmp/twelog/current.json"
