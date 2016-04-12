@@ -65,7 +65,7 @@ def update_secondary_log_files(logs):
       element[6] = 1
       key = int(epoch/LOG_DUMP_DURATION)*LOG_DUMP_DURATION
       if nodename in dict:
-        if time in dict[nodename]:
+        if key in dict[nodename]:
           dict[nodename][key].append(temperature)
           continue
       else:
