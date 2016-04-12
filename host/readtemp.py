@@ -74,10 +74,10 @@ def update_secondary_log_files(logs):
       dict[nodename][key] = [temperature]
   #####
     
-  filename = ""
   for nodename in dict:
+    filename = ""
+    f = None
     for key, values in dict[nodename].items():
-      f = None
       name = time.strftime("%Y-%m-%d", time.localtime(key))
       if name != filename:
         filename = name
@@ -242,7 +242,7 @@ def processvalue(current, logs, values):
 def main():  
   global secondary_log_dump_at
   current = {}
-  secondary_log_dump_at  = int(time.time())
+  secondary_log_dump_at  = int(time.time()) - 3599
 
   initialize()
   logs = load_log_file()
