@@ -1,0 +1,102 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="c3/c3.css">
+</head>
+<body>
+  <div id="chart"></div>
+
+  <script src="d3.v3.min.js" charset="utf-8"></script>
+  <script src="c3/c3.js"></script>
+  <script type="text/javascript" src="jquery-2.1.4.js"></script>
+  <script>
+    var nodes = { 
+                  "F2B6":{"index":1, "name":"F2B6", "adjustment":0.0}, 
+                  "DFA5":{"index":2, "name":"DFA5", "adjustment":0.0},  
+                  "B0E9":{"index":3, "name":"B0E9", "adjustment":0.0},
+                  "EEDB":{"index":4, "name":"EEDB", "adjustment":-0.00},
+                  "B356":{"index":5, "name":"B356", "adjustment":0.00},
+                  "F390":{"index":6, "name":"F390", "adjustment":0.0},
+                  "1618":{"index":7, "name":"1618", "adjustment":0.0},
+                  "14AF":{"index":8, "name":"14AF", "adjustment":0.0},
+                  "1562":{"index":9, "name":"1562", "adjustment":0.0},
+                  "15AC":{"index":10, "name":"15AC", "adjustment":0.0},
+                  "14A8":{"index":11, "name":"14A8", "adjustment":0.0},
+                  "1727":{"index":12, "name":"1727", "adjustment":0.0},
+                  //"49B3":{"index":13, "name":"49B3", "adjustment":0.00}, 
+                };
+
+    function loadTemperature(data) {
+      console.log("loadTemperature");
+      //
+      // data should be an object like this:
+      // {
+      //   1459423312:           // epoch int (seconds since 1970/1/1),
+      //   { 
+      //     "49B3":{             //  nodename string
+      //       "time": 1461215944,
+      //       "temperature": 19.56,
+      //       "datetime": "2016-04-21 14:19:04",
+      //       "signal": 132,
+      //       "route": 7,
+      //       "battery": 3340
+      //       "route"2: 7         //  routes int
+      //      },
+      //      ...
+      //    }
+      // }
+      //
+      // we are going to convert the data to tempdata format
+      //
+      // minutes = [0,1,...]
+      // tempdata = {
+      //   nodename:[temperature1, temperature2,...]
+      //
+      
+      var minutes = [];
+      var tempdata = {};
+      $.each(nodes, function(nodename) {
+        tempdata[nodename] = [nodename];	// first element is nodename string
+      });
+
+      $.each(data, function(key, obj) {
+        minutes.push(key);
+        $.each(nodes, function(nodename) {
+          tempdata[nodename].push(null);
+        });
+        $.each(obj, function(nodename, values) {
+          tempdata[nodename][tempdata[nodename].length - 1] = (values['temperature']);
+        });
+      });
+
+      var columns = (function() {
+        var d = [];
+        $.each(nodes, function(nodename) {
+          d.push(tempdata[nodename]);
+        });
+        return d;
+      })();
+
+      var chart = c3.generate({
+        bindto: '#chart',
+        data: {
+          columns: columns
+        },
+        tooltip: {show: false},
+        point: {show: false}
+      });
+    }
+
+    $.ajax({
+        type: "GET",
+        url: "twelog/temperature.json",
+        dataType: "json",
+        success: function(data, dataType) {
+           loadTemperature(data);
+        },
+        error: function(XMLHttpRequest, textStatus, errorThrown) {
+           console.log("failed to load temperature.json:" + textStatus);
+        }
+    });
+  </script>
+</body>
+</html>
