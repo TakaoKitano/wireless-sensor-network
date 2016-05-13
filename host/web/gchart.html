@@ -1,0 +1,185 @@
+<html>
+  <head>
+  <script type="text/javascript" src="jquery-2.1.4.js"></script>
+  <script type="text/javascript"
+          src="https://www.google.com/jsapi?autoload={
+            'modules':[{ 'name':'visualization', 'version':'1', 'packages':['corechart'] }] }">
+  </script>
+  <script type="text/javascript">
+
+    function drawChart(tempdata) {
+      console.log("drawChart");
+      var data = google.visualization.arrayToDataTable(tempdata);
+      var options = {
+        title: 'wireless temperature sensor',
+        curveType: 'function',
+        legend: { position: 'right' },
+        vAxis: {title: 'temperature'}
+      };
+      var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+      chart.draw(data, options);
+    }
+
+    function loadCurrent(data) {
+      console.log("loadCurrent");
+      $.each(data, function(nodename, node) {
+        var s = node['temperature'] + ',\t' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'];
+        $("#"+nodename).text(s);
+      });
+    }
+
+    function loadTemperature(data) {
+      console.log("loadTemperature");
+      //
+      // tempdata is an array of array
+      // the first array contains labels
+      //
+      var tempdata = (function() {
+        var labels = ["time"];
+        $.each(nodes, function(nodename, node) {
+          labels[node['index']]=node["name"];
+        });
+        return [labels];
+      })();
+
+      //
+      // data should be an array of array, the inner array format is:
+      // [
+      //   0: 1459423312,  epoch int (seconds since 1970/1/1)
+      //   1: "49B3",      nodename string
+      //   2: 7,           routes int
+      //   3: 102,         signal strength int
+      //   4: 17.4,        temperature float
+      //   5: 3330,        battery mV int
+      // ]
+      //
+      // data should be an object like this:
+      // {
+      //   1459423312:           // epoch int (seconds since 1970/1/1),
+      //   { 
+      //     "49B3":{             //  nodename string
+      //       "time": 1461215944,
+      //       "temperature": 19.56,
+      //       "datetime": "2016-04-21 14:19:04",
+      //       "signal": 132,
+      //       "route": 7,
+      //       "battery": 3340
+      //       "route"2: 7         //  routes int
+      //      },
+      //      ...
+      //    }
+      // }
+      //
+      // we are going to convert the data to tempdata format
+      // 
+      // [
+      //   ["time", nodename0, nodename1, ...], // label
+      //   [minute, node0 temerature, node1 temperature,...],
+      //   [minute, node0 temerature, node1 temperature,...],
+      //   ...
+      // ]
+      // where the first digit means minutes since 
+      // the first entry of temperature.json
+      // as temperature.json holds up to 24 hours of logs,
+      // we will have 1440 entries in tempobj
+      //
+      var first = 0;
+      $.each(data, function(key, obj) {
+        var latest = tempdata[tempdata.length-1];
+        if (!first) {
+          first = key / 60;
+        }
+        var minute = (key / 60) - first;
+        if (latest[0] != minute) {
+          //
+          // new array filled with undefined
+          //
+          var d = [minute];
+          $.each(nodes, function() {
+            d.push(undefined);
+          });
+          tempdata.push(d);
+          latest = tempdata[tempdata.length-1];
+        } 
+	$.each(obj, function(nodename, values) {
+          if (nodes.hasOwnProperty(nodename)){
+	    var index = nodes[nodename]["index"];
+	    var te =  values['temperature'] + nodes[nodename]["adjustment"];
+	    latest[index] = te;
+          }
+	});
+      });
+
+      //
+      // finally draw the chart
+      //
+      drawChart(tempdata);
+    }
+  </script>
+  </head>
+  <body>
+    <a href="c3.html">goto the c3 page</a>
+    <div id="curve_chart" style="width: 1200px; height: 800px"></div>
+    <hr/>
+    <div id="current"></div>
+    <table>
+      <tr><td>F2B6</td><td id="F2B6"></td></tr>
+      <tr><td>DFA5</td><td id="DFA5"></td></tr>
+      <tr><td>B0E9</td><td id="B0E9"></td></tr>
+      <tr><td>EEDB</td><td id="EEDB"></td></tr>
+      <tr><td>B356</td><td id="B356"></td></tr>
+      <tr><td>F390</td><td id="F390"></td></tr>
+      <tr><td>1618</td><td id="1618"></td></tr>
+      <tr><td>14AF</td><td id="14AF"></td></tr>
+      <tr><td>1562</td><td id="1562"></td></tr>
+      <tr><td>15AC</td><td id="15AC"></td></tr>
+      <tr><td>14A8</td><td id="14A8"></td></tr>
+      <tr><td>1727</td><td id="1727"></td></tr>
+    </table>
+  </body>
+  <script type="text/javascript">
+    console.log("script starts");
+    var nodes = { 
+                  "F2B6":{"index":1, "name":"F2B6", "adjustment":0.0}, 
+                  "DFA5":{"index":2, "name":"DFA5", "adjustment":0.00},  
+                  "B0E9":{"index":3, "name":"B0E9", "adjustment":0.00},
+                  "EEDB":{"index":4, "name":"EEDB", "adjustment":-0.00},
+                  "B356":{"index":5, "name":"B356", "adjustment":0.00},
+                  "F390":{"index":6, "name":"F390", "adjustment":0.0},
+                  "1618":{"index":7, "name":"1618", "adjustment":0.0},
+                  "14AF":{"index":8, "name":"14AF", "adjustment":-0.0},
+                  "1562":{"index":9, "name":"1562", "adjustment":0.0},
+                  "15AC":{"index":10, "name":"15AC", "adjustment":0.0},
+                  "14A8":{"index":11, "name":"14A8", "adjustment":0.0},
+                  "1727":{"index":12, "name":"1727", "adjustment":0.0},
+                  //"49B3":{"index":13, "name":"49B3", "adjustment":0.00}, 
+                };
+    google.setOnLoadCallback(
+      function() {
+        console.log("loadFile");
+        $.ajax({
+            type: "GET",
+            url: "twelog/current.json",
+            dataType: "json",
+            success: function(data, dataType) {
+               loadCurrent(data);
+            },
+            error: function(XMLHttpRequest, textStatus, errorThrown) {
+               console.log("failed to load current.json:" + textStatus);
+            }
+        });
+        $.ajax({
+            type: "GET",
+            url: "twelog/temperature.json",
+            dataType: "json",
+            success: function(data, dataType) {
+               loadTemperature(data);
+            },
+            error: function(XMLHttpRequest, textStatus, errorThrown) {
+               console.log("failed to load temperature.json:" + textStatus);
+            }
+        });
+      }
+    );
+  </script>
+</html>
