@@ -173,7 +173,7 @@ def main():
     os.makedirs(LOG_DIR, exist_ok=True)
     os.makedirs(SECONDARY_LOG_DIR, exist_ok=True)
     logs = load_log()
-    secondary_log_at = int(time.time()/SECONDARY_LOG_INTERVAL) - 1
+    secondary_log_at = int(time.time()/SECONDARY_LOG_INTERVAL)
 
     while True:
         values = readtemp()

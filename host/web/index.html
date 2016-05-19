@@ -1,14 +1,25 @@
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="c3/c3.css">
-</head>
-<body>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>wireless temperature sensors</title>
   <script src="d3.v3.min.js" charset="utf-8"></script>
   <script src="c3/c3.js"></script>
   <script type="text/javascript" src="jquery-2.1.4.js"></script>
+  <script type="text/javascript" src="jquery-ui.js"></script>
+  <link rel="stylesheet" type="text/css" href="c3/c3.css">
+  <link rel="stylesheet" href="jquery-ui.css">
+  <style type="text/css">
+
+    p { color: #000000; }
+    p.red { color: #ff0000; }
+    p.black { color: #000000; }
+
+</style>
+</head>
+<body>
   <script type="text/javascript">
-    function loadTemperature(data) {
-      console.log("loadTemperature2");
+
+    function displayTemperature(data) {
       //
       // data should be an object like this:
       // {
@@ -65,7 +76,7 @@
           x: 'time'
         },
         size: {
-          height: 640
+          height: 480
         },
         axis: {
           x: {
@@ -83,12 +94,44 @@
       });
     }
 
-    function loadCurrent(data) {
+    var loadTemperature = function(url) {
+      $.ajax({
+        type: "GET",
+        url: url,
+        dataType: "json",
+        success: function(data, dataType) {
+           displayTemperature(data);
+        },
+        error: function(XMLHttpRequest, textStatus, errorThrown) {
+           console.log("failed to load temperature.json:" + textStatus);
+        }
+      });
+    };
+
+    var loadCurrent = function() {
+      $.ajax({
+        type: "GET",
+        url: "twelog/current.json",
+        dataType: "json",
+        success: function(data, dataType) {
+           displayCurrent(data);
+        },
+        error: function(XMLHttpRequest, textStatus, errorThrown) {
+           console.log("failed to load current.json:" + textStatus);
+        }
+      });
+    };
+
+    function displayCurrent(data) {
       console.log("loadCurrent");
       $.each(data, function(nodename, node) {
-        var s = '<p><font size="6">' + nodes[nodename]['name'] + '   ' + node['temperature'] + '</font></p>';
+        var s = '<p><font size="5">' + nodes[nodename]['name'] + '   ' + node['temperature'] + '</font></p>';
         $("#"+nodename).append(s);
-        s = '<small>' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</small>';
+        if ( (node['time'] * 1000) + 1000 * 120 < (new Date).getTime()) {
+	    s = '<p class="red"><small>' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</small></p>';
+        } else {
+	    s = '<p class="black"><font size="1">' + nodename + ':' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</font></p>';
+        }
         $("#"+nodename).append(s);
       });
     }
@@ -102,9 +145,9 @@
         <td id="F390"></td>
       </tr>
       <tr>
+        <td id="B356"></td>
         <td id="EEDB"></td>
         <td id="B0E9"></td>
-        <td id="B356"></td>
       </tr>
       <tr>
         <td id="14A8"></td>
@@ -118,7 +161,7 @@
       </tr>
   </table>
   <div id="chart"></div>
-  <a href="gchart.html">google chart</a>
+  <p>Date: <input type="text" id="datepicker"></p>
   <script>
     var nodes = { 
                   "F2B6":{"index":1, "name":"3Fアトリウム"}, 
@@ -135,28 +178,14 @@
                   "1562":{"index":12, "name":"EXT倉庫床下"},
                 };
 
-    $.ajax({
-      type: "GET",
-      url: "twelog/temperature.json",
-      dataType: "json",
-      success: function(data, dataType) {
-         loadTemperature(data);
-      },
-      error: function(XMLHttpRequest, textStatus, errorThrown) {
-         console.log("failed to load temperature.json:" + textStatus);
-      }
-    });
+    loadTemperature("twelog/temperature.json");
+    loadCurrent();
 
-    $.ajax({
-      type: "GET",
-      url: "twelog/current.json",
-      dataType: "json",
-      success: function(data, dataType) {
-         loadCurrent(data);
-      },
-      error: function(XMLHttpRequest, textStatus, errorThrown) {
-         console.log("failed to load current.json:" + textStatus);
-      }
+    $( "#datepicker" ).datepicker({
+          dateFormat: "yy-mm-dd",
+          onSelect: function(dateText) {
+            loadTemperature("logs/" + dateText + ".json");
+          }
     });
   </script>
 </body>
