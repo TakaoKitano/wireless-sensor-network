@@ -68,7 +68,7 @@
 	  });
           return rows;
       };
-
+      var sFormat = "%H:%M";
       var chart = c3.generate({
         bindto: '#chart',
         data: {
@@ -83,12 +83,23 @@
             localtime:true,
             type:'timeseries',
             tick:{
-              format: '%Y-%m-%d %H:%M',
-              fit: true,
+              format: sFormat,
+              fit: false,
               centered: true
             }
+          },
+          y: {
+            label: "temperature"
           }
         },
+        grid: {
+          y: {
+	    show: true
+	  },
+          x: {
+	    show: true
+	  }
+	},
         tooltip: {show: false},
         point: {show: false}
       });
