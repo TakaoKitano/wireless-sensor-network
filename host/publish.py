@@ -9,8 +9,10 @@ import json
 from pubnub import Pubnub
 import requests
 
-PUBLISH_KEY = 'pub-c-8d9c3522-0a18-4572-b479-83539166cd25'
-SUBSCRIBE_KEY = 'sub-c-5aa96a32-f307-11e5-8180-0619f8945a4f'
+import properties
+
+PUBLISH_KEY = properties.PubnubKeys['PUBLISH_KEY']
+SUBSCRIBE_KEY = properties.PubnubKeys['SUBSCRIBE_KEY']
 
 def _callback(message):
   print(message)
