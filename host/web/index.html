@@ -6,18 +6,19 @@
   <script src="c3/c3.js"></script>
   <script type="text/javascript" src="jquery-2.1.4.js"></script>
   <script type="text/javascript" src="jquery-ui.js"></script>
+  <script type="text/javascript" src="jquery.mtz.monthpicker.js"></script>
   <link rel="stylesheet" type="text/css" href="c3/c3.css">
   <link rel="stylesheet" href="jquery-ui.css">
   <style type="text/css">
-
     p { color: #000000; }
     p.red { color: #ff0000; }
     p.black { color: #000000; }
-
 </style>
 </head>
 <body>
   <script type="text/javascript">
+
+    var gFormat = "%H:%M";
 
     function displayTemperature(data) {
       //
@@ -68,7 +69,7 @@
 	  });
           return rows;
       };
-      var sFormat = "%H:%M";
+      $('#header').text(gHeader);
       var chart = c3.generate({
         bindto: '#chart',
         data: {
@@ -83,7 +84,7 @@
             localtime:true,
             type:'timeseries',
             tick:{
-              format: sFormat,
+              format: gFormat,
               fit: false,
               centered: true
             }
@@ -115,6 +116,7 @@
         },
         error: function(XMLHttpRequest, textStatus, errorThrown) {
            console.log("failed to load temperature.json:" + textStatus);
+           $('#header').text(url + ':' + textStatus);
         }
       });
     };
@@ -134,21 +136,40 @@
     };
 
     function displayCurrent(data) {
-      console.log("loadCurrent");
+      console.log("displayCurrent");
       $.each(data, function(nodename, node) {
         var s = '<p><font size="5">' + nodes[nodename]['name'] + '   ' + node['temperature'] + '</font></p>';
-        $("#"+nodename).append(s);
         if ( (node['time'] * 1000) + 1000 * 120 < (new Date).getTime()) {
-	    s = '<p class="red"><small>' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</small></p>';
+	    s += '<p class="red"><small>' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</small></p>';
         } else {
-	    s = '<p class="black"><font size="1">' + nodename + ':' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</font></p>';
+	    s += '<p class="black"><font size="1">' + nodename + ':' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</font></p>';
         }
-        $("#"+nodename).append(s);
+        $("#"+nodename).html(s);
       });
     }
   </script>
 
-  <div id="current"></div>
+
+  <h3 id="header">khaus temperature</h3>
+  <div id="chart"></div>
+  <p>
+  choose date: <input type="text" id="datepicker"> 
+    OR
+  choose month: <input type="text" id="monthpicker">
+    OR
+  choose year: <select name="year" id="yearpicker" >
+        <option value=""></option>
+        <option value="2016">2016</option>
+        <option value="2017">2017</option>
+        <option value="2018">2018</option>
+        <option value="2019">2019</option>
+        <option value="2020">2020</option>
+      </select>
+  <br/>
+    OR <input type="button" value="past 24 hours" id="refresh">
+  </p>
+  latest temperature
+  <input type="button" value="refresh" id="refreshCurrent"/>
   <table border="1">
       <tr>
         <td id="DFA5"></td>
@@ -171,8 +192,6 @@
         <td id="1562"></td>
       </tr>
   </table>
-  <div id="chart"></div>
-  <p>Date: <input type="text" id="datepicker"></p>
   <script>
     var nodes = { 
                   "F2B6":{"index":1, "name":"3Fアトリウム"}, 
@@ -189,15 +208,56 @@
                   "1562":{"index":12, "name":"EXT倉庫床下"},
                 };
 
+    var gHeader = "khaus temperature: past 24 hours"
     loadTemperature("twelog/temperature.json");
     loadCurrent();
 
     $( "#datepicker" ).datepicker({
-          dateFormat: "yy-mm-dd",
-          onSelect: function(dateText) {
+        dateFormat: "yy-mm-dd",
+        onSelect: function(dateText) {
+            gFormat = "%H:%M";
+            gHeader = "khaus temperature: " + dateText;
             loadTemperature("logs/" + dateText + ".json");
-          }
+        }
     });
+
+    var gYear = 2016
+    var options = {
+        pattern:'yyyy-mm',
+        startYear:'2016'
+    };
+    $('#monthpicker').monthpicker(options).bind('monthpicker-click-month', function (e, month) {
+        var s = "0" + month;
+        s = s.substr(s.length-2)
+        var monthText = gYear + "-" + s;
+
+        gFormat = "%m/%d";
+        gHeader = "khaus temperature: " + monthText;
+        loadTemperature("logs/" + monthText + ".json");
+    }).bind('monthpicker-change-year', function(e, year) {
+        gYear = year;
+    });
+
+    $('#yearpicker').on('change', function() {
+        var year = $("#yearpicker").val();
+        gFormat = "%m/%d";
+        gHeader = "khaus temperature: " + year;
+        loadTemperature("logs/" + year + ".json");
+        $("#yearpicker").val(null);
+    });
+
+    $('#refresh').on('click', function() {
+        gFormat = "%H:%M";
+        gHeader = "khaus temperature: past 24 hours";
+        loadTemperature("twelog/temperature.json");
+        loadCurrent();
+    });
+
+    $('#refreshCurrent').on('click', function() {
+        loadCurrent();
+    });
+
   </script>
+
 </body>
 </html>
