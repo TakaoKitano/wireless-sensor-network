@@ -56,10 +56,20 @@ def load_log():
     # read from the primary log files
     #
     try:
-        with open(os.path.join(LOG_DIR, LOG_FILEPATH)) as f:
+        with open(LOG_FILEPATH) as f:
+            print("reading data from", LOG_FILEPATH)
             return json.load(f, object_pairs_hook=OrderedDict)
     except:
-        print("no log file")
+        try:
+            filepath = os.path.join(SECONDARY_LOG_DIR, datetime.date.today().strftime("%Y-%m-%d.json"))
+            with open(filepath) as f:
+                print("reading data from", filepath)
+                return json.load(f, object_pairs_hook=OrderedDict)
+        except:
+            print("no log file")
+    #
+    # last resort, null ordered dict
+    #
     return OrderedDict()
 
 #
