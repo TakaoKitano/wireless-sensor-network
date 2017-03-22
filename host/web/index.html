@@ -138,7 +138,7 @@
     function displayCurrent(data) {
       console.log("displayCurrent");
       $.each(data, function(nodename, node) {
-        var s = '<p><font size="5">' + nodes[nodename]['name'] + '   ' + node['temperature'] + '</font></p>';
+        var s = '<p><font size="2">' + nodes[nodename]['name'] + '   ' + node['temperature'] + '</font></p>';
         if ( (node['time'] * 1000) + 1000 * 120 < (new Date).getTime()) {
 	    s += '<p class="red"><small>' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</small></p>';
         } else {
