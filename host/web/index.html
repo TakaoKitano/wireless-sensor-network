@@ -48,25 +48,31 @@
       // ]
       //
       var get_rows = function(data) {
-	  var rows = []; 
-	  rows.push( (function() {
-	    var a = ['time'];
-	    $.each(nodes, function(nodename) {
-	      a[nodes[nodename]['index']] = nodes[nodename]['name'];
-	    });
-	    return a;
-	  })());
+          var rows = []; 
+          rows.push( (function() {
+            var a = ['time'];
+            $.each(nodes, function(nodename) {
+              if (nodes[nodename]) {
+                a[nodes[nodename]['index']] = nodes[nodename]['name'];
+              }
+            });
+            return a;
+          })());
 
-	  $.each(data, function(key, obj) {
-	    var a = [new Date(parseInt(key) * 1000)];
-	    $.each(nodes, function(nodename) {
-	      a[nodes[nodename]['index']] = null;
-	    });
-	    $.each(obj, function(nodename, values) {
-	      a[nodes[nodename]['index']] = values['temperature'];
-	    });
+          $.each(data, function(key, obj) {
+            var a = [new Date(parseInt(key) * 1000)];
+            $.each(nodes, function(nodename) {
+              if (nodes[nodename]) {
+                a[nodes[nodename]['index']] = null;
+              }
+            });
+            $.each(obj, function(nodename, values) {
+              if (nodes[nodename]) {
+                a[nodes[nodename]['index']] = values['temperature'];
+              }
+            });
             rows.push(a);
-	  });
+          });
           return rows;
       };
       $('#header').text(gHeader);
@@ -95,12 +101,12 @@
         },
         grid: {
           y: {
-	    show: true
-	  },
+            show: true
+          },
           x: {
-	    show: true
-	  }
-	},
+            show: true
+          }
+        },
         tooltip: {show: false},
         point: {show: false}
       });
@@ -138,13 +144,15 @@
     function displayCurrent(data) {
       console.log("displayCurrent");
       $.each(data, function(nodename, node) {
-        var s = '<p><font size="2">' + nodes[nodename]['name'] + '   ' + node['temperature'] + '</font></p>';
-        if ( (node['time'] * 1000) + 1000 * 120 < (new Date).getTime()) {
-	    s += '<p class="red"><small>' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</small></p>';
-        } else {
-	    s += '<p class="black"><font size="1">' + nodename + ':' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</font></p>';
+        if (nodes[nodename]) {
+          var s = '<p><font size="2">' + nodes[nodename]['name'] + '   ' + node['temperature'] + '</font></p>';
+          if ( (node['time'] * 1000) + 1000 * 120 < (new Date).getTime()) {
+              s += '<p class="red"><small>' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</small></p>';
+          } else {
+              s += '<p class="black"><font size="1">' + nodename + ':' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</font></p>';
+          }
+          $("#"+nodename).html(s);
         }
-        $("#"+nodename).html(s);
       });
     }
   </script>
@@ -175,21 +183,15 @@
         <td id="DFA5"></td>
         <td id="F2B6"></td>
         <td id="F390"></td>
-      </tr>
-      <tr>
         <td id="B356"></td>
-        <td id="EEDB"></td>
         <td id="B0E9"></td>
       </tr>
       <tr>
         <td id="14A8"></td>
         <td id="1727"></td>
         <td id="15AC"></td>
-      </tr>
-      <tr>
         <td id="1618"></td>
         <td id="14AF"></td>
-        <td id="1562"></td>
       </tr>
   </table>
   <script>
@@ -198,14 +200,12 @@
                   "DFA5":{"index":2, "name":"3Fバスルーム"},  
                   "F390":{"index":3, "name":"3Fベッドルーム"},
                   "B0E9":{"index":4, "name":"2Fリビング"},
-                  "EEDB":{"index":5, "name":"2Fブリッジ"},
-                  "B356":{"index":6, "name":"2Fダイニング"},
-                  "15AC":{"index":7, "name":"1F書斎"},
-                  "14A8":{"index":8, "name":"1F玄関"},
-                  "1727":{"index":9, "name":"1F和室"},
-                  "1618":{"index":10, "name":"EXT室外"},
-                  "14AF":{"index":11, "name":"EXT和室床下"},
-                  "1562":{"index":12, "name":"EXT倉庫床下"},
+                  "B356":{"index":5, "name":"2Fダイニング"},
+                  "15AC":{"index":6, "name":"1F書斎"},
+                  "14A8":{"index":7, "name":"1F玄関"},
+                  "1727":{"index":8, "name":"1F和室"},
+                  "1618":{"index":9, "name":"EXT室外"},
+                  "14AF":{"index":10, "name":"EXT和室床下"},
                 };
 
     var gHeader = "khaus temperature: past 24 hours"
@@ -221,10 +221,10 @@
         }
     });
 
-    var gYear = 2016
+    var gYear = new Date().getFullYear();
     var options = {
         pattern:'yyyy-mm',
-        startYear:'2016'
+        startYear:gYear.toString()
     };
     $('#monthpicker').monthpicker(options).bind('monthpicker-click-month', function (e, month) {
         var s = "0" + month;
