@@ -224,7 +224,7 @@
     var gYear = new Date().getFullYear();
     var options = {
         pattern:'yyyy-mm',
-        startYear:gYear.toString()
+        startYear:'2016',
     };
     $('#monthpicker').monthpicker(options).bind('monthpicker-click-month', function (e, month) {
         var s = "0" + month;
