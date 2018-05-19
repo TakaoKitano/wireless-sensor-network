@@ -81,13 +81,16 @@ def load_log():
 def readtemp():
     if not hasattr(readtemp, "pattern"):
         readtemp.pattern = re.compile('rc=(\w+):.*lq=(\d+):.*ed=(\w+):.*id=(\w+):.*ba=(\d+):.*:te=(\d\d\d\d)')
-    try:
-        if not hasattr(readtemp, "port"):
-            readtemp.port = serial.Serial("/dev/ttyUSB0", 115200)
-        data = readtemp.port.readline().decode("utf-8")
-    except:
-        print("exception while accessing /dev/ttyUSB")
-        sys.exit()
+
+    data = None
+    while data is None:
+        try:
+            if not hasattr(readtemp, "port"):
+                readtemp.port = serial.Serial("/dev/ttyUSB0", 115200)
+            data = readtemp.port.readline().decode("utf-8")
+        except:
+            print("exception while accessing /dev/ttyUSB")
+
 
     print(data.rstrip('\n'),)
     m = readtemp.pattern.search(data)
