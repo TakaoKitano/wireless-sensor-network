@@ -8,7 +8,7 @@ import os,sys
 import json
 import requests
 import properties
-from ambient import ambient
+import ambient
 from collections import OrderedDict
 
 USERKEY=properties.AmbientKeys['USERKEY']
