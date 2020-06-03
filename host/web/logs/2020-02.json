@@ -1,0 +1,9050 @@
+{
+  "1580482800": {
+    "B0E9": {
+      "temperature": 16.5
+    },
+    "B356": {
+      "temperature": 15.9
+    },
+    "DFA5": {
+      "temperature": 16.7
+    },
+    "F2B6": {
+      "temperature": 17.3
+    },
+    "F390": {
+      "temperature": 17.0
+    },
+    "14AF": {
+      "temperature": 17.0
+    },
+    "1618": {
+      "temperature": 6.8
+    },
+    "15AC": {
+      "temperature": 16.6
+    }
+  },
+  "1580486400": {
+    "B0E9": {
+      "temperature": 16.4
+    },
+    "B356": {
+      "temperature": 15.8
+    },
+    "DFA5": {
+      "temperature": 16.6
+    },
+    "F2B6": {
+      "temperature": 17.0
+    },
+    "F390": {
+      "temperature": 16.9
+    },
+    "14AF": {
+      "temperature": 16.9
+    },
+    "1618": {
+      "temperature": 6.6
+    },
+    "15AC": {
+      "temperature": 16.5
+    }
+  },
+  "1580493600": {
+    "B0E9": {
+      "temperature": 16.3
+    },
+    "B356": {
+      "temperature": 15.7
+    },
+    "DFA5": {
+      "temperature": 16.5
+    },
+    "F2B6": {
+      "temperature": 16.6
+    },
+    "F390": {
+      "temperature": 16.8
+    },
+    "14AF": {
+      "temperature": 16.9
+    },
+    "1618": {
+      "temperature": 6.4
+    },
+    "15AC": {
+      "temperature": 16.5
+    }
+  },
+  "1580500800": {
+    "B0E9": {
+      "temperature": 16.2
+    },
+    "B356": {
+      "temperature": 15.7
+    },
+    "DFA5": {
+      "temperature": 16.3
+    },
+    "F2B6": {
+      "temperature": 16.3
+    },
+    "F390": {
+      "temperature": 16.6
+    },
+    "14AF": {
+      "temperature": 16.8
+    },
+    "1618": {
+      "temperature": 6.1
+    },
+    "15AC": {
+      "temperature": 16.4
+    }
+  },
+  "1580508000": {
+    "B0E9": {
+      "temperature": 16.2
+    },
+    "B356": {
+      "temperature": 15.6
+    },
+    "DFA5": {
+      "temperature": 16.3
+    },
+    "F2B6": {
+      "temperature": 21.1
+    },
+    "F390": {
+      "temperature": 16.5
+    },
+    "14AF": {
+      "temperature": 16.8
+    },
+    "1618": {
+      "temperature": 6.9
+    },
+    "15AC": {
+      "temperature": 16.4
+    }
+  },
+  "1580515200": {
+    "B0E9": {
+      "temperature": 16.2
+    },
+    "B356": {
+      "temperature": 15.7
+    },
+    "DFA5": {
+      "temperature": 16.7
+    },
+    "F2B6": {
+      "temperature": 31.4
+    },
+    "F390": {
+      "temperature": 16.9
+    },
+    "14AF": {
+      "temperature": 17.0
+    },
+    "1618": {
+      "temperature": 11.4
+    },
+    "15AC": {
+      "temperature": 16.4
+    }
+  },
+  "1580522400": {
+    "B0E9": {
+      "temperature": 16.4
+    },
+    "B356": {
+      "temperature": 15.8
+    },
+    "DFA5": {
+      "temperature": 17.1
+    },
+    "F2B6": {
+      "temperature": 32.3
+    },
+    "F390": {
+      "temperature": 17.4
+    },
+    "14AF": {
+      "temperature": 17.0
+    },
+    "1618": {
+      "temperature": 12.5
+    },
+    "15AC": {
+      "temperature": 16.4
+    }
+  },
+  "1580529600": {
+    "B0E9": {
+      "temperature": 16.6
+    },
+    "B356": {
+      "temperature": 15.9
+    },
+    "DFA5": {
+      "temperature": 17.3
+    },
+    "F2B6": {
+      "temperature": 27.4
+    },
+    "F390": {
+      "temperature": 17.6
+    },
+    "14AF": {
+      "temperature": 16.9
+    },
+    "1618": {
+      "temperature": 12.8
+    },
+    "15AC": {
+      "temperature": 16.5
+    }
+  },
+  "1580536800": {
+    "B0E9": {
+      "temperature": 16.6
+    },
+    "B356": {
+      "temperature": 15.8
+    },
+    "DFA5": {
+      "temperature": 17.3
+    },
+    "F2B6": {
+      "temperature": 22.6
+    },
+    "F390": {
+      "temperature": 17.6
+    },
+    "14AF": {
+      "temperature": 16.9
+    },
+    "1618": {
+      "temperature": 12.3
+    },
+    "15AC": {
+      "temperature": 16.5
+    }
+  },
+  "1580544000": {
+    "B0E9": {
+      "temperature": 16.6
+    },
+    "B356": {
+      "temperature": 15.8
+    },
+    "DFA5": {
+      "temperature": 17.0
+    },
+    "F2B6": {
+      "temperature": 20.2
+    },
+    "F390": {
+      "temperature": 17.4
+    },
+    "14AF": {
+      "temperature": 16.9
+    },
+    "1618": {
+      "temperature": 10.7
+    },
+    "15AC": {
+      "temperature": 16.4
+    }
+  },
+  "1580551200": {
+    "B0E9": {
+      "temperature": 16.7
+    },
+    "B356": {
+      "temperature": 16.3
+    },
+    "DFA5": {
+      "temperature": 17.0
+    },
+    "F2B6": {
+      "temperature": 18.9
+    },
+    "F390": {
+      "temperature": 17.3
+    },
+    "14AF": {
+      "temperature": 17.1
+    },
+    "1618": {
+      "temperature": 9.5
+    },
+    "15AC": {
+      "temperature": 16.7
+    }
+  },
+  "1580558400": {
+    "B0E9": {
+      "temperature": 17.3
+    },
+    "B356": {
+      "temperature": 16.9
+    },
+    "DFA5": {
+      "temperature": 17.3
+    },
+    "F2B6": {
+      "temperature": 18.3
+    },
+    "F390": {
+      "temperature": 17.5
+    },
+    "14AF": {
+      "temperature": 17.5
+    },
+    "1618": {
+      "temperature": 8.7
+    },
+    "15AC": {
+      "temperature": 17.2
+    }
+  },
+  "1580569200": {
+    "B0E9": {
+      "temperature": 17.8
+    },
+    "B356": {
+      "temperature": 17.2
+    },
+    "DFA5": {
+      "temperature": 17.8
+    },
+    "F2B6": {
+      "temperature": 17.9
+    },
+    "F390": {
+      "temperature": 17.7
+    },
+    "14AF": {
+      "temperature": 17.6
+    },
+    "1618": {
+      "temperature": 7.9
+    },
+    "15AC": {
+      "temperature": 17.5
+    }
+  },
+  "1580572800": {
+    "B0E9": {
+      "temperature": 17.8
+    },
+    "B356": {
+      "temperature": 17.3
+    },
+    "DFA5": {
+      "temperature": 17.7
+    },
+    "F2B6": {
+      "temperature": 17.7
+    },
+    "F390": {
+      "temperature": 17.8
+    },
+    "14AF": {
+      "temperature": 17.7
+    },
+    "1618": {
+      "temperature": 7.5
+    },
+    "15AC": {
+      "temperature": 17.7
+    }
+  },
+  "1580580000": {
+    "B0E9": {
+      "temperature": 17.8
+    },
+    "B356": {
+      "temperature": 17.3
+    },
+    "DFA5": {
+      "temperature": 17.7
+    },
+    "F2B6": {
+      "temperature": 17.4
+    },
+    "F390": {
+      "temperature": 17.8
+    },
+    "14AF": {
+      "temperature": 17.8
+    },
+    "1618": {
+      "temperature": 7.0
+    },
+    "15AC": {
+      "temperature": 17.8
+    }
+  },
+  "1580587200": {
+    "B0E9": {
+      "temperature": 17.8
+    },
+    "B356": {
+      "temperature": 17.4
+    },
+    "DFA5": {
+      "temperature": 17.6
+    },
+    "F2B6": {
+      "temperature": 17.1
+    },
+    "F390": {
+      "temperature": 17.8
+    },
+    "14AF": {
+      "temperature": 17.9
+    },
+    "1618": {
+      "temperature": 6.8
+    },
+    "15AC": {
+      "temperature": 17.9
+    }
+  },
+  "1580594400": {
+    "B0E9": {
+      "temperature": 17.8
+    },
+    "B356": {
+      "temperature": 17.5
+    },
+    "DFA5": {
+      "temperature": 17.7
+    },
+    "F2B6": {
+      "temperature": 21.2
+    },
+    "F390": {
+      "temperature": 17.9
+    },
+    "14AF": {
+      "temperature": 17.9
+    },
+    "1618": {
+      "temperature": 7.4
+    },
+    "15AC": {
+      "temperature": 18.0
+    }
+  },
+  "1580601600": {
+    "B0E9": {
+      "temperature": 18.0
+    },
+    "B356": {
+      "temperature": 17.8
+    },
+    "DFA5": {
+      "temperature": 18.3
+    },
+    "F2B6": {
+      "temperature": 29.8
+    },
+    "F390": {
+      "temperature": 18.4
+    },
+    "14AF": {
+      "temperature": 17.9
+    },
+    "1618": {
+      "temperature": 11.6
+    },
+    "15AC": {
+      "temperature": 18.2
+    }
+  },
+  "1580608800": {
+    "B0E9": {
+      "temperature": 18.6
+    },
+    "B356": {
+      "temperature": 18.2
+    },
+    "DFA5": {
+      "temperature": 18.9
+    },
+    "F2B6": {
+      "temperature": 31.0
+    },
+    "F390": {
+      "temperature": 19.0
+    },
+    "14AF": {
+      "temperature": 18.0
+    },
+    "1618": {
+      "temperature": 13.1
+    },
+    "15AC": {
+      "temperature": 18.5
+    }
+  },
+  "1580616000": {
+    "B0E9": {
+      "temperature": 18.9
+    },
+    "B356": {
+      "temperature": 18.3
+    },
+    "DFA5": {
+      "temperature": 19.1
+    },
+    "F2B6": {
+      "temperature": 27.7
+    },
+    "F390": {
+      "temperature": 19.2
+    },
+    "14AF": {
+      "temperature": 18.2
+    },
+    "1618": {
+      "temperature": 13.3
+    },
+    "15AC": {
+      "temperature": 18.7
+    }
+  },
+  "1580623200": {
+    "B0E9": {
+      "temperature": 19.0
+    },
+    "B356": {
+      "temperature": 18.3
+    },
+    "DFA5": {
+      "temperature": 19.0
+    },
+    "F2B6": {
+      "temperature": 23.4
+    },
+    "F390": {
+      "temperature": 19.2
+    },
+    "14AF": {
+      "temperature": 18.4
+    },
+    "1618": {
+      "temperature": 13.1
+    },
+    "15AC": {
+      "temperature": 18.8
+    }
+  },
+  "1580630400": {
+    "B0E9": {
+      "temperature": 19.0
+    },
+    "B356": {
+      "temperature": 18.3
+    },
+    "DFA5": {
+      "temperature": 18.9
+    },
+    "F2B6": {
+      "temperature": 21.1
+    },
+    "F390": {
+      "temperature": 19.0
+    },
+    "14AF": {
+      "temperature": 18.4
+    },
+    "1618": {
+      "temperature": 12.0
+    },
+    "15AC": {
+      "temperature": 18.9
+    }
+  },
+  "1580637600": {
+    "B0E9": {
+      "temperature": 19.0
+    },
+    "B356": {
+      "temperature": 18.4
+    },
+    "DFA5": {
+      "temperature": 18.8
+    },
+    "F2B6": {
+      "temperature": 20.0
+    },
+    "F390": {
+      "temperature": 19.0
+    },
+    "14AF": {
+      "temperature": 18.5
+    },
+    "1618": {
+      "temperature": 11.3
+    },
+    "15AC": {
+      "temperature": 18.9
+    }
+  },
+  "1580644800": {
+    "B0E9": {
+      "temperature": 19.5
+    },
+    "B356": {
+      "temperature": 18.6
+    },
+    "DFA5": {
+      "temperature": 18.7
+    },
+    "F2B6": {
+      "temperature": 19.6
+    },
+    "F390": {
+      "temperature": 19.0
+    },
+    "14AF": {
+      "temperature": 18.5
+    },
+    "1618": {
+      "temperature": 10.7
+    },
+    "15AC": {
+      "temperature": 19.1
+    }
+  },
+  "1580655600": {
+    "B0E9": {
+      "temperature": 19.7
+    },
+    "B356": {
+      "temperature": 18.7
+    },
+    "DFA5": {
+      "temperature": 18.8
+    },
+    "F2B6": {
+      "temperature": 19.1
+    },
+    "F390": {
+      "temperature": 18.9
+    },
+    "14AF": {
+      "temperature": 18.6
+    },
+    "1618": {
+      "temperature": 9.5
+    },
+    "15AC": {
+      "temperature": 19.2
+    }
+  },
+  "1580659200": {
+    "B0E9": {
+      "temperature": 19.4
+    },
+    "B356": {
+      "temperature": 18.6
+    },
+    "DFA5": {
+      "temperature": 18.8
+    },
+    "F2B6": {
+      "temperature": 19.0
+    },
+    "F390": {
+      "temperature": 19.0
+    },
+    "14AF": {
+      "temperature": 18.6
+    },
+    "1618": {
+      "temperature": 9.1
+    },
+    "15AC": {
+      "temperature": 19.2
+    }
+  },
+  "1580666400": {
+    "B0E9": {
+      "temperature": 19.3
+    },
+    "B356": {
+      "temperature": 18.6
+    },
+    "DFA5": {
+      "temperature": 18.8
+    },
+    "F2B6": {
+      "temperature": 18.8
+    },
+    "F390": {
+      "temperature": 19.1
+    },
+    "14AF": {
+      "temperature": 18.7
+    },
+    "1618": {
+      "temperature": 8.6
+    },
+    "15AC": {
+      "temperature": 19.2
+    }
+  },
+  "1580673600": {
+    "B0E9": {
+      "temperature": 19.2
+    },
+    "B356": {
+      "temperature": 18.6
+    },
+    "DFA5": {
+      "temperature": 18.8
+    },
+    "F2B6": {
+      "temperature": 18.6
+    },
+    "F390": {
+      "temperature": 19.1
+    },
+    "14AF": {
+      "temperature": 18.7
+    },
+    "1618": {
+      "temperature": 7.8
+    },
+    "15AC": {
+      "temperature": 19.3
+    }
+  },
+  "1580680800": {
+    "B0E9": {
+      "temperature": 19.3
+    },
+    "B356": {
+      "temperature": 18.7
+    },
+    "DFA5": {
+      "temperature": 18.8
+    },
+    "F2B6": {
+      "temperature": 18.9
+    },
+    "F390": {
+      "temperature": 19.1
+    },
+    "14AF": {
+      "temperature": 18.7
+    },
+    "1618": {
+      "temperature": 7.9
+    },
+    "15AC": {
+      "temperature": 19.3
+    }
+  },
+  "1580688000": {
+    "B0E9": {
+      "temperature": 19.4
+    },
+    "B356": {
+      "temperature": 18.8
+    },
+    "DFA5": {
+      "temperature": 19.0
+    },
+    "F2B6": {
+      "temperature": 25.8
+    },
+    "F390": {
+      "temperature": 19.3
+    },
+    "14AF": {
+      "temperature": 18.7
+    },
+    "1618": {
+      "temperature": 10.5
+    },
+    "15AC": {
+      "temperature": 19.4
+    }
+  },
+  "1580695200": {
+    "B0E9": {
+      "temperature": 19.8
+    },
+    "B356": {
+      "temperature": 19.2
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 30.2
+    },
+    "F390": {
+      "temperature": 19.8
+    },
+    "14AF": {
+      "temperature": 18.6
+    },
+    "1618": {
+      "temperature": 13.2
+    },
+    "15AC": {
+      "temperature": 19.5
+    }
+  },
+  "1580702400": {
+    "B0E9": {
+      "temperature": 20.2
+    },
+    "B356": {
+      "temperature": 19.3
+    },
+    "DFA5": {
+      "temperature": 19.8
+    },
+    "F2B6": {
+      "temperature": 26.6
+    },
+    "F390": {
+      "temperature": 20.3
+    },
+    "14AF": {
+      "temperature": 18.9
+    },
+    "1618": {
+      "temperature": 14.4
+    },
+    "15AC": {
+      "temperature": 19.7
+    }
+  },
+  "1580709600": {
+    "B0E9": {
+      "temperature": 20.3
+    },
+    "B356": {
+      "temperature": 19.4
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 22.6
+    },
+    "F390": {
+      "temperature": 20.1
+    },
+    "14AF": {
+      "temperature": 19.0
+    },
+    "1618": {
+      "temperature": 13.8
+    },
+    "15AC": {
+      "temperature": 19.9
+    }
+  },
+  "1580716800": {
+    "B0E9": {
+      "temperature": 20.3
+    },
+    "B356": {
+      "temperature": 19.3
+    },
+    "DFA5": {
+      "temperature": 19.6
+    },
+    "F2B6": {
+      "temperature": 20.9
+    },
+    "F390": {
+      "temperature": 19.9
+    },
+    "14AF": {
+      "temperature": 19.1
+    },
+    "1618": {
+      "temperature": 13.0
+    },
+    "15AC": {
+      "temperature": 20.0
+    }
+  },
+  "1580724000": {
+    "B0E9": {
+      "temperature": 20.1
+    },
+    "B356": {
+      "temperature": 19.4
+    },
+    "DFA5": {
+      "temperature": 19.4
+    },
+    "F2B6": {
+      "temperature": 20.1
+    },
+    "F390": {
+      "temperature": 19.8
+    },
+    "14AF": {
+      "temperature": 19.1
+    },
+    "1618": {
+      "temperature": 11.9
+    },
+    "15AC": {
+      "temperature": 20.0
+    }
+  },
+  "1580731200": {
+    "B0E9": {
+      "temperature": 20.1
+    },
+    "B356": {
+      "temperature": 19.5
+    },
+    "DFA5": {
+      "temperature": 19.4
+    },
+    "F2B6": {
+      "temperature": 19.7
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.2
+    },
+    "1618": {
+      "temperature": 11.3
+    },
+    "15AC": {
+      "temperature": 20.0
+    }
+  },
+  "1580742000": {
+    "B0E9": {
+      "temperature": 20.4
+    },
+    "B356": {
+      "temperature": 19.5
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 19.3
+    },
+    "F390": {
+      "temperature": 19.8
+    },
+    "14AF": {
+      "temperature": 19.2
+    },
+    "1618": {
+      "temperature": 10.0
+    },
+    "15AC": {
+      "temperature": 20.1
+    }
+  },
+  "1580745600": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 19.5
+    },
+    "DFA5": {
+      "temperature": 19.4
+    },
+    "F2B6": {
+      "temperature": 19.0
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.2
+    },
+    "1618": {
+      "temperature": 9.3
+    },
+    "15AC": {
+      "temperature": 20.1
+    }
+  },
+  "1580752800": {
+    "B0E9": {
+      "temperature": 20.3
+    },
+    "B356": {
+      "temperature": 19.5
+    },
+    "DFA5": {
+      "temperature": 19.4
+    },
+    "F2B6": {
+      "temperature": 18.7
+    },
+    "F390": {
+      "temperature": 19.6
+    },
+    "14AF": {
+      "temperature": 19.2
+    },
+    "1618": {
+      "temperature": 8.5
+    },
+    "15AC": {
+      "temperature": 20.1
+    }
+  },
+  "1580760000": {
+    "B0E9": {
+      "temperature": 20.1
+    },
+    "B356": {
+      "temperature": 19.4
+    },
+    "DFA5": {
+      "temperature": 19.3
+    },
+    "F2B6": {
+      "temperature": 18.5
+    },
+    "F390": {
+      "temperature": 19.5
+    },
+    "14AF": {
+      "temperature": 19.2
+    },
+    "1618": {
+      "temperature": 7.9
+    },
+    "15AC": {
+      "temperature": 20.1
+    }
+  },
+  "1580767200": {
+    "B0E9": {
+      "temperature": 20.0
+    },
+    "B356": {
+      "temperature": 19.4
+    },
+    "DFA5": {
+      "temperature": 19.3
+    },
+    "F2B6": {
+      "temperature": 19.6
+    },
+    "F390": {
+      "temperature": 19.5
+    },
+    "14AF": {
+      "temperature": 19.3
+    },
+    "1618": {
+      "temperature": 8.0
+    },
+    "15AC": {
+      "temperature": 20.1
+    }
+  },
+  "1580774400": {
+    "B0E9": {
+      "temperature": 20.1
+    },
+    "B356": {
+      "temperature": 19.6
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 23.3
+    },
+    "F390": {
+      "temperature": 19.8
+    },
+    "14AF": {
+      "temperature": 19.3
+    },
+    "1618": {
+      "temperature": 10.4
+    },
+    "15AC": {
+      "temperature": 20.1
+    }
+  },
+  "1580781600": {
+    "B0E9": {
+      "temperature": 20.3
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 23.2
+    },
+    "F390": {
+      "temperature": 20.2
+    },
+    "14AF": {
+      "temperature": 19.3
+    },
+    "1618": {
+      "temperature": 11.1
+    },
+    "15AC": {
+      "temperature": 20.2
+    }
+  },
+  "1580788800": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 20.0
+    },
+    "F2B6": {
+      "temperature": 22.3
+    },
+    "F390": {
+      "temperature": 20.4
+    },
+    "14AF": {
+      "temperature": 19.3
+    },
+    "1618": {
+      "temperature": 11.4
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1580796000": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 19.9
+    },
+    "DFA5": {
+      "temperature": 19.8
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 20.3
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 11.2
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1580803200": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 19.9
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 19.5
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 10.5
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1580810400": {
+    "B0E9": {
+      "temperature": 20.4
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 19.1
+    },
+    "F390": {
+      "temperature": 19.5
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 9.9
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1580817600": {
+    "B0E9": {
+      "temperature": 20.4
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 18.8
+    },
+    "F390": {
+      "temperature": 19.5
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 9.8
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1580828400": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 18.6
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 8.1
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1580832000": {
+    "B0E9": {
+      "temperature": 20.4
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 19.6
+    },
+    "F2B6": {
+      "temperature": 18.4
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.3
+    },
+    "1618": {
+      "temperature": 7.6
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1580839200": {
+    "B0E9": {
+      "temperature": 20.3
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.6
+    },
+    "F2B6": {
+      "temperature": 18.1
+    },
+    "F390": {
+      "temperature": 19.6
+    },
+    "14AF": {
+      "temperature": 19.3
+    },
+    "1618": {
+      "temperature": 7.1
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1580846400": {
+    "B0E9": {
+      "temperature": 20.2
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 17.9
+    },
+    "F390": {
+      "temperature": 19.5
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 6.4
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1580853600": {
+    "B0E9": {
+      "temperature": 20.2
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.6
+    },
+    "F2B6": {
+      "temperature": 21.6
+    },
+    "F390": {
+      "temperature": 19.5
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 7.2
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1580860800": {
+    "B0E9": {
+      "temperature": 20.3
+    },
+    "B356": {
+      "temperature": 19.9
+    },
+    "DFA5": {
+      "temperature": 19.9
+    },
+    "F2B6": {
+      "temperature": 29.9
+    },
+    "F390": {
+      "temperature": 19.8
+    },
+    "14AF": {
+      "temperature": 19.3
+    },
+    "1618": {
+      "temperature": 11.9
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1580868000": {
+    "B0E9": {
+      "temperature": 20.7
+    },
+    "B356": {
+      "temperature": 20.1
+    },
+    "DFA5": {
+      "temperature": 20.1
+    },
+    "F2B6": {
+      "temperature": 31.5
+    },
+    "F390": {
+      "temperature": 20.2
+    },
+    "14AF": {
+      "temperature": 19.3
+    },
+    "1618": {
+      "temperature": 13.9
+    },
+    "15AC": {
+      "temperature": 20.5
+    }
+  },
+  "1580875200": {
+    "B0E9": {
+      "temperature": 21.0
+    },
+    "B356": {
+      "temperature": 20.2
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 27.5
+    },
+    "F390": {
+      "temperature": 20.7
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 14.3
+    },
+    "15AC": {
+      "temperature": 20.7
+    }
+  },
+  "1580882400": {
+    "B0E9": {
+      "temperature": 21.3
+    },
+    "B356": {
+      "temperature": 20.6
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 23.2
+    },
+    "F390": {
+      "temperature": 20.7
+    },
+    "14AF": {
+      "temperature": 19.7
+    },
+    "1618": {
+      "temperature": 14.0
+    },
+    "15AC": {
+      "temperature": 20.9
+    }
+  },
+  "1580889600": {
+    "B0E9": {
+      "temperature": 21.1
+    },
+    "B356": {
+      "temperature": 20.2
+    },
+    "DFA5": {
+      "temperature": 20.2
+    },
+    "F2B6": {
+      "temperature": 21.2
+    },
+    "F390": {
+      "temperature": 20.5
+    },
+    "14AF": {
+      "temperature": 19.8
+    },
+    "1618": {
+      "temperature": 10.6
+    },
+    "15AC": {
+      "temperature": 20.9
+    }
+  },
+  "1580896800": {
+    "B0E9": {
+      "temperature": 20.9
+    },
+    "B356": {
+      "temperature": 20.0
+    },
+    "DFA5": {
+      "temperature": 19.9
+    },
+    "F2B6": {
+      "temperature": 20.9
+    },
+    "F390": {
+      "temperature": 20.3
+    },
+    "14AF": {
+      "temperature": 19.7
+    },
+    "1618": {
+      "temperature": 7.9
+    },
+    "15AC": {
+      "temperature": 20.8
+    }
+  },
+  "1580904000": {
+    "B0E9": {
+      "temperature": 20.7
+    },
+    "B356": {
+      "temperature": 20.0
+    },
+    "DFA5": {
+      "temperature": 19.8
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 20.1
+    },
+    "14AF": {
+      "temperature": 19.7
+    },
+    "1618": {
+      "temperature": 6.5
+    },
+    "15AC": {
+      "temperature": 20.7
+    }
+  },
+  "1580914800": {
+    "B0E9": {
+      "temperature": 20.8
+    },
+    "B356": {
+      "temperature": 20.2
+    },
+    "DFA5": {
+      "temperature": 20.0
+    },
+    "F2B6": {
+      "temperature": 19.2
+    },
+    "F390": {
+      "temperature": 20.1
+    },
+    "14AF": {
+      "temperature": 19.7
+    },
+    "1618": {
+      "temperature": 5.4
+    },
+    "15AC": {
+      "temperature": 20.6
+    }
+  },
+  "1580918400": {
+    "B0E9": {
+      "temperature": 20.9
+    },
+    "B356": {
+      "temperature": 20.2
+    },
+    "DFA5": {
+      "temperature": 20.0
+    },
+    "F2B6": {
+      "temperature": 19.1
+    },
+    "F390": {
+      "temperature": 20.1
+    },
+    "14AF": {
+      "temperature": 19.6
+    },
+    "1618": {
+      "temperature": 4.9
+    },
+    "15AC": {
+      "temperature": 20.6
+    }
+  },
+  "1580925600": {
+    "B0E9": {
+      "temperature": 20.7
+    },
+    "B356": {
+      "temperature": 20.1
+    },
+    "DFA5": {
+      "temperature": 19.9
+    },
+    "F2B6": {
+      "temperature": 18.8
+    },
+    "F390": {
+      "temperature": 20.2
+    },
+    "14AF": {
+      "temperature": 19.6
+    },
+    "1618": {
+      "temperature": 4.3
+    },
+    "15AC": {
+      "temperature": 20.6
+    }
+  },
+  "1580932800": {
+    "B0E9": {
+      "temperature": 20.6
+    },
+    "B356": {
+      "temperature": 20.0
+    },
+    "DFA5": {
+      "temperature": 19.8
+    },
+    "F2B6": {
+      "temperature": 18.6
+    },
+    "F390": {
+      "temperature": 20.1
+    },
+    "14AF": {
+      "temperature": 19.6
+    },
+    "1618": {
+      "temperature": 3.8
+    },
+    "15AC": {
+      "temperature": 20.5
+    }
+  },
+  "1580940000": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 20.0
+    },
+    "DFA5": {
+      "temperature": 19.8
+    },
+    "F2B6": {
+      "temperature": 21.4
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 19.6
+    },
+    "1618": {
+      "temperature": 4.0
+    },
+    "15AC": {
+      "temperature": 20.5
+    }
+  },
+  "1580947200": {
+    "B0E9": {
+      "temperature": 20.6
+    },
+    "B356": {
+      "temperature": 20.1
+    },
+    "DFA5": {
+      "temperature": 20.1
+    },
+    "F2B6": {
+      "temperature": 29.5
+    },
+    "F390": {
+      "temperature": 20.3
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 6.8
+    },
+    "15AC": {
+      "temperature": 20.5
+    }
+  },
+  "1580954400": {
+    "B0E9": {
+      "temperature": 21.0
+    },
+    "B356": {
+      "temperature": 20.4
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 31.1
+    },
+    "F390": {
+      "temperature": 20.8
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 7.8
+    },
+    "15AC": {
+      "temperature": 20.6
+    }
+  },
+  "1580961600": {
+    "B0E9": {
+      "temperature": 21.3
+    },
+    "B356": {
+      "temperature": 20.4
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 27.0
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 19.6
+    },
+    "1618": {
+      "temperature": 7.3
+    },
+    "15AC": {
+      "temperature": 20.6
+    }
+  },
+  "1580968800": {
+    "B0E9": {
+      "temperature": 21.3
+    },
+    "B356": {
+      "temperature": 20.4
+    },
+    "DFA5": {
+      "temperature": 20.6
+    },
+    "F2B6": {
+      "temperature": 22.2
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 19.7
+    },
+    "1618": {
+      "temperature": 6.1
+    },
+    "15AC": {
+      "temperature": 20.7
+    }
+  },
+  "1580976000": {
+    "B0E9": {
+      "temperature": 21.0
+    },
+    "B356": {
+      "temperature": 20.1
+    },
+    "DFA5": {
+      "temperature": 20.2
+    },
+    "F2B6": {
+      "temperature": 20.7
+    },
+    "F390": {
+      "temperature": 20.6
+    },
+    "14AF": {
+      "temperature": 19.8
+    },
+    "1618": {
+      "temperature": 4.5
+    },
+    "15AC": {
+      "temperature": 20.7
+    }
+  },
+  "1580983200": {
+    "B0E9": {
+      "temperature": 20.6
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 19.7
+    },
+    "1618": {
+      "temperature": 3.6
+    },
+    "15AC": {
+      "temperature": 20.5
+    }
+  },
+  "1580990400": {
+    "B0E9": {
+      "temperature": 20.4
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 19.9
+    },
+    "F390": {
+      "temperature": 19.8
+    },
+    "14AF": {
+      "temperature": 19.6
+    },
+    "1618": {
+      "temperature": 2.9
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581001200": {
+    "B0E9": {
+      "temperature": 20.7
+    },
+    "B356": {
+      "temperature": 19.9
+    },
+    "DFA5": {
+      "temperature": 19.6
+    },
+    "F2B6": {
+      "temperature": 18.7
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 2.5
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581004800": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 19.6
+    },
+    "F2B6": {
+      "temperature": 18.5
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 2.2
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581012000": {
+    "B0E9": {
+      "temperature": 20.2
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 18.3
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 1.9
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581019200": {
+    "B0E9": {
+      "temperature": 20.0
+    },
+    "B356": {
+      "temperature": 19.6
+    },
+    "DFA5": {
+      "temperature": 19.4
+    },
+    "F2B6": {
+      "temperature": 18.0
+    },
+    "F390": {
+      "temperature": 19.5
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 1.7
+    },
+    "15AC": {
+      "temperature": 20.2
+    }
+  },
+  "1581026400": {
+    "B0E9": {
+      "temperature": 20.0
+    },
+    "B356": {
+      "temperature": 19.6
+    },
+    "DFA5": {
+      "temperature": 19.4
+    },
+    "F2B6": {
+      "temperature": 20.3
+    },
+    "F390": {
+      "temperature": 19.5
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 2.5
+    },
+    "15AC": {
+      "temperature": 20.2
+    }
+  },
+  "1581033600": {
+    "B0E9": {
+      "temperature": 20.2
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 26.9
+    },
+    "F390": {
+      "temperature": 20.1
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 4.9
+    },
+    "15AC": {
+      "temperature": 20.2
+    }
+  },
+  "1581040800": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 19.9
+    },
+    "DFA5": {
+      "temperature": 20.1
+    },
+    "F2B6": {
+      "temperature": 28.7
+    },
+    "F390": {
+      "temperature": 20.4
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 6.5
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581048000": {
+    "B0E9": {
+      "temperature": 20.7
+    },
+    "B356": {
+      "temperature": 19.9
+    },
+    "DFA5": {
+      "temperature": 20.2
+    },
+    "F2B6": {
+      "temperature": 25.4
+    },
+    "F390": {
+      "temperature": 20.6
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 7.2
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581055200": {
+    "B0E9": {
+      "temperature": 20.7
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 20.0
+    },
+    "F2B6": {
+      "temperature": 21.9
+    },
+    "F390": {
+      "temperature": 20.5
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 7.4
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581062400": {
+    "B0E9": {
+      "temperature": 20.6
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.8
+    },
+    "F2B6": {
+      "temperature": 19.7
+    },
+    "F390": {
+      "temperature": 20.3
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 6.8
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581069600": {
+    "B0E9": {
+      "temperature": 20.4
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 19.6
+    },
+    "F2B6": {
+      "temperature": 19.0
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 6.4
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581076800": {
+    "B0E9": {
+      "temperature": 20.4
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 18.8
+    },
+    "F390": {
+      "temperature": 19.8
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 5.8
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581087600": {
+    "B0E9": {
+      "temperature": 20.6
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 18.4
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 4.8
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581091200": {
+    "B0E9": {
+      "temperature": 20.7
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.4
+    },
+    "F2B6": {
+      "temperature": 18.3
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 4.6
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581098400": {
+    "B0E9": {
+      "temperature": 20.4
+    },
+    "B356": {
+      "temperature": 19.6
+    },
+    "DFA5": {
+      "temperature": 19.3
+    },
+    "F2B6": {
+      "temperature": 18.1
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 4.4
+    },
+    "15AC": {
+      "temperature": 20.2
+    }
+  },
+  "1581105600": {
+    "B0E9": {
+      "temperature": 20.2
+    },
+    "B356": {
+      "temperature": 19.5
+    },
+    "DFA5": {
+      "temperature": 19.2
+    },
+    "F2B6": {
+      "temperature": 17.9
+    },
+    "F390": {
+      "temperature": 19.6
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 4.1
+    },
+    "15AC": {
+      "temperature": 20.2
+    }
+  },
+  "1581112800": {
+    "B0E9": {
+      "temperature": 20.1
+    },
+    "B356": {
+      "temperature": 19.5
+    },
+    "DFA5": {
+      "temperature": 19.2
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 19.6
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 4.8
+    },
+    "15AC": {
+      "temperature": 20.2
+    }
+  },
+  "1581120000": {
+    "B0E9": {
+      "temperature": 20.1
+    },
+    "B356": {
+      "temperature": 19.6
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 29.0
+    },
+    "F390": {
+      "temperature": 19.9
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 9.0
+    },
+    "15AC": {
+      "temperature": 20.2
+    }
+  },
+  "1581127200": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 20.0
+    },
+    "F2B6": {
+      "temperature": 30.4
+    },
+    "F390": {
+      "temperature": 20.3
+    },
+    "14AF": {
+      "temperature": 19.3
+    },
+    "1618": {
+      "temperature": 10.8
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581134400": {
+    "B0E9": {
+      "temperature": 20.8
+    },
+    "B356": {
+      "temperature": 19.9
+    },
+    "DFA5": {
+      "temperature": 20.3
+    },
+    "F2B6": {
+      "temperature": 27.1
+    },
+    "F390": {
+      "temperature": 20.7
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 11.8
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581141600": {
+    "B0E9": {
+      "temperature": 20.8
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 20.2
+    },
+    "F2B6": {
+      "temperature": 23.0
+    },
+    "F390": {
+      "temperature": 20.6
+    },
+    "14AF": {
+      "temperature": 19.6
+    },
+    "1618": {
+      "temperature": 11.9
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581148800": {
+    "B0E9": {
+      "temperature": 20.7
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 20.0
+    },
+    "F2B6": {
+      "temperature": 21.0
+    },
+    "F390": {
+      "temperature": 20.4
+    },
+    "14AF": {
+      "temperature": 19.6
+    },
+    "1618": {
+      "temperature": 10.6
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581156000": {
+    "B0E9": {
+      "temperature": 20.6
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.8
+    },
+    "F2B6": {
+      "temperature": 20.2
+    },
+    "F390": {
+      "temperature": 20.2
+    },
+    "14AF": {
+      "temperature": 19.6
+    },
+    "1618": {
+      "temperature": 9.2
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581163200": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.8
+    },
+    "F2B6": {
+      "temperature": 19.7
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 19.6
+    },
+    "1618": {
+      "temperature": 7.5
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581174000": {
+    "B0E9": {
+      "temperature": 20.7
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 19.8
+    },
+    "F2B6": {
+      "temperature": 19.0
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 19.6
+    },
+    "1618": {
+      "temperature": 5.9
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581177600": {
+    "B0E9": {
+      "temperature": 20.7
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 18.6
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 5.3
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581184800": {
+    "B0E9": {
+      "temperature": 20.4
+    },
+    "B356": {
+      "temperature": 19.5
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 18.2
+    },
+    "F390": {
+      "temperature": 19.9
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 4.2
+    },
+    "15AC": {
+      "temperature": 20.2
+    }
+  },
+  "1581192000": {
+    "B0E9": {
+      "temperature": 20.1
+    },
+    "B356": {
+      "temperature": 19.4
+    },
+    "DFA5": {
+      "temperature": 19.3
+    },
+    "F2B6": {
+      "temperature": 17.9
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 3.4
+    },
+    "15AC": {
+      "temperature": 20.1
+    }
+  },
+  "1581199200": {
+    "B0E9": {
+      "temperature": 20.0
+    },
+    "B356": {
+      "temperature": 19.4
+    },
+    "DFA5": {
+      "temperature": 19.3
+    },
+    "F2B6": {
+      "temperature": 22.0
+    },
+    "F390": {
+      "temperature": 19.6
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 3.7
+    },
+    "15AC": {
+      "temperature": 20.0
+    }
+  },
+  "1581206400": {
+    "B0E9": {
+      "temperature": 20.1
+    },
+    "B356": {
+      "temperature": 19.6
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 30.0
+    },
+    "F390": {
+      "temperature": 20.2
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 7.0
+    },
+    "15AC": {
+      "temperature": 20.1
+    }
+  },
+  "1581213600": {
+    "B0E9": {
+      "temperature": 20.6
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 20.3
+    },
+    "F2B6": {
+      "temperature": 30.6
+    },
+    "F390": {
+      "temperature": 20.8
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 8.4
+    },
+    "15AC": {
+      "temperature": 20.1
+    }
+  },
+  "1581220800": {
+    "B0E9": {
+      "temperature": 20.9
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 26.9
+    },
+    "F390": {
+      "temperature": 20.8
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 8.3
+    },
+    "15AC": {
+      "temperature": 20.1
+    }
+  },
+  "1581228000": {
+    "B0E9": {
+      "temperature": 21.0
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 20.2
+    },
+    "F2B6": {
+      "temperature": 22.8
+    },
+    "F390": {
+      "temperature": 20.7
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 7.8
+    },
+    "15AC": {
+      "temperature": 20.1
+    }
+  },
+  "1581235200": {
+    "B0E9": {
+      "temperature": 20.8
+    },
+    "B356": {
+      "temperature": 19.6
+    },
+    "DFA5": {
+      "temperature": 19.9
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 20.4
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 6.4
+    },
+    "15AC": {
+      "temperature": 20.0
+    }
+  },
+  "1581242400": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 19.4
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 19.6
+    },
+    "F390": {
+      "temperature": 20.1
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 5.4
+    },
+    "15AC": {
+      "temperature": 19.9
+    }
+  },
+  "1581249600": {
+    "B0E9": {
+      "temperature": 20.3
+    },
+    "B356": {
+      "temperature": 19.4
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 19.0
+    },
+    "F390": {
+      "temperature": 19.8
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 4.7
+    },
+    "15AC": {
+      "temperature": 19.9
+    }
+  },
+  "1581260400": {
+    "B0E9": {
+      "temperature": 20.3
+    },
+    "B356": {
+      "temperature": 19.4
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 18.6
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.3
+    },
+    "1618": {
+      "temperature": 4.2
+    },
+    "15AC": {
+      "temperature": 19.8
+    }
+  },
+  "1581264000": {
+    "B0E9": {
+      "temperature": 20.4
+    },
+    "B356": {
+      "temperature": 19.3
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 18.3
+    },
+    "F390": {
+      "temperature": 19.7
+    },
+    "14AF": {
+      "temperature": 19.2
+    },
+    "1618": {
+      "temperature": 3.7
+    },
+    "15AC": {
+      "temperature": 19.8
+    }
+  },
+  "1581271200": {
+    "B0E9": {
+      "temperature": 20.0
+    },
+    "B356": {
+      "temperature": 19.2
+    },
+    "DFA5": {
+      "temperature": 19.3
+    },
+    "F2B6": {
+      "temperature": 18.0
+    },
+    "F390": {
+      "temperature": 19.6
+    },
+    "14AF": {
+      "temperature": 19.2
+    },
+    "1618": {
+      "temperature": 3.0
+    },
+    "15AC": {
+      "temperature": 19.7
+    }
+  },
+  "1581278400": {
+    "B0E9": {
+      "temperature": 19.8
+    },
+    "B356": {
+      "temperature": 19.1
+    },
+    "DFA5": {
+      "temperature": 19.1
+    },
+    "F2B6": {
+      "temperature": 17.8
+    },
+    "F390": {
+      "temperature": 19.5
+    },
+    "14AF": {
+      "temperature": 19.2
+    },
+    "1618": {
+      "temperature": 3.2
+    },
+    "15AC": {
+      "temperature": 19.6
+    }
+  },
+  "1581285600": {
+    "B0E9": {
+      "temperature": 19.8
+    },
+    "B356": {
+      "temperature": 19.1
+    },
+    "DFA5": {
+      "temperature": 19.0
+    },
+    "F2B6": {
+      "temperature": 18.0
+    },
+    "F390": {
+      "temperature": 19.4
+    },
+    "14AF": {
+      "temperature": 19.1
+    },
+    "1618": {
+      "temperature": 3.9
+    },
+    "15AC": {
+      "temperature": 19.6
+    }
+  },
+  "1581292800": {
+    "B0E9": {
+      "temperature": 19.9
+    },
+    "B356": {
+      "temperature": 19.2
+    },
+    "DFA5": {
+      "temperature": 19.3
+    },
+    "F2B6": {
+      "temperature": 23.5
+    },
+    "F390": {
+      "temperature": 19.6
+    },
+    "14AF": {
+      "temperature": 19.1
+    },
+    "1618": {
+      "temperature": 6.5
+    },
+    "15AC": {
+      "temperature": 19.7
+    }
+  },
+  "1581300000": {
+    "B0E9": {
+      "temperature": 20.3
+    },
+    "B356": {
+      "temperature": 19.2
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 28.1
+    },
+    "F390": {
+      "temperature": 20.3
+    },
+    "14AF": {
+      "temperature": 19.1
+    },
+    "1618": {
+      "temperature": 8.6
+    },
+    "15AC": {
+      "temperature": 19.6
+    }
+  },
+  "1581307200": {
+    "B0E9": {
+      "temperature": 20.4
+    },
+    "B356": {
+      "temperature": 18.9
+    },
+    "DFA5": {
+      "temperature": 19.7
+    },
+    "F2B6": {
+      "temperature": 25.9
+    },
+    "F390": {
+      "temperature": 20.4
+    },
+    "14AF": {
+      "temperature": 19.0
+    },
+    "1618": {
+      "temperature": 9.3
+    },
+    "15AC": {
+      "temperature": 19.3
+    }
+  },
+  "1581314400": {
+    "B0E9": {
+      "temperature": 20.2
+    },
+    "B356": {
+      "temperature": 18.7
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 22.0
+    },
+    "F390": {
+      "temperature": 20.1
+    },
+    "14AF": {
+      "temperature": 18.9
+    },
+    "1618": {
+      "temperature": 9.5
+    },
+    "15AC": {
+      "temperature": 19.1
+    }
+  },
+  "1581321600": {
+    "B0E9": {
+      "temperature": 20.0
+    },
+    "B356": {
+      "temperature": 18.5
+    },
+    "DFA5": {
+      "temperature": 19.2
+    },
+    "F2B6": {
+      "temperature": 20.0
+    },
+    "F390": {
+      "temperature": 19.8
+    },
+    "14AF": {
+      "temperature": 18.8
+    },
+    "1618": {
+      "temperature": 8.7
+    },
+    "15AC": {
+      "temperature": 19.0
+    }
+  },
+  "1581328800": {
+    "B0E9": {
+      "temperature": 19.7
+    },
+    "B356": {
+      "temperature": 18.4
+    },
+    "DFA5": {
+      "temperature": 18.9
+    },
+    "F2B6": {
+      "temperature": 19.0
+    },
+    "F390": {
+      "temperature": 19.5
+    },
+    "14AF": {
+      "temperature": 18.7
+    },
+    "1618": {
+      "temperature": 7.8
+    },
+    "15AC": {
+      "temperature": 18.8
+    }
+  },
+  "1581336000": {
+    "B0E9": {
+      "temperature": 19.5
+    },
+    "B356": {
+      "temperature": 18.2
+    },
+    "DFA5": {
+      "temperature": 18.7
+    },
+    "F2B6": {
+      "temperature": 18.5
+    },
+    "F390": {
+      "temperature": 19.2
+    },
+    "14AF": {
+      "temperature": 18.6
+    },
+    "1618": {
+      "temperature": 7.0
+    },
+    "15AC": {
+      "temperature": 18.7
+    }
+  },
+  "1581346800": {
+    "B0E9": {
+      "temperature": 19.2
+    },
+    "B356": {
+      "temperature": 18.1
+    },
+    "DFA5": {
+      "temperature": 18.5
+    },
+    "F2B6": {
+      "temperature": 18.0
+    },
+    "F390": {
+      "temperature": 18.9
+    },
+    "14AF": {
+      "temperature": 18.5
+    },
+    "1618": {
+      "temperature": 6.0
+    },
+    "15AC": {
+      "temperature": 18.6
+    }
+  },
+  "1581350400": {
+    "B0E9": {
+      "temperature": 19.0
+    },
+    "B356": {
+      "temperature": 18.0
+    },
+    "DFA5": {
+      "temperature": 18.4
+    },
+    "F2B6": {
+      "temperature": 17.7
+    },
+    "F390": {
+      "temperature": 18.8
+    },
+    "14AF": {
+      "temperature": 18.5
+    },
+    "1618": {
+      "temperature": 5.7
+    },
+    "15AC": {
+      "temperature": 18.4
+    }
+  },
+  "1581357600": {
+    "B0E9": {
+      "temperature": 18.8
+    },
+    "B356": {
+      "temperature": 17.8
+    },
+    "DFA5": {
+      "temperature": 18.2
+    },
+    "F2B6": {
+      "temperature": 17.4
+    },
+    "F390": {
+      "temperature": 18.6
+    },
+    "14AF": {
+      "temperature": 18.4
+    },
+    "1618": {
+      "temperature": 5.0
+    },
+    "15AC": {
+      "temperature": 18.3
+    }
+  },
+  "1581364800": {
+    "B0E9": {
+      "temperature": 18.6
+    },
+    "B356": {
+      "temperature": 17.7
+    },
+    "DFA5": {
+      "temperature": 18.0
+    },
+    "F2B6": {
+      "temperature": 17.0
+    },
+    "F390": {
+      "temperature": 18.4
+    },
+    "14AF": {
+      "temperature": 18.3
+    },
+    "1618": {
+      "temperature": 4.4
+    },
+    "15AC": {
+      "temperature": 18.2
+    }
+  },
+  "1581372000": {
+    "B0E9": {
+      "temperature": 18.5
+    },
+    "B356": {
+      "temperature": 17.6
+    },
+    "DFA5": {
+      "temperature": 18.0
+    },
+    "F2B6": {
+      "temperature": 22.0
+    },
+    "F390": {
+      "temperature": 18.4
+    },
+    "14AF": {
+      "temperature": 18.2
+    },
+    "1618": {
+      "temperature": 5.1
+    },
+    "15AC": {
+      "temperature": 18.1
+    }
+  },
+  "1581379200": {
+    "B0E9": {
+      "temperature": 18.6
+    },
+    "B356": {
+      "temperature": 17.7
+    },
+    "DFA5": {
+      "temperature": 18.4
+    },
+    "F2B6": {
+      "temperature": 30.9
+    },
+    "F390": {
+      "temperature": 18.9
+    },
+    "14AF": {
+      "temperature": 18.3
+    },
+    "1618": {
+      "temperature": 9.3
+    },
+    "15AC": {
+      "temperature": 18.1
+    }
+  },
+  "1581386400": {
+    "B0E9": {
+      "temperature": 18.9
+    },
+    "B356": {
+      "temperature": 17.9
+    },
+    "DFA5": {
+      "temperature": 18.8
+    },
+    "F2B6": {
+      "temperature": 32.2
+    },
+    "F390": {
+      "temperature": 19.3
+    },
+    "14AF": {
+      "temperature": 18.3
+    },
+    "1618": {
+      "temperature": 10.9
+    },
+    "15AC": {
+      "temperature": 18.1
+    }
+  },
+  "1581393600": {
+    "B0E9": {
+      "temperature": 19.0
+    },
+    "B356": {
+      "temperature": 17.9
+    },
+    "DFA5": {
+      "temperature": 19.0
+    },
+    "F2B6": {
+      "temperature": 28.0
+    },
+    "F390": {
+      "temperature": 19.5
+    },
+    "14AF": {
+      "temperature": 18.3
+    },
+    "1618": {
+      "temperature": 11.4
+    },
+    "15AC": {
+      "temperature": 18.1
+    }
+  },
+  "1581400800": {
+    "B0E9": {
+      "temperature": 19.0
+    },
+    "B356": {
+      "temperature": 17.9
+    },
+    "DFA5": {
+      "temperature": 18.9
+    },
+    "F2B6": {
+      "temperature": 23.4
+    },
+    "F390": {
+      "temperature": 19.4
+    },
+    "14AF": {
+      "temperature": 18.2
+    },
+    "1618": {
+      "temperature": 11.4
+    },
+    "15AC": {
+      "temperature": 18.0
+    }
+  },
+  "1581408000": {
+    "B0E9": {
+      "temperature": 18.9
+    },
+    "B356": {
+      "temperature": 17.7
+    },
+    "DFA5": {
+      "temperature": 18.7
+    },
+    "F2B6": {
+      "temperature": 21.1
+    },
+    "F390": {
+      "temperature": 19.2
+    },
+    "14AF": {
+      "temperature": 18.1
+    },
+    "1618": {
+      "temperature": 10.4
+    },
+    "15AC": {
+      "temperature": 18.0
+    }
+  },
+  "1581415200": {
+    "B0E9": {
+      "temperature": 18.8
+    },
+    "B356": {
+      "temperature": 17.6
+    },
+    "DFA5": {
+      "temperature": 18.5
+    },
+    "F2B6": {
+      "temperature": 19.8
+    },
+    "F390": {
+      "temperature": 19.0
+    },
+    "14AF": {
+      "temperature": 18.1
+    },
+    "1618": {
+      "temperature": 9.1
+    },
+    "15AC": {
+      "temperature": 17.9
+    }
+  },
+  "1581422400": {
+    "B0E9": {
+      "temperature": 18.6
+    },
+    "B356": {
+      "temperature": 17.6
+    },
+    "DFA5": {
+      "temperature": 18.3
+    },
+    "F2B6": {
+      "temperature": 19.1
+    },
+    "F390": {
+      "temperature": 18.8
+    },
+    "14AF": {
+      "temperature": 18.1
+    },
+    "1618": {
+      "temperature": 8.3
+    },
+    "15AC": {
+      "temperature": 17.9
+    }
+  },
+  "1581433200": {
+    "B0E9": {
+      "temperature": 19.3
+    },
+    "B356": {
+      "temperature": 18.4
+    },
+    "DFA5": {
+      "temperature": 18.8
+    },
+    "F2B6": {
+      "temperature": 18.7
+    },
+    "F390": {
+      "temperature": 18.8
+    },
+    "14AF": {
+      "temperature": 18.3
+    },
+    "1618": {
+      "temperature": 6.9
+    },
+    "15AC": {
+      "temperature": 18.5
+    }
+  },
+  "1581436800": {
+    "B0E9": {
+      "temperature": 19.4
+    },
+    "B356": {
+      "temperature": 18.5
+    },
+    "DFA5": {
+      "temperature": 18.8
+    },
+    "F2B6": {
+      "temperature": 18.5
+    },
+    "F390": {
+      "temperature": 18.8
+    },
+    "14AF": {
+      "temperature": 18.4
+    },
+    "1618": {
+      "temperature": 6.3
+    },
+    "15AC": {
+      "temperature": 18.6
+    }
+  },
+  "1581444000": {
+    "B0E9": {
+      "temperature": 19.1
+    },
+    "B356": {
+      "temperature": 18.4
+    },
+    "DFA5": {
+      "temperature": 18.7
+    },
+    "F2B6": {
+      "temperature": 18.3
+    },
+    "F390": {
+      "temperature": 18.9
+    },
+    "14AF": {
+      "temperature": 18.4
+    },
+    "1618": {
+      "temperature": 5.6
+    },
+    "15AC": {
+      "temperature": 18.7
+    }
+  },
+  "1581451200": {
+    "B0E9": {
+      "temperature": 19.0
+    },
+    "B356": {
+      "temperature": 18.4
+    },
+    "DFA5": {
+      "temperature": 18.7
+    },
+    "F2B6": {
+      "temperature": 18.0
+    },
+    "F390": {
+      "temperature": 18.8
+    },
+    "14AF": {
+      "temperature": 18.5
+    },
+    "1618": {
+      "temperature": 4.9
+    },
+    "15AC": {
+      "temperature": 18.7
+    }
+  },
+  "1581458400": {
+    "B0E9": {
+      "temperature": 19.0
+    },
+    "B356": {
+      "temperature": 18.4
+    },
+    "DFA5": {
+      "temperature": 18.7
+    },
+    "F2B6": {
+      "temperature": 22.1
+    },
+    "F390": {
+      "temperature": 18.8
+    },
+    "14AF": {
+      "temperature": 18.5
+    },
+    "1618": {
+      "temperature": 5.4
+    },
+    "15AC": {
+      "temperature": 18.8
+    }
+  },
+  "1581465600": {
+    "B0E9": {
+      "temperature": 19.2
+    },
+    "B356": {
+      "temperature": 18.6
+    },
+    "DFA5": {
+      "temperature": 19.0
+    },
+    "F2B6": {
+      "temperature": 28.8
+    },
+    "F390": {
+      "temperature": 19.1
+    },
+    "14AF": {
+      "temperature": 18.5
+    },
+    "1618": {
+      "temperature": 9.1
+    },
+    "15AC": {
+      "temperature": 18.9
+    }
+  },
+  "1581472800": {
+    "B0E9": {
+      "temperature": 19.6
+    },
+    "B356": {
+      "temperature": 18.9
+    },
+    "DFA5": {
+      "temperature": 19.6
+    },
+    "F2B6": {
+      "temperature": 29.2
+    },
+    "F390": {
+      "temperature": 19.6
+    },
+    "14AF": {
+      "temperature": 18.6
+    },
+    "1618": {
+      "temperature": 11.3
+    },
+    "15AC": {
+      "temperature": 19.1
+    }
+  },
+  "1581480000": {
+    "B0E9": {
+      "temperature": 20.0
+    },
+    "B356": {
+      "temperature": 19.0
+    },
+    "DFA5": {
+      "temperature": 19.8
+    },
+    "F2B6": {
+      "temperature": 26.6
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 18.8
+    },
+    "1618": {
+      "temperature": 13.7
+    },
+    "15AC": {
+      "temperature": 19.4
+    }
+  },
+  "1581487200": {
+    "B0E9": {
+      "temperature": 20.2
+    },
+    "B356": {
+      "temperature": 19.2
+    },
+    "DFA5": {
+      "temperature": 19.8
+    },
+    "F2B6": {
+      "temperature": 23.0
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 18.9
+    },
+    "1618": {
+      "temperature": 14.3
+    },
+    "15AC": {
+      "temperature": 19.5
+    }
+  },
+  "1581494400": {
+    "B0E9": {
+      "temperature": 20.2
+    },
+    "B356": {
+      "temperature": 19.1
+    },
+    "DFA5": {
+      "temperature": 19.6
+    },
+    "F2B6": {
+      "temperature": 21.1
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 18.9
+    },
+    "1618": {
+      "temperature": 13.3
+    },
+    "15AC": {
+      "temperature": 19.5
+    }
+  },
+  "1581501600": {
+    "B0E9": {
+      "temperature": 20.2
+    },
+    "B356": {
+      "temperature": 19.4
+    },
+    "DFA5": {
+      "temperature": 19.6
+    },
+    "F2B6": {
+      "temperature": 20.4
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 19.0
+    },
+    "1618": {
+      "temperature": 12.1
+    },
+    "15AC": {
+      "temperature": 19.6
+    }
+  },
+  "1581508800": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 19.2
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 20.0
+    },
+    "F390": {
+      "temperature": 19.9
+    },
+    "14AF": {
+      "temperature": 19.0
+    },
+    "1618": {
+      "temperature": 11.5
+    },
+    "15AC": {
+      "temperature": 19.7
+    }
+  },
+  "1581519600": {
+    "B0E9": {
+      "temperature": 20.7
+    },
+    "B356": {
+      "temperature": 19.3
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 19.8
+    },
+    "F390": {
+      "temperature": 19.8
+    },
+    "14AF": {
+      "temperature": 19.0
+    },
+    "1618": {
+      "temperature": 11.0
+    },
+    "15AC": {
+      "temperature": 19.8
+    }
+  },
+  "1581523200": {
+    "B0E9": {
+      "temperature": 20.7
+    },
+    "B356": {
+      "temperature": 19.3
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 19.6
+    },
+    "F390": {
+      "temperature": 19.8
+    },
+    "14AF": {
+      "temperature": 19.0
+    },
+    "1618": {
+      "temperature": 10.7
+    },
+    "15AC": {
+      "temperature": 19.8
+    }
+  },
+  "1581530400": {
+    "B0E9": {
+      "temperature": 20.5
+    },
+    "B356": {
+      "temperature": 19.3
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 19.5
+    },
+    "F390": {
+      "temperature": 19.9
+    },
+    "14AF": {
+      "temperature": 19.0
+    },
+    "1618": {
+      "temperature": 10.6
+    },
+    "15AC": {
+      "temperature": 19.8
+    }
+  },
+  "1581537600": {
+    "B0E9": {
+      "temperature": 20.3
+    },
+    "B356": {
+      "temperature": 19.3
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 19.4
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 19.1
+    },
+    "1618": {
+      "temperature": 10.5
+    },
+    "15AC": {
+      "temperature": 19.8
+    }
+  },
+  "1581544800": {
+    "B0E9": {
+      "temperature": 20.3
+    },
+    "B356": {
+      "temperature": 19.3
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 19.3
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 19.1
+    },
+    "1618": {
+      "temperature": 9.9
+    },
+    "15AC": {
+      "temperature": 19.8
+    }
+  },
+  "1581552000": {
+    "B0E9": {
+      "temperature": 20.2
+    },
+    "B356": {
+      "temperature": 19.3
+    },
+    "DFA5": {
+      "temperature": 19.5
+    },
+    "F2B6": {
+      "temperature": 19.9
+    },
+    "F390": {
+      "temperature": 20.0
+    },
+    "14AF": {
+      "temperature": 19.1
+    },
+    "1618": {
+      "temperature": 10.1
+    },
+    "15AC": {
+      "temperature": 19.8
+    }
+  },
+  "1581559200": {
+    "B0E9": {
+      "temperature": 20.4
+    },
+    "B356": {
+      "temperature": 19.6
+    },
+    "DFA5": {
+      "temperature": 19.8
+    },
+    "F2B6": {
+      "temperature": 26.0
+    },
+    "F390": {
+      "temperature": 20.3
+    },
+    "14AF": {
+      "temperature": 19.1
+    },
+    "1618": {
+      "temperature": 13.0
+    },
+    "15AC": {
+      "temperature": 19.9
+    }
+  },
+  "1581566400": {
+    "B0E9": {
+      "temperature": 20.8
+    },
+    "B356": {
+      "temperature": 19.7
+    },
+    "DFA5": {
+      "temperature": 20.2
+    },
+    "F2B6": {
+      "temperature": 27.0
+    },
+    "F390": {
+      "temperature": 20.7
+    },
+    "14AF": {
+      "temperature": 19.2
+    },
+    "1618": {
+      "temperature": 15.6
+    },
+    "15AC": {
+      "temperature": 20.2
+    }
+  },
+  "1581573600": {
+    "B0E9": {
+      "temperature": 21.0
+    },
+    "B356": {
+      "temperature": 19.8
+    },
+    "DFA5": {
+      "temperature": 20.2
+    },
+    "F2B6": {
+      "temperature": 23.2
+    },
+    "F390": {
+      "temperature": 20.7
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 16.0
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581580800": {
+    "B0E9": {
+      "temperature": 21.0
+    },
+    "B356": {
+      "temperature": 20.0
+    },
+    "DFA5": {
+      "temperature": 20.1
+    },
+    "F2B6": {
+      "temperature": 21.5
+    },
+    "F390": {
+      "temperature": 20.7
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 14.8
+    },
+    "15AC": {
+      "temperature": 20.5
+    }
+  },
+  "1581588000": {
+    "B0E9": {
+      "temperature": 21.0
+    },
+    "B356": {
+      "temperature": 19.9
+    },
+    "DFA5": {
+      "temperature": 20.0
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 20.5
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 14.0
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581595200": {
+    "B0E9": {
+      "temperature": 20.9
+    },
+    "B356": {
+      "temperature": 19.9
+    },
+    "DFA5": {
+      "temperature": 19.9
+    },
+    "F2B6": {
+      "temperature": 20.2
+    },
+    "F390": {
+      "temperature": 20.4
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 13.1
+    },
+    "15AC": {
+      "temperature": 20.3
+    }
+  },
+  "1581606000": {
+    "B0E9": {
+      "temperature": 21.1
+    },
+    "B356": {
+      "temperature": 20.0
+    },
+    "DFA5": {
+      "temperature": 20.2
+    },
+    "F2B6": {
+      "temperature": 19.9
+    },
+    "F390": {
+      "temperature": 20.4
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 12.6
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581609600": {
+    "B0E9": {
+      "temperature": 21.3
+    },
+    "B356": {
+      "temperature": 20.0
+    },
+    "DFA5": {
+      "temperature": 20.1
+    },
+    "F2B6": {
+      "temperature": 19.6
+    },
+    "F390": {
+      "temperature": 20.4
+    },
+    "14AF": {
+      "temperature": 19.4
+    },
+    "1618": {
+      "temperature": 11.9
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581616800": {
+    "B0E9": {
+      "temperature": 21.1
+    },
+    "B356": {
+      "temperature": 20.0
+    },
+    "DFA5": {
+      "temperature": 20.0
+    },
+    "F2B6": {
+      "temperature": 19.4
+    },
+    "F390": {
+      "temperature": 20.4
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 10.9
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581624000": {
+    "B0E9": {
+      "temperature": 20.9
+    },
+    "B356": {
+      "temperature": 19.9
+    },
+    "DFA5": {
+      "temperature": 19.9
+    },
+    "F2B6": {
+      "temperature": 19.2
+    },
+    "F390": {
+      "temperature": 20.4
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 10.4
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581631200": {
+    "B0E9": {
+      "temperature": 20.9
+    },
+    "B356": {
+      "temperature": 20.0
+    },
+    "DFA5": {
+      "temperature": 20.0
+    },
+    "F2B6": {
+      "temperature": 21.3
+    },
+    "F390": {
+      "temperature": 20.4
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 11.1
+    },
+    "15AC": {
+      "temperature": 20.4
+    }
+  },
+  "1581638400": {
+    "B0E9": {
+      "temperature": 21.0
+    },
+    "B356": {
+      "temperature": 20.2
+    },
+    "DFA5": {
+      "temperature": 20.2
+    },
+    "F2B6": {
+      "temperature": 25.0
+    },
+    "F390": {
+      "temperature": 20.7
+    },
+    "14AF": {
+      "temperature": 19.5
+    },
+    "1618": {
+      "temperature": 13.4
+    },
+    "15AC": {
+      "temperature": 20.5
+    }
+  },
+  "1581645600": {
+    "B0E9": {
+      "temperature": 21.2
+    },
+    "B356": {
+      "temperature": 20.3
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 25.6
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 19.6
+    },
+    "1618": {
+      "temperature": 15.0
+    },
+    "15AC": {
+      "temperature": 20.7
+    }
+  },
+  "1581652800": {
+    "B0E9": {
+      "temperature": 21.2
+    },
+    "B356": {
+      "temperature": 20.4
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 22.6
+    },
+    "F390": {
+      "temperature": 20.7
+    },
+    "14AF": {
+      "temperature": 19.7
+    },
+    "1618": {
+      "temperature": 15.3
+    },
+    "15AC": {
+      "temperature": 20.9
+    }
+  },
+  "1581660000": {
+    "B0E9": {
+      "temperature": 21.3
+    },
+    "B356": {
+      "temperature": 20.5
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 21.2
+    },
+    "F390": {
+      "temperature": 20.6
+    },
+    "14AF": {
+      "temperature": 19.8
+    },
+    "1618": {
+      "temperature": 15.0
+    },
+    "15AC": {
+      "temperature": 21.0
+    }
+  },
+  "1581667200": {
+    "B0E9": {
+      "temperature": 21.3
+    },
+    "B356": {
+      "temperature": 20.4
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 19.8
+    },
+    "1618": {
+      "temperature": 14.4
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1581674400": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.6
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 20.2
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 19.9
+    },
+    "1618": {
+      "temperature": 13.3
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1581681600": {
+    "B0E9": {
+      "temperature": 21.4
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.3
+    },
+    "F2B6": {
+      "temperature": 19.9
+    },
+    "F390": {
+      "temperature": 20.8
+    },
+    "14AF": {
+      "temperature": 19.9
+    },
+    "1618": {
+      "temperature": 12.4
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1581692400": {
+    "B0E9": {
+      "temperature": 21.4
+    },
+    "B356": {
+      "temperature": 20.6
+    },
+    "DFA5": {
+      "temperature": 20.6
+    },
+    "F2B6": {
+      "temperature": 19.6
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 19.9
+    },
+    "1618": {
+      "temperature": 11.8
+    },
+    "15AC": {
+      "temperature": 21.0
+    }
+  },
+  "1581696000": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.6
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 19.4
+    },
+    "F390": {
+      "temperature": 20.8
+    },
+    "14AF": {
+      "temperature": 19.9
+    },
+    "1618": {
+      "temperature": 11.4
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1581703200": {
+    "B0E9": {
+      "temperature": 21.3
+    },
+    "B356": {
+      "temperature": 20.5
+    },
+    "DFA5": {
+      "temperature": 20.3
+    },
+    "F2B6": {
+      "temperature": 19.2
+    },
+    "F390": {
+      "temperature": 20.8
+    },
+    "14AF": {
+      "temperature": 19.9
+    },
+    "1618": {
+      "temperature": 10.5
+    },
+    "15AC": {
+      "temperature": 21.0
+    }
+  },
+  "1581710400": {
+    "B0E9": {
+      "temperature": 21.2
+    },
+    "B356": {
+      "temperature": 20.5
+    },
+    "DFA5": {
+      "temperature": 20.2
+    },
+    "F2B6": {
+      "temperature": 19.1
+    },
+    "F390": {
+      "temperature": 20.7
+    },
+    "14AF": {
+      "temperature": 19.9
+    },
+    "1618": {
+      "temperature": 10.2
+    },
+    "15AC": {
+      "temperature": 20.9
+    }
+  },
+  "1581717600": {
+    "B0E9": {
+      "temperature": 21.1
+    },
+    "B356": {
+      "temperature": 20.5
+    },
+    "DFA5": {
+      "temperature": 20.2
+    },
+    "F2B6": {
+      "temperature": 21.2
+    },
+    "F390": {
+      "temperature": 20.7
+    },
+    "14AF": {
+      "temperature": 19.9
+    },
+    "1618": {
+      "temperature": 11.5
+    },
+    "15AC": {
+      "temperature": 20.9
+    }
+  },
+  "1581724800": {
+    "B0E9": {
+      "temperature": 21.2
+    },
+    "B356": {
+      "temperature": 20.6
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 24.4
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 19.9
+    },
+    "1618": {
+      "temperature": 13.7
+    },
+    "15AC": {
+      "temperature": 21.0
+    }
+  },
+  "1581732000": {
+    "B0E9": {
+      "temperature": 21.4
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 23.4
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 19.9
+    },
+    "1618": {
+      "temperature": 14.8
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1581739200": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 21.5
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 19.9
+    },
+    "1618": {
+      "temperature": 15.3
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1581746400": {
+    "B0E9": {
+      "temperature": 21.6
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.6
+    },
+    "F2B6": {
+      "temperature": 21.0
+    },
+    "F390": {
+      "temperature": 21.2
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 15.3
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1581753600": {
+    "B0E9": {
+      "temperature": 21.6
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 20.4
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 14.8
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581760800": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 20.1
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 14.3
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581768000": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 20.0
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 13.7
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581778800": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 19.6
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 12.3
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581782400": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.6
+    },
+    "F2B6": {
+      "temperature": 19.4
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 11.5
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581789600": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 19.3
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 11.1
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581796800": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 19.2
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 11.0
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1581804000": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 19.3
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 11.0
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581811200": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 19.5
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 10.6
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581818400": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 19.5
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 10.2
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581825600": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 19.6
+    },
+    "F390": {
+      "temperature": 21.3
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 10.4
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581832800": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 19.5
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 10.8
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581840000": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 19.3
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 10.7
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581847200": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 19.1
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 10.6
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1581854400": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 19.0
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 10.4
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581865200": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.6
+    },
+    "F2B6": {
+      "temperature": 19.0
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 10.3
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1581868800": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 18.9
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 10.4
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1581876000": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 18.9
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 10.5
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1581883200": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.3
+    },
+    "F2B6": {
+      "temperature": 18.8
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 10.2
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1581890400": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.3
+    },
+    "F2B6": {
+      "temperature": 18.9
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 10.3
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1581897600": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.3
+    },
+    "F2B6": {
+      "temperature": 19.5
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 10.9
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1581904800": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 23.1
+    },
+    "F390": {
+      "temperature": 21.3
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 12.7
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1581912000": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 23.2
+    },
+    "F390": {
+      "temperature": 21.6
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 14.3
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1581919200": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 21.7
+    },
+    "F390": {
+      "temperature": 21.7
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 14.2
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1581926400": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 20.3
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 12.6
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1581933600": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 20.6
+    },
+    "F2B6": {
+      "temperature": 19.4
+    },
+    "F390": {
+      "temperature": 21.3
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 10.9
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1581940800": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 19.1
+    },
+    "F390": {
+      "temperature": 21.2
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 10.1
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1581951600": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 18.8
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 8.9
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1581955200": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 18.7
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 8.6
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581962400": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 18.6
+    },
+    "F390": {
+      "temperature": 20.8
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 7.4
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581969600": {
+    "B0E9": {
+      "temperature": 21.4
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.3
+    },
+    "F2B6": {
+      "temperature": 18.3
+    },
+    "F390": {
+      "temperature": 20.7
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 7.2
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1581976800": {
+    "B0E9": {
+      "temperature": 21.3
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.3
+    },
+    "F2B6": {
+      "temperature": 23.5
+    },
+    "F390": {
+      "temperature": 20.8
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 8.0
+    },
+    "15AC": {
+      "temperature": 21.0
+    }
+  },
+  "1581984000": {
+    "B0E9": {
+      "temperature": 21.4
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 31.0
+    },
+    "F390": {
+      "temperature": 21.4
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 11.7
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1581991200": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 30.5
+    },
+    "F390": {
+      "temperature": 22.0
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 13.0
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1581998400": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 27.3
+    },
+    "F390": {
+      "temperature": 22.1
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 13.2
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582005600": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 23.6
+    },
+    "F390": {
+      "temperature": 22.1
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 12.6
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582012800": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.0
+    },
+    "F2B6": {
+      "temperature": 21.5
+    },
+    "F390": {
+      "temperature": 21.8
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 10.8
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582020000": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 20.5
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 9.6
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582027200": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 20.0
+    },
+    "F390": {
+      "temperature": 21.3
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 8.7
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582038000": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 19.6
+    },
+    "F390": {
+      "temperature": 21.2
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 7.8
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1582041600": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 19.4
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 7.2
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1582048800": {
+    "B0E9": {
+      "temperature": 21.6
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.6
+    },
+    "F2B6": {
+      "temperature": 19.1
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 6.8
+    },
+    "15AC": {
+      "temperature": 21.0
+    }
+  },
+  "1582056000": {
+    "B0E9": {
+      "temperature": 21.3
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 18.9
+    },
+    "F390": {
+      "temperature": 20.8
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 6.5
+    },
+    "15AC": {
+      "temperature": 21.0
+    }
+  },
+  "1582063200": {
+    "B0E9": {
+      "temperature": 21.2
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.4
+    },
+    "F2B6": {
+      "temperature": 23.8
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 7.4
+    },
+    "15AC": {
+      "temperature": 20.9
+    }
+  },
+  "1582070400": {
+    "B0E9": {
+      "temperature": 21.4
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 30.8
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 11.2
+    },
+    "15AC": {
+      "temperature": 20.9
+    }
+  },
+  "1582077600": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 32.3
+    },
+    "F390": {
+      "temperature": 21.9
+    },
+    "14AF": {
+      "temperature": 20.0
+    },
+    "1618": {
+      "temperature": 13.2
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1582084800": {
+    "B0E9": {
+      "temperature": 22.1
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 28.7
+    },
+    "F390": {
+      "temperature": 22.0
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 13.5
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582092000": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.2
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 24.6
+    },
+    "F390": {
+      "temperature": 22.0
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 13.2
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582099200": {
+    "B0E9": {
+      "temperature": 22.1
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.1
+    },
+    "F2B6": {
+      "temperature": 22.3
+    },
+    "F390": {
+      "temperature": 21.7
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 12.3
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582106400": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.0
+    },
+    "F2B6": {
+      "temperature": 21.3
+    },
+    "F390": {
+      "temperature": 21.4
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 11.4
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582113600": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 20.9
+    },
+    "F2B6": {
+      "temperature": 20.8
+    },
+    "F390": {
+      "temperature": 21.3
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 10.7
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582124400": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.0
+    },
+    "F2B6": {
+      "temperature": 20.5
+    },
+    "F390": {
+      "temperature": 21.3
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 9.6
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1582128000": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.9
+    },
+    "F2B6": {
+      "temperature": 20.3
+    },
+    "F390": {
+      "temperature": 21.3
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 8.7
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1582135200": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 19.9
+    },
+    "F390": {
+      "temperature": 21.2
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 7.8
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582142400": {
+    "B0E9": {
+      "temperature": 21.6
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.6
+    },
+    "F2B6": {
+      "temperature": 19.7
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 7.5
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582149600": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 23.3
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 8.3
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582156800": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.1
+    },
+    "F2B6": {
+      "temperature": 30.1
+    },
+    "F390": {
+      "temperature": 21.8
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 11.6
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582164000": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 30.2
+    },
+    "F390": {
+      "temperature": 22.2
+    },
+    "14AF": {
+      "temperature": 20.1
+    },
+    "1618": {
+      "temperature": 13.5
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582171200": {
+    "B0E9": {
+      "temperature": 22.1
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 25.4
+    },
+    "F390": {
+      "temperature": 22.1
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 13.7
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582178400": {
+    "B0E9": {
+      "temperature": 22.1
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 23.1
+    },
+    "F390": {
+      "temperature": 21.8
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 13.5
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582185600": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 22.0
+    },
+    "F390": {
+      "temperature": 21.7
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 12.9
+    },
+    "15AC": {
+      "temperature": 21.6
+    }
+  },
+  "1582192800": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 21.3
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 11.8
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582200000": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 21.0
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 11.2
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582210800": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.1
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 10.5
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582214400": {
+    "B0E9": {
+      "temperature": 22.3
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.0
+    },
+    "F2B6": {
+      "temperature": 20.5
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 10.2
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582221600": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 20.9
+    },
+    "F2B6": {
+      "temperature": 20.2
+    },
+    "F390": {
+      "temperature": 21.4
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 9.5
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1582228800": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 19.9
+    },
+    "F390": {
+      "temperature": 21.3
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 8.8
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1582236000": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 23.5
+    },
+    "F390": {
+      "temperature": 21.3
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 9.6
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582243200": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.1
+    },
+    "F2B6": {
+      "temperature": 31.5
+    },
+    "F390": {
+      "temperature": 21.8
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 13.0
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1582250400": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.2
+    },
+    "DFA5": {
+      "temperature": 21.5
+    },
+    "F2B6": {
+      "temperature": 31.9
+    },
+    "F390": {
+      "temperature": 22.4
+    },
+    "14AF": {
+      "temperature": 20.2
+    },
+    "1618": {
+      "temperature": 14.2
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582257600": {
+    "B0E9": {
+      "temperature": 22.3
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.7
+    },
+    "F2B6": {
+      "temperature": 28.2
+    },
+    "F390": {
+      "temperature": 22.6
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 14.5
+    },
+    "15AC": {
+      "temperature": 21.6
+    }
+  },
+  "1582264800": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.6
+    },
+    "F2B6": {
+      "temperature": 24.5
+    },
+    "F390": {
+      "temperature": 22.3
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 14.4
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582272000": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.2
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 22.6
+    },
+    "F390": {
+      "temperature": 21.9
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 13.4
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582279200": {
+    "B0E9": {
+      "temperature": 22.3
+    },
+    "B356": {
+      "temperature": 21.2
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 21.7
+    },
+    "F390": {
+      "temperature": 21.6
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 12.7
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582286400": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.4
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 21.4
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 12.4
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582297200": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 21.2
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 11.8
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582300800": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 21.1
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 11.1
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582308000": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.2
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 20.9
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 10.0
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582315200": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.2
+    },
+    "DFA5": {
+      "temperature": 21.0
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 21.4
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 9.2
+    },
+    "15AC": {
+      "temperature": 21.6
+    }
+  },
+  "1582322400": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.1
+    },
+    "F2B6": {
+      "temperature": 24.7
+    },
+    "F390": {
+      "temperature": 21.4
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 10.4
+    },
+    "15AC": {
+      "temperature": 21.6
+    }
+  },
+  "1582329600": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 25.2
+    },
+    "F390": {
+      "temperature": 21.7
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 13.2
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582336800": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.6
+    },
+    "F2B6": {
+      "temperature": 27.8
+    },
+    "F390": {
+      "temperature": 21.7
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 15.9
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582344000": {
+    "B0E9": {
+      "temperature": 22.3
+    },
+    "B356": {
+      "temperature": 21.4
+    },
+    "DFA5": {
+      "temperature": 21.6
+    },
+    "F2B6": {
+      "temperature": 25.6
+    },
+    "F390": {
+      "temperature": 21.7
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 16.6
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582351200": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.4
+    },
+    "DFA5": {
+      "temperature": 21.5
+    },
+    "F2B6": {
+      "temperature": 23.5
+    },
+    "F390": {
+      "temperature": 21.6
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 16.4
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582358400": {
+    "B0E9": {
+      "temperature": 22.3
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 22.2
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 15.5
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582365600": {
+    "B0E9": {
+      "temperature": 22.6
+    },
+    "B356": {
+      "temperature": 21.6
+    },
+    "DFA5": {
+      "temperature": 21.5
+    },
+    "F2B6": {
+      "temperature": 21.7
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 14.8
+    },
+    "15AC": {
+      "temperature": 21.9
+    }
+  },
+  "1582372800": {
+    "B0E9": {
+      "temperature": 22.7
+    },
+    "B356": {
+      "temperature": 21.6
+    },
+    "DFA5": {
+      "temperature": 21.5
+    },
+    "F2B6": {
+      "temperature": 21.3
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 13.8
+    },
+    "15AC": {
+      "temperature": 22.0
+    }
+  },
+  "1582383600": {
+    "B0E9": {
+      "temperature": 22.7
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 20.9
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 12.1
+    },
+    "15AC": {
+      "temperature": 21.9
+    }
+  },
+  "1582387200": {
+    "B0E9": {
+      "temperature": 22.7
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 20.8
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 11.5
+    },
+    "15AC": {
+      "temperature": 21.9
+    }
+  },
+  "1582394400": {
+    "B0E9": {
+      "temperature": 22.5
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 20.5
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 10.8
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582401600": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.4
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 20.2
+    },
+    "F390": {
+      "temperature": 21.4
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 9.9
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582408800": {
+    "B0E9": {
+      "temperature": 22.1
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 25.3
+    },
+    "F390": {
+      "temperature": 21.4
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 10.9
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582416000": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.6
+    },
+    "F2B6": {
+      "temperature": 32.0
+    },
+    "F390": {
+      "temperature": 22.0
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 15.0
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582423200": {
+    "B0E9": {
+      "temperature": 22.6
+    },
+    "B356": {
+      "temperature": 21.7
+    },
+    "DFA5": {
+      "temperature": 22.2
+    },
+    "F2B6": {
+      "temperature": 33.1
+    },
+    "F390": {
+      "temperature": 23.0
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 16.4
+    },
+    "15AC": {
+      "temperature": 22.0
+    }
+  },
+  "1582430400": {
+    "B0E9": {
+      "temperature": 23.0
+    },
+    "B356": {
+      "temperature": 21.9
+    },
+    "DFA5": {
+      "temperature": 22.3
+    },
+    "F2B6": {
+      "temperature": 29.5
+    },
+    "F390": {
+      "temperature": 23.2
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 15.9
+    },
+    "15AC": {
+      "temperature": 22.0
+    }
+  },
+  "1582437600": {
+    "B0E9": {
+      "temperature": 23.0
+    },
+    "B356": {
+      "temperature": 21.8
+    },
+    "DFA5": {
+      "temperature": 22.2
+    },
+    "F2B6": {
+      "temperature": 25.4
+    },
+    "F390": {
+      "temperature": 22.9
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 14.7
+    },
+    "15AC": {
+      "temperature": 22.0
+    }
+  },
+  "1582444800": {
+    "B0E9": {
+      "temperature": 22.8
+    },
+    "B356": {
+      "temperature": 21.7
+    },
+    "DFA5": {
+      "temperature": 22.0
+    },
+    "F2B6": {
+      "temperature": 23.3
+    },
+    "F390": {
+      "temperature": 22.5
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 12.4
+    },
+    "15AC": {
+      "temperature": 21.9
+    }
+  },
+  "1582452000": {
+    "B0E9": {
+      "temperature": 22.5
+    },
+    "B356": {
+      "temperature": 21.6
+    },
+    "DFA5": {
+      "temperature": 21.7
+    },
+    "F2B6": {
+      "temperature": 22.1
+    },
+    "F390": {
+      "temperature": 22.2
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 10.9
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582459200": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.7
+    },
+    "F2B6": {
+      "temperature": 21.5
+    },
+    "F390": {
+      "temperature": 21.9
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 9.8
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582470000": {
+    "B0E9": {
+      "temperature": 22.5
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.6
+    },
+    "F2B6": {
+      "temperature": 21.0
+    },
+    "F390": {
+      "temperature": 21.7
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 8.9
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582473600": {
+    "B0E9": {
+      "temperature": 22.6
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.5
+    },
+    "F2B6": {
+      "temperature": 20.8
+    },
+    "F390": {
+      "temperature": 21.6
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 8.6
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582480800": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.4
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 20.5
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 8.1
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582488000": {
+    "B0E9": {
+      "temperature": 22.1
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 20.2
+    },
+    "F390": {
+      "temperature": 21.4
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 7.6
+    },
+    "15AC": {
+      "temperature": 21.6
+    }
+  },
+  "1582495200": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 21.2
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 23.7
+    },
+    "F390": {
+      "temperature": 21.4
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 8.8
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582502400": {
+    "B0E9": {
+      "temperature": 22.1
+    },
+    "B356": {
+      "temperature": 21.4
+    },
+    "DFA5": {
+      "temperature": 21.5
+    },
+    "F2B6": {
+      "temperature": 32.3
+    },
+    "F390": {
+      "temperature": 21.8
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 13.2
+    },
+    "15AC": {
+      "temperature": 21.6
+    }
+  },
+  "1582509600": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.9
+    },
+    "F2B6": {
+      "temperature": 32.5
+    },
+    "F390": {
+      "temperature": 22.2
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 15.0
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582516800": {
+    "B0E9": {
+      "temperature": 22.8
+    },
+    "B356": {
+      "temperature": 21.8
+    },
+    "DFA5": {
+      "temperature": 22.2
+    },
+    "F2B6": {
+      "temperature": 28.3
+    },
+    "F390": {
+      "temperature": 22.6
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 15.4
+    },
+    "15AC": {
+      "temperature": 21.9
+    }
+  },
+  "1582524000": {
+    "B0E9": {
+      "temperature": 23.0
+    },
+    "B356": {
+      "temperature": 21.8
+    },
+    "DFA5": {
+      "temperature": 22.1
+    },
+    "F2B6": {
+      "temperature": 25.1
+    },
+    "F390": {
+      "temperature": 22.6
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 15.1
+    },
+    "15AC": {
+      "temperature": 22.0
+    }
+  },
+  "1582531200": {
+    "B0E9": {
+      "temperature": 22.8
+    },
+    "B356": {
+      "temperature": 21.6
+    },
+    "DFA5": {
+      "temperature": 21.9
+    },
+    "F2B6": {
+      "temperature": 23.2
+    },
+    "F390": {
+      "temperature": 22.4
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 14.0
+    },
+    "15AC": {
+      "temperature": 21.9
+    }
+  },
+  "1582538400": {
+    "B0E9": {
+      "temperature": 22.5
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.7
+    },
+    "F2B6": {
+      "temperature": 22.3
+    },
+    "F390": {
+      "temperature": 22.2
+    },
+    "14AF": {
+      "temperature": 20.8
+    },
+    "1618": {
+      "temperature": 13.2
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582545600": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.6
+    },
+    "F2B6": {
+      "temperature": 21.8
+    },
+    "F390": {
+      "temperature": 22.0
+    },
+    "14AF": {
+      "temperature": 20.8
+    },
+    "1618": {
+      "temperature": 12.2
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582556400": {
+    "B0E9": {
+      "temperature": 22.5
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.8
+    },
+    "F2B6": {
+      "temperature": 21.4
+    },
+    "F390": {
+      "temperature": 22.1
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 11.1
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582560000": {
+    "B0E9": {
+      "temperature": 22.7
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.7
+    },
+    "F2B6": {
+      "temperature": 21.2
+    },
+    "F390": {
+      "temperature": 22.1
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 10.6
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582567200": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.4
+    },
+    "DFA5": {
+      "temperature": 21.5
+    },
+    "F2B6": {
+      "temperature": 20.9
+    },
+    "F390": {
+      "temperature": 22.1
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 9.8
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582574400": {
+    "B0E9": {
+      "temperature": 22.1
+    },
+    "B356": {
+      "temperature": 21.4
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 22.0
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 9.2
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582581600": {
+    "B0E9": {
+      "temperature": 22.1
+    },
+    "B356": {
+      "temperature": 21.4
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 23.3
+    },
+    "F390": {
+      "temperature": 21.9
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 10.2
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582588800": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.4
+    },
+    "DFA5": {
+      "temperature": 21.6
+    },
+    "F2B6": {
+      "temperature": 28.3
+    },
+    "F390": {
+      "temperature": 22.4
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 13.2
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582596000": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.7
+    },
+    "F2B6": {
+      "temperature": 24.1
+    },
+    "F390": {
+      "temperature": 22.6
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 13.6
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582603200": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.5
+    },
+    "F2B6": {
+      "temperature": 22.3
+    },
+    "F390": {
+      "temperature": 22.2
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 13.5
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582610400": {
+    "B0E9": {
+      "temperature": 22.5
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 22.2
+    },
+    "F390": {
+      "temperature": 22.0
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 13.6
+    },
+    "15AC": {
+      "temperature": 21.9
+    }
+  },
+  "1582617600": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.4
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 22.1
+    },
+    "F390": {
+      "temperature": 21.9
+    },
+    "14AF": {
+      "temperature": 20.8
+    },
+    "1618": {
+      "temperature": 13.1
+    },
+    "15AC": {
+      "temperature": 22.1
+    }
+  },
+  "1582624800": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.7
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 21.3
+    },
+    "F390": {
+      "temperature": 21.9
+    },
+    "14AF": {
+      "temperature": 20.8
+    },
+    "1618": {
+      "temperature": 12.1
+    },
+    "15AC": {
+      "temperature": 22.1
+    }
+  },
+  "1582632000": {
+    "B0E9": {
+      "temperature": 22.4
+    },
+    "B356": {
+      "temperature": 21.6
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 20.8
+    },
+    "F390": {
+      "temperature": 21.8
+    },
+    "14AF": {
+      "temperature": 20.8
+    },
+    "1618": {
+      "temperature": 11.3
+    },
+    "15AC": {
+      "temperature": 22.0
+    }
+  },
+  "1582642800": {
+    "B0E9": {
+      "temperature": 22.5
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.5
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 21.8
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 10.3
+    },
+    "15AC": {
+      "temperature": 21.9
+    }
+  },
+  "1582646400": {
+    "B0E9": {
+      "temperature": 22.5
+    },
+    "B356": {
+      "temperature": 21.5
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 20.4
+    },
+    "F390": {
+      "temperature": 21.8
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 9.8
+    },
+    "15AC": {
+      "temperature": 21.9
+    }
+  },
+  "1582653600": {
+    "B0E9": {
+      "temperature": 22.3
+    },
+    "B356": {
+      "temperature": 21.4
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 20.2
+    },
+    "F390": {
+      "temperature": 21.8
+    },
+    "14AF": {
+      "temperature": 20.8
+    },
+    "1618": {
+      "temperature": 9.5
+    },
+    "15AC": {
+      "temperature": 21.9
+    }
+  },
+  "1582660800": {
+    "B0E9": {
+      "temperature": 22.1
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 20.0
+    },
+    "F390": {
+      "temperature": 21.7
+    },
+    "14AF": {
+      "temperature": 20.8
+    },
+    "1618": {
+      "temperature": 9.2
+    },
+    "15AC": {
+      "temperature": 21.9
+    }
+  },
+  "1582668000": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.1
+    },
+    "F2B6": {
+      "temperature": 19.9
+    },
+    "F390": {
+      "temperature": 21.7
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 8.9
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582675200": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.1
+    },
+    "F2B6": {
+      "temperature": 19.9
+    },
+    "F390": {
+      "temperature": 21.7
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 8.9
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582682400": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.1
+    },
+    "F2B6": {
+      "temperature": 20.1
+    },
+    "F390": {
+      "temperature": 21.7
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 9.1
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582689600": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 20.9
+    },
+    "F2B6": {
+      "temperature": 20.4
+    },
+    "F390": {
+      "temperature": 21.6
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 9.5
+    },
+    "15AC": {
+      "temperature": 21.8
+    }
+  },
+  "1582696800": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 21.3
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 9.9
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582704000": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 20.4
+    },
+    "F390": {
+      "temperature": 21.3
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 9.9
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582711200": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 19.8
+    },
+    "F390": {
+      "temperature": 21.6
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 9.7
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582718400": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 19.7
+    },
+    "F390": {
+      "temperature": 21.6
+    },
+    "14AF": {
+      "temperature": 20.7
+    },
+    "1618": {
+      "temperature": 9.5
+    },
+    "15AC": {
+      "temperature": 21.7
+    }
+  },
+  "1582729200": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 19.5
+    },
+    "F390": {
+      "temperature": 21.2
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 9.0
+    },
+    "15AC": {
+      "temperature": 21.6
+    }
+  },
+  "1582732800": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.0
+    },
+    "F2B6": {
+      "temperature": 19.3
+    },
+    "F390": {
+      "temperature": 21.3
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 8.4
+    },
+    "15AC": {
+      "temperature": 21.6
+    }
+  },
+  "1582740000": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 18.9
+    },
+    "F390": {
+      "temperature": 21.2
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 7.5
+    },
+    "15AC": {
+      "temperature": 21.6
+    }
+  },
+  "1582747200": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 18.7
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 6.9
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582754400": {
+    "B0E9": {
+      "temperature": 21.4
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 24.0
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 7.4
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1582761600": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.0
+    },
+    "F2B6": {
+      "temperature": 31.1
+    },
+    "F390": {
+      "temperature": 21.6
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 11.1
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1582768800": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 21.2
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 31.1
+    },
+    "F390": {
+      "temperature": 22.0
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 12.4
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582776000": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.3
+    },
+    "DFA5": {
+      "temperature": 21.5
+    },
+    "F2B6": {
+      "temperature": 27.1
+    },
+    "F390": {
+      "temperature": 22.1
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 12.3
+    },
+    "15AC": {
+      "temperature": 21.6
+    }
+  },
+  "1582783200": {
+    "B0E9": {
+      "temperature": 22.3
+    },
+    "B356": {
+      "temperature": 21.2
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 23.3
+    },
+    "F390": {
+      "temperature": 22.0
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 11.1
+    },
+    "15AC": {
+      "temperature": 21.6
+    }
+  },
+  "1582790400": {
+    "B0E9": {
+      "temperature": 22.1
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 21.4
+    },
+    "F390": {
+      "temperature": 21.6
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 8.9
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1582797600": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.0
+    },
+    "F2B6": {
+      "temperature": 20.3
+    },
+    "F390": {
+      "temperature": 21.2
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 7.5
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582804800": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 19.9
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 6.6
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582815600": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.9
+    },
+    "F2B6": {
+      "temperature": 19.5
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 6.2
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582819200": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 19.3
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 5.8
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582826400": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.7
+    },
+    "F2B6": {
+      "temperature": 19.0
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 5.4
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582833600": {
+    "B0E9": {
+      "temperature": 21.2
+    },
+    "B356": {
+      "temperature": 20.6
+    },
+    "DFA5": {
+      "temperature": 20.5
+    },
+    "F2B6": {
+      "temperature": 18.8
+    },
+    "F390": {
+      "temperature": 20.8
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 5.0
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1582840800": {
+    "B0E9": {
+      "temperature": 21.1
+    },
+    "B356": {
+      "temperature": 20.6
+    },
+    "DFA5": {
+      "temperature": 20.6
+    },
+    "F2B6": {
+      "temperature": 24.8
+    },
+    "F390": {
+      "temperature": 20.9
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 5.7
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1582848000": {
+    "B0E9": {
+      "temperature": 21.2
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.9
+    },
+    "F2B6": {
+      "temperature": 31.6
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 9.8
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1582855200": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 32.1
+    },
+    "F390": {
+      "temperature": 21.9
+    },
+    "14AF": {
+      "temperature": 20.3
+    },
+    "1618": {
+      "temperature": 12.3
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582862400": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 20.9
+    },
+    "DFA5": {
+      "temperature": 21.5
+    },
+    "F2B6": {
+      "temperature": 27.4
+    },
+    "F390": {
+      "temperature": 22.0
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 12.4
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582869600": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 21.3
+    },
+    "F2B6": {
+      "temperature": 23.7
+    },
+    "F390": {
+      "temperature": 21.4
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 11.8
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582876800": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 21.0
+    },
+    "F2B6": {
+      "temperature": 21.9
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 11.1
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582884000": {
+    "B0E9": {
+      "temperature": 21.6
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.9
+    },
+    "F2B6": {
+      "temperature": 21.0
+    },
+    "F390": {
+      "temperature": 21.0
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 10.4
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582891200": {
+    "B0E9": {
+      "temperature": 21.6
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 20.6
+    },
+    "F390": {
+      "temperature": 20.8
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 10.2
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582902000": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.9
+    },
+    "F2B6": {
+      "temperature": 20.4
+    },
+    "F390": {
+      "temperature": 20.8
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 10.2
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582905600": {
+    "B0E9": {
+      "temperature": 21.9
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.9
+    },
+    "F2B6": {
+      "temperature": 20.3
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 9.1
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582912800": {
+    "B0E9": {
+      "temperature": 21.8
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.8
+    },
+    "F2B6": {
+      "temperature": 19.9
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 8.1
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582920000": {
+    "B0E9": {
+      "temperature": 21.5
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.6
+    },
+    "F2B6": {
+      "temperature": 19.7
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 7.6
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582927200": {
+    "B0E9": {
+      "temperature": 21.4
+    },
+    "B356": {
+      "temperature": 20.7
+    },
+    "DFA5": {
+      "temperature": 20.6
+    },
+    "F2B6": {
+      "temperature": 20.7
+    },
+    "F390": {
+      "temperature": 21.1
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 7.9
+    },
+    "15AC": {
+      "temperature": 21.1
+    }
+  },
+  "1582934400": {
+    "B0E9": {
+      "temperature": 21.4
+    },
+    "B356": {
+      "temperature": 20.8
+    },
+    "DFA5": {
+      "temperature": 20.9
+    },
+    "F2B6": {
+      "temperature": 29.7
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 11.6
+    },
+    "15AC": {
+      "temperature": 21.2
+    }
+  },
+  "1582941600": {
+    "B0E9": {
+      "temperature": 21.7
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 31.2
+    },
+    "F390": {
+      "temperature": 22.0
+    },
+    "14AF": {
+      "temperature": 20.4
+    },
+    "1618": {
+      "temperature": 13.6
+    },
+    "15AC": {
+      "temperature": 21.3
+    }
+  },
+  "1582948800": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.6
+    },
+    "F2B6": {
+      "temperature": 27.7
+    },
+    "F390": {
+      "temperature": 22.2
+    },
+    "14AF": {
+      "temperature": 20.5
+    },
+    "1618": {
+      "temperature": 14.3
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582956000": {
+    "B0E9": {
+      "temperature": 22.2
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.4
+    },
+    "F2B6": {
+      "temperature": 24.0
+    },
+    "F390": {
+      "temperature": 22.0
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 13.8
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1582963200": {
+    "B0E9": {
+      "temperature": 22.1
+    },
+    "B356": {
+      "temperature": 21.0
+    },
+    "DFA5": {
+      "temperature": 21.2
+    },
+    "F2B6": {
+      "temperature": 22.3
+    },
+    "F390": {
+      "temperature": 21.7
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 13.4
+    },
+    "15AC": {
+      "temperature": 21.4
+    }
+  },
+  "1582970400": {
+    "B0E9": {
+      "temperature": 22.0
+    },
+    "B356": {
+      "temperature": 21.1
+    },
+    "DFA5": {
+      "temperature": 21.1
+    },
+    "F2B6": {
+      "temperature": 21.7
+    },
+    "F390": {
+      "temperature": 21.5
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 12.7
+    },
+    "15AC": {
+      "temperature": 21.5
+    }
+  },
+  "1582977600": {
+    "B0E9": {
+      "temperature": 22.3
+    },
+    "B356": {
+      "temperature": 21.2
+    },
+    "DFA5": {
+      "temperature": 21.1
+    },
+    "F2B6": {
+      "temperature": 21.4
+    },
+    "F390": {
+      "temperature": 21.6
+    },
+    "14AF": {
+      "temperature": 20.6
+    },
+    "1618": {
+      "temperature": 12.1
+    },
+    "15AC": {
+      "temperature": 21.6
+    }
+  }
+}
