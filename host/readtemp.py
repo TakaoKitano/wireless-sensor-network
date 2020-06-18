@@ -158,7 +158,7 @@ def processValue(current, logs, values):
 def update_primary_log_file(logs):
     # delete old entries
     now = int(time.time())
-    for key in logs:
+    for key in list(logs.keys()):
         if int(key) < (now - LOG_PERIOD):
             del logs[key]
     # update log file
@@ -171,7 +171,7 @@ def update_secondary_log_file(logs):
     # (fromtimestamp returns local date)
     now = time.time()
     date = datetime.date.fromtimestamp(now - 300)
-    for key in logs:
+    for key in list(logs.keys()):
         if datetime.date.fromtimestamp(int(key)).day != date.day:
             del logs[key]
     filepath = os.path.join(SECONDARY_LOG_DIR, date.strftime("%Y-%m-%d.json"))
