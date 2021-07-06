@@ -86,7 +86,7 @@ def readtemp():
     while data is None:
         try:
             if not hasattr(readtemp, "port"):
-                readtemp.port = serial.Serial("/dev/ttyUSB0", 115200)
+                readtemp.port = serial.Serial("/dev/ttyUSB1", 115200)
             data = readtemp.port.readline().decode("utf-8")
         except:
             print("exception while accessing /dev/ttyUSB")

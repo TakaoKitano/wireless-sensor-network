@@ -1,0 +1,7800 @@
+{
+  "1592406000": {
+    "B0E9": {
+      "datetime": "2020-06-18 00:04:44",
+      "time": 1592406284,
+      "route": 2,
+      "signal": 27,
+      "temperature": 26.65,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 00:04:14",
+      "time": 1592406254,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.96,
+      "battery": 3270
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 00:04:52",
+      "time": 1592406292,
+      "route": 2,
+      "signal": 45,
+      "temperature": 27.64,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 00:04:50",
+      "time": 1592406290,
+      "route": 2,
+      "signal": 90,
+      "temperature": 26.5,
+      "battery": 3360
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 00:04:50",
+      "time": 1592406290,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.02,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 00:04:41",
+      "time": 1592406281,
+      "route": 3,
+      "signal": 156,
+      "temperature": 25.46,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 00:04:34",
+      "time": 1592406274,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.16,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 00:04:52",
+      "time": 1592406292,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.44,
+      "battery": 3330
+    }
+  },
+  "1592406300": {
+    "14AF": {
+      "datetime": "2020-06-18 00:09:41",
+      "time": 1592406581,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.22,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 00:09:40",
+      "time": 1592406580,
+      "route": 6,
+      "signal": 93,
+      "temperature": 27.95,
+      "battery": 3270
+    },
+    "15AC": {
+      "datetime": "2020-06-18 00:09:58",
+      "time": 1592406598,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.46,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 00:09:46",
+      "time": 1592406586,
+      "route": 3,
+      "signal": 15,
+      "temperature": 26.61,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 00:09:48",
+      "time": 1592406588,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.96,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 00:09:59",
+      "time": 1592406599,
+      "route": 2,
+      "signal": 39,
+      "temperature": 27.63,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 00:09:51",
+      "time": 1592406591,
+      "route": 4,
+      "signal": 102,
+      "temperature": 24.41,
+      "battery": 3320
+    },
+    "B356": {
+      "datetime": "2020-06-18 00:09:53",
+      "time": 1592406593,
+      "route": 3,
+      "signal": 90,
+      "temperature": 26.41,
+      "battery": 3360
+    }
+  },
+  "1592406600": {
+    "F390": {
+      "datetime": "2020-06-18 00:14:38",
+      "time": 1592406878,
+      "route": 6,
+      "signal": 93,
+      "temperature": 27.98,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 00:14:49",
+      "time": 1592406889,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.16,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 00:14:48",
+      "time": 1592406888,
+      "route": 1,
+      "signal": 15,
+      "temperature": 26.67,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 00:14:46",
+      "time": 1592406886,
+      "route": 7,
+      "signal": 96,
+      "temperature": 27.97,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 00:14:54",
+      "time": 1592406894,
+      "route": 2,
+      "signal": 90,
+      "temperature": 26.46,
+      "battery": 3360
+    },
+    "1618": {
+      "datetime": "2020-06-18 00:14:49",
+      "time": 1592406889,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.41,
+      "battery": 3330
+    },
+    "15AC": {
+      "datetime": "2020-06-18 00:14:46",
+      "time": 1592406886,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.44,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 00:14:38",
+      "time": 1592406878,
+      "route": 2,
+      "signal": 42,
+      "temperature": 27.6,
+      "battery": 3350
+    }
+  },
+  "1592406900": {
+    "F390": {
+      "datetime": "2020-06-18 00:19:36",
+      "time": 1592407176,
+      "route": 6,
+      "signal": 93,
+      "temperature": 27.94,
+      "battery": 3270
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 00:19:45",
+      "time": 1592407185,
+      "route": 2,
+      "signal": 36,
+      "temperature": 27.6,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 00:19:33",
+      "time": 1592407173,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.5,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 00:19:43",
+      "time": 1592407183,
+      "route": 7,
+      "signal": 96,
+      "temperature": 27.94,
+      "battery": 3340
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 00:19:51",
+      "time": 1592407191,
+      "route": 3,
+      "signal": 33,
+      "temperature": 26.63,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 00:19:56",
+      "time": 1592407196,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.17,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 00:19:48",
+      "time": 1592407188,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.41,
+      "battery": 3320
+    },
+    "B356": {
+      "datetime": "2020-06-18 00:19:57",
+      "time": 1592407197,
+      "route": 6,
+      "signal": 90,
+      "temperature": 26.45,
+      "battery": 3350
+    }
+  },
+  "1592407200": {
+    "15AC": {
+      "datetime": "2020-06-18 00:24:50",
+      "time": 1592407490,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.43,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 00:24:34",
+      "time": 1592407474,
+      "route": 6,
+      "signal": 93,
+      "temperature": 27.96,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 00:24:41",
+      "time": 1592407481,
+      "route": 7,
+      "signal": 96,
+      "temperature": 27.95,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 00:24:52",
+      "time": 1592407492,
+      "route": 2,
+      "signal": 39,
+      "temperature": 27.63,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 00:24:46",
+      "time": 1592407486,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.34,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 00:24:54",
+      "time": 1592407494,
+      "route": 3,
+      "signal": 24,
+      "temperature": 26.71,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 00:24:58",
+      "time": 1592407498,
+      "route": 2,
+      "signal": 90,
+      "temperature": 26.5,
+      "battery": 3360
+    },
+    "14AF": {
+      "datetime": "2020-06-18 00:24:35",
+      "time": 1592407475,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.15,
+      "battery": 3350
+    }
+  },
+  "1592407500": {
+    "F390": {
+      "datetime": "2020-06-18 00:29:59",
+      "time": 1592407799,
+      "route": 6,
+      "signal": 93,
+      "temperature": 27.96,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 00:29:43",
+      "time": 1592407783,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.13,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 00:29:39",
+      "time": 1592407779,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.95,
+      "battery": 3340
+    },
+    "1618": {
+      "datetime": "2020-06-18 00:29:45",
+      "time": 1592407785,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.33,
+      "battery": 3320
+    },
+    "15AC": {
+      "datetime": "2020-06-18 00:29:37",
+      "time": 1592407777,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.46,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 00:29:59",
+      "time": 1592407799,
+      "route": 2,
+      "signal": 42,
+      "temperature": 27.61,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 00:29:56",
+      "time": 1592407796,
+      "route": 3,
+      "signal": 24,
+      "temperature": 26.67,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 00:29:33",
+      "time": 1592407773,
+      "route": 2,
+      "signal": 90,
+      "temperature": 26.45,
+      "battery": 3360
+    }
+  },
+  "1592407800": {
+    "15AC": {
+      "datetime": "2020-06-18 00:34:54",
+      "time": 1592408094,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.44,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 00:34:36",
+      "time": 1592408076,
+      "route": 7,
+      "signal": 96,
+      "temperature": 27.98,
+      "battery": 3340
+    },
+    "14AF": {
+      "datetime": "2020-06-18 00:34:50",
+      "time": 1592408090,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.14,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 00:34:44",
+      "time": 1592408084,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.32,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 00:34:58",
+      "time": 1592408098,
+      "route": 1,
+      "signal": 21,
+      "temperature": 26.68,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 00:34:58",
+      "time": 1592408098,
+      "route": 6,
+      "signal": 96,
+      "temperature": 27.96,
+      "battery": 3270
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 00:34:38",
+      "time": 1592408078,
+      "route": 2,
+      "signal": 42,
+      "temperature": 27.61,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 00:34:34",
+      "time": 1592408074,
+      "route": 2,
+      "signal": 90,
+      "temperature": 26.43,
+      "battery": 3360
+    }
+  },
+  "1592408100": {
+    "B356": {
+      "datetime": "2020-06-18 00:39:36",
+      "time": 1592408376,
+      "route": 4,
+      "signal": 6,
+      "temperature": 26.47,
+      "battery": 3360
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 00:39:34",
+      "time": 1592408374,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.98,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 00:39:45",
+      "time": 1592408385,
+      "route": 2,
+      "signal": 39,
+      "temperature": 27.58,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 00:39:42",
+      "time": 1592408382,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.32,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 00:39:57",
+      "time": 1592408397,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.13,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 00:39:42",
+      "time": 1592408382,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.42,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 00:39:56",
+      "time": 1592408396,
+      "route": 6,
+      "signal": 93,
+      "temperature": 27.96,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 00:39:33",
+      "time": 1592408373,
+      "route": 3,
+      "signal": 24,
+      "temperature": 26.7,
+      "battery": 3350
+    }
+  },
+  "1592408400": {
+    "B0E9": {
+      "datetime": "2020-06-18 00:44:36",
+      "time": 1592408676,
+      "route": 3,
+      "signal": 27,
+      "temperature": 26.67,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 00:44:38",
+      "time": 1592408678,
+      "route": 2,
+      "signal": 90,
+      "temperature": 26.47,
+      "battery": 3360
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 00:44:32",
+      "time": 1592408672,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.95,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 00:44:58",
+      "time": 1592408698,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.43,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 00:44:41",
+      "time": 1592408681,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.25,
+      "battery": 3320
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 00:44:52",
+      "time": 1592408692,
+      "route": 2,
+      "signal": 39,
+      "temperature": 27.62,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 00:44:54",
+      "time": 1592408694,
+      "route": 6,
+      "signal": 93,
+      "temperature": 27.96,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 00:44:37",
+      "time": 1592408677,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.12,
+      "battery": 3350
+    }
+  },
+  "1592408700": {
+    "F2B6": {
+      "datetime": "2020-06-18 00:49:59",
+      "time": 1592408999,
+      "route": 1,
+      "signal": 24,
+      "temperature": 27.97,
+      "battery": 3340
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 00:49:38",
+      "time": 1592408978,
+      "route": 3,
+      "signal": 24,
+      "temperature": 26.69,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 00:49:44",
+      "time": 1592408984,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.12,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 00:49:39",
+      "time": 1592408979,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.25,
+      "battery": 3320
+    },
+    "F390": {
+      "datetime": "2020-06-18 00:49:52",
+      "time": 1592408992,
+      "route": 6,
+      "signal": 93,
+      "temperature": 27.99,
+      "battery": 3270
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 00:49:32",
+      "time": 1592408972,
+      "route": 2,
+      "signal": 42,
+      "temperature": 27.58,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 00:49:45",
+      "time": 1592408985,
+      "route": 1,
+      "signal": 156,
+      "temperature": 25.42,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 00:49:40",
+      "time": 1592408980,
+      "route": 2,
+      "signal": 90,
+      "temperature": 26.41,
+      "battery": 3350
+    }
+  },
+  "1592409000": {
+    "F2B6": {
+      "datetime": "2020-06-18 00:54:58",
+      "time": 1592409298,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.94,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 00:54:11",
+      "time": 1592409251,
+      "route": 2,
+      "signal": 39,
+      "temperature": 27.6,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 00:54:40",
+      "time": 1592409280,
+      "route": 3,
+      "signal": 30,
+      "temperature": 26.67,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 00:54:42",
+      "time": 1592409282,
+      "route": 6,
+      "signal": 90,
+      "temperature": 26.43,
+      "battery": 3360
+    },
+    "1618": {
+      "datetime": "2020-06-18 00:54:38",
+      "time": 1592409278,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.14,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 00:54:51",
+      "time": 1592409291,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.11,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 00:54:34",
+      "time": 1592409274,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.42,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 00:54:50",
+      "time": 1592409290,
+      "route": 6,
+      "signal": 93,
+      "temperature": 27.96,
+      "battery": 3270
+    }
+  },
+  "1592409300": {
+    "15AC": {
+      "datetime": "2020-06-18 00:59:50",
+      "time": 1592409590,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.39,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 00:59:18",
+      "time": 1592409558,
+      "route": 2,
+      "signal": 39,
+      "temperature": 27.62,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 00:59:43",
+      "time": 1592409583,
+      "route": 3,
+      "signal": 33,
+      "temperature": 26.67,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 00:59:36",
+      "time": 1592409576,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.16,
+      "battery": 3320
+    },
+    "B356": {
+      "datetime": "2020-06-18 00:59:44",
+      "time": 1592409584,
+      "route": 6,
+      "signal": 90,
+      "temperature": 26.42,
+      "battery": 3360
+    },
+    "F390": {
+      "datetime": "2020-06-18 00:59:48",
+      "time": 1592409588,
+      "route": 6,
+      "signal": 93,
+      "temperature": 27.97,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 00:59:59",
+      "time": 1592409599,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.09,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 00:59:55",
+      "time": 1592409595,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.96,
+      "battery": 3340
+    }
+  },
+  "1592409600": {
+    "1618": {
+      "datetime": "2020-06-18 01:00:06",
+      "time": 1592409606,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.14,
+      "battery": 3330
+    }
+  },
+  "1592460600": {
+    "B0E9": {
+      "datetime": "2020-06-18 15:14:41",
+      "time": 1592460881,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.26,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 15:14:53",
+      "time": 1592460893,
+      "route": 4,
+      "signal": 99,
+      "temperature": 26.06,
+      "battery": 3320
+    },
+    "15AC": {
+      "datetime": "2020-06-18 15:14:53",
+      "time": 1592460893,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.54,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 15:14:23",
+      "time": 1592460863,
+      "route": 1,
+      "signal": 39,
+      "temperature": 24.26,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 15:13:56",
+      "time": 1592460836,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.83,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 15:14:57",
+      "time": 1592460897,
+      "route": 4,
+      "signal": 21,
+      "temperature": 28.26,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 15:14:39",
+      "time": 1592460879,
+      "route": 7,
+      "signal": 99,
+      "temperature": 29.13,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 15:14:36",
+      "time": 1592460876,
+      "route": 6,
+      "signal": 87,
+      "temperature": 27.07,
+      "battery": 3350
+    }
+  },
+  "1592460900": {
+    "B356": {
+      "datetime": "2020-06-18 15:18:15",
+      "time": 1592461095,
+      "route": 2,
+      "signal": 90,
+      "temperature": 27.07,
+      "battery": 3360
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 15:19:43",
+      "time": 1592461183,
+      "route": 1,
+      "signal": 27,
+      "temperature": 27.27,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 15:19:07",
+      "time": 1592461147,
+      "route": 5,
+      "signal": 36,
+      "temperature": 29.14,
+      "battery": 3340
+    },
+    "14AF": {
+      "datetime": "2020-06-18 15:19:58",
+      "time": 1592461198,
+      "route": 1,
+      "signal": 42,
+      "temperature": 24.24,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 15:19:31",
+      "time": 1592461171,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.85,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 15:19:41",
+      "time": 1592461181,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.5,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 15:19:52",
+      "time": 1592461192,
+      "route": 4,
+      "signal": 99,
+      "temperature": 26.06,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 15:19:55",
+      "time": 1592461195,
+      "route": 4,
+      "signal": 18,
+      "temperature": 28.26,
+      "battery": 3270
+    }
+  },
+  "1592461200": {
+    "F2B6": {
+      "datetime": "2020-06-18 15:24:34",
+      "time": 1592461474,
+      "route": 5,
+      "signal": 33,
+      "temperature": 29.08,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 15:24:58",
+      "time": 1592461498,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.53,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 15:24:45",
+      "time": 1592461485,
+      "route": 1,
+      "signal": 30,
+      "temperature": 27.24,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 15:24:50",
+      "time": 1592461490,
+      "route": 4,
+      "signal": 99,
+      "temperature": 26.0,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 15:24:53",
+      "time": 1592461493,
+      "route": 4,
+      "signal": 27,
+      "temperature": 28.25,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 15:24:38",
+      "time": 1592461478,
+      "route": 1,
+      "signal": 54,
+      "temperature": 24.31,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 15:24:10",
+      "time": 1592461450,
+      "route": 2,
+      "signal": 51,
+      "temperature": 27.84,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 15:24:12",
+      "time": 1592461452,
+      "route": 2,
+      "signal": 87,
+      "temperature": 27.03,
+      "battery": 3360
+    }
+  },
+  "1592461500": {
+    "F2B6": {
+      "datetime": "2020-06-18 15:29:32",
+      "time": 1592461772,
+      "route": 7,
+      "signal": 99,
+      "temperature": 29.05,
+      "battery": 3340
+    },
+    "14AF": {
+      "datetime": "2020-06-18 15:29:45",
+      "time": 1592461785,
+      "route": 1,
+      "signal": 39,
+      "temperature": 24.3,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 15:29:17",
+      "time": 1592461757,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.84,
+      "battery": 3360
+    },
+    "B356": {
+      "datetime": "2020-06-18 15:29:41",
+      "time": 1592461781,
+      "route": 6,
+      "signal": 87,
+      "temperature": 27.0,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 15:29:48",
+      "time": 1592461788,
+      "route": 1,
+      "signal": 24,
+      "temperature": 27.21,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 15:29:49",
+      "time": 1592461789,
+      "route": 4,
+      "signal": 99,
+      "temperature": 26.03,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 15:29:51",
+      "time": 1592461791,
+      "route": 4,
+      "signal": 15,
+      "temperature": 28.22,
+      "battery": 3270
+    },
+    "15AC": {
+      "datetime": "2020-06-18 15:29:45",
+      "time": 1592461785,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.55,
+      "battery": 3330
+    }
+  },
+  "1592461800": {
+    "F2B6": {
+      "datetime": "2020-06-18 15:34:30",
+      "time": 1592462070,
+      "route": 4,
+      "signal": 12,
+      "temperature": 29.03,
+      "battery": 3340
+    },
+    "14AF": {
+      "datetime": "2020-06-18 15:34:52",
+      "time": 1592462092,
+      "route": 1,
+      "signal": 39,
+      "temperature": 24.32,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 15:32:05",
+      "time": 1592461925,
+      "route": 2,
+      "signal": 66,
+      "temperature": 27.85,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 15:34:33",
+      "time": 1592462073,
+      "route": 1,
+      "signal": 156,
+      "temperature": 25.55,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 15:34:50",
+      "time": 1592462090,
+      "route": 1,
+      "signal": 27,
+      "temperature": 27.2,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 15:34:47",
+      "time": 1592462087,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.96,
+      "battery": 3320
+    },
+    "F390": {
+      "datetime": "2020-06-18 15:34:50",
+      "time": 1592462090,
+      "route": 4,
+      "signal": 21,
+      "temperature": 28.2,
+      "battery": 3270
+    },
+    "B356": {
+      "datetime": "2020-06-18 15:34:43",
+      "time": 1592462083,
+      "route": 4,
+      "signal": 12,
+      "temperature": 26.95,
+      "battery": 3360
+    }
+  },
+  "1592462100": {
+    "15AC": {
+      "datetime": "2020-06-18 15:39:49",
+      "time": 1592462389,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.49,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 15:39:45",
+      "time": 1592462385,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.95,
+      "battery": 3360
+    },
+    "F390": {
+      "datetime": "2020-06-18 15:39:48",
+      "time": 1592462388,
+      "route": 6,
+      "signal": 102,
+      "temperature": 28.24,
+      "battery": 3260
+    },
+    "1618": {
+      "datetime": "2020-06-18 15:39:45",
+      "time": 1592462385,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.94,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 15:39:32",
+      "time": 1592462372,
+      "route": 1,
+      "signal": 66,
+      "temperature": 24.3,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 15:39:53",
+      "time": 1592462393,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.21,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 15:39:57",
+      "time": 1592462397,
+      "route": 7,
+      "signal": 102,
+      "temperature": 28.96,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 15:39:59",
+      "time": 1592462399,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.81,
+      "battery": 3350
+    }
+  },
+  "1592462400": {
+    "14AF": {
+      "datetime": "2020-06-18 15:44:39",
+      "time": 1592462679,
+      "route": 1,
+      "signal": 66,
+      "temperature": 24.25,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 15:44:47",
+      "time": 1592462687,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.98,
+      "battery": 3360
+    },
+    "F390": {
+      "datetime": "2020-06-18 15:44:46",
+      "time": 1592462686,
+      "route": 6,
+      "signal": 117,
+      "temperature": 28.21,
+      "battery": 3270
+    },
+    "1618": {
+      "datetime": "2020-06-18 15:44:44",
+      "time": 1592462684,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.89,
+      "battery": 3330
+    },
+    "15AC": {
+      "datetime": "2020-06-18 15:44:37",
+      "time": 1592462677,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.52,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 15:44:55",
+      "time": 1592462695,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.23,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 15:44:55",
+      "time": 1592462695,
+      "route": 7,
+      "signal": 90,
+      "temperature": 28.95,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 15:44:38",
+      "time": 1592462678,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.86,
+      "battery": 3350
+    }
+  },
+  "1592462700": {
+    "15AC": {
+      "datetime": "2020-06-18 15:49:54",
+      "time": 1592462994,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.53,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 15:49:45",
+      "time": 1592462985,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.85,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 15:49:46",
+      "time": 1592462986,
+      "route": 1,
+      "signal": 66,
+      "temperature": 24.26,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 15:49:44",
+      "time": 1592462984,
+      "route": 6,
+      "signal": 90,
+      "temperature": 28.25,
+      "battery": 3260
+    },
+    "1618": {
+      "datetime": "2020-06-18 15:49:42",
+      "time": 1592462982,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.78,
+      "battery": 3320
+    },
+    "B356": {
+      "datetime": "2020-06-18 15:49:49",
+      "time": 1592462989,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.98,
+      "battery": 3360
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 15:49:57",
+      "time": 1592462997,
+      "route": 2,
+      "signal": 36,
+      "temperature": 27.24,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 15:49:53",
+      "time": 1592462993,
+      "route": 7,
+      "signal": 102,
+      "temperature": 28.9,
+      "battery": 3340
+    }
+  },
+  "1592463000": {
+    "F390": {
+      "datetime": "2020-06-18 15:54:42",
+      "time": 1592463282,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.26,
+      "battery": 3270
+    },
+    "1618": {
+      "datetime": "2020-06-18 15:54:41",
+      "time": 1592463281,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.76,
+      "battery": 3320
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 15:54:53",
+      "time": 1592463293,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.9,
+      "battery": 3360
+    },
+    "14AF": {
+      "datetime": "2020-06-18 15:54:54",
+      "time": 1592463294,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.26,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 15:53:56",
+      "time": 1592463236,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.02,
+      "battery": 3360
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 15:54:50",
+      "time": 1592463290,
+      "route": 5,
+      "signal": 30,
+      "temperature": 28.91,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 15:54:41",
+      "time": 1592463281,
+      "route": 1,
+      "signal": 159,
+      "temperature": 25.51,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 15:54:32",
+      "time": 1592463272,
+      "route": 1,
+      "signal": 27,
+      "temperature": 27.25,
+      "battery": 3350
+    }
+  },
+  "1592463300": {
+    "B0E9": {
+      "datetime": "2020-06-18 15:59:35",
+      "time": 1592463575,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.29,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 15:59:41",
+      "time": 1592463581,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.29,
+      "battery": 3270
+    },
+    "15AC": {
+      "datetime": "2020-06-18 15:59:58",
+      "time": 1592463598,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.5,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 15:59:39",
+      "time": 1592463579,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.6,
+      "battery": 3320
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 15:59:48",
+      "time": 1592463588,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.86,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 15:59:32",
+      "time": 1592463572,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.87,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 15:59:33",
+      "time": 1592463573,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.25,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 15:59:52",
+      "time": 1592463592,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.02,
+      "battery": 3350
+    }
+  },
+  "1592463600": {
+    "14AF": {
+      "datetime": "2020-06-18 16:04:40",
+      "time": 1592463880,
+      "route": 1,
+      "signal": 66,
+      "temperature": 24.19,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 16:04:37",
+      "time": 1592463877,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.27,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 16:04:38",
+      "time": 1592463878,
+      "route": 4,
+      "signal": 18,
+      "temperature": 28.25,
+      "battery": 3270
+    },
+    "1618": {
+      "datetime": "2020-06-18 16:04:37",
+      "time": 1592463877,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.43,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 16:04:45",
+      "time": 1592463885,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.88,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 16:04:54",
+      "time": 1592463894,
+      "route": 2,
+      "signal": 87,
+      "temperature": 27.06,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 16:04:46",
+      "time": 1592463886,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.52,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 16:04:39",
+      "time": 1592463879,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.86,
+      "battery": 3350
+    }
+  },
+  "1592463900": {
+    "B0E9": {
+      "datetime": "2020-06-18 16:09:40",
+      "time": 1592464180,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.27,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 16:09:37",
+      "time": 1592464177,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.28,
+      "battery": 3270
+    },
+    "1618": {
+      "datetime": "2020-06-18 16:09:36",
+      "time": 1592464176,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.34,
+      "battery": 3320
+    },
+    "14AF": {
+      "datetime": "2020-06-18 16:09:48",
+      "time": 1592464188,
+      "route": 1,
+      "signal": 66,
+      "temperature": 24.17,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 16:09:33",
+      "time": 1592464173,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.5,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 16:09:43",
+      "time": 1592464183,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.8,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 16:09:56",
+      "time": 1592464196,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.02,
+      "battery": 3360
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 16:09:46",
+      "time": 1592464186,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.86,
+      "battery": 3350
+    }
+  },
+  "1592464200": {
+    "15AC": {
+      "datetime": "2020-06-18 16:14:50",
+      "time": 1592464490,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.48,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 16:14:35",
+      "time": 1592464475,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.31,
+      "battery": 3270
+    },
+    "1618": {
+      "datetime": "2020-06-18 16:14:34",
+      "time": 1592464474,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.28,
+      "battery": 3320
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 16:13:47",
+      "time": 1592464427,
+      "route": 1,
+      "signal": 24,
+      "temperature": 27.28,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 16:14:41",
+      "time": 1592464481,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.77,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 16:14:53",
+      "time": 1592464493,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.86,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 16:14:55",
+      "time": 1592464495,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.13,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 16:14:58",
+      "time": 1592464498,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.01,
+      "battery": 3360
+    }
+  },
+  "1592464500": {
+    "F390": {
+      "datetime": "2020-06-18 16:19:33",
+      "time": 1592464773,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.31,
+      "battery": 3270
+    },
+    "1618": {
+      "datetime": "2020-06-18 16:19:33",
+      "time": 1592464773,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.24,
+      "battery": 3320
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 16:19:44",
+      "time": 1592464784,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.29,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 16:19:38",
+      "time": 1592464778,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.72,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 16:19:38",
+      "time": 1592464778,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.47,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 16:19:04",
+      "time": 1592464744,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.85,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 16:19:34",
+      "time": 1592464774,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.13,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 16:19:33",
+      "time": 1592464773,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.03,
+      "battery": 3360
+    }
+  },
+  "1592464800": {
+    "DFA5": {
+      "datetime": "2020-06-18 16:24:39",
+      "time": 1592465079,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.85,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 16:24:35",
+      "time": 1592465075,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.04,
+      "battery": 3360
+    },
+    "F390": {
+      "datetime": "2020-06-18 16:24:58",
+      "time": 1592465098,
+      "route": 4,
+      "signal": 21,
+      "temperature": 28.28,
+      "battery": 3260
+    },
+    "14AF": {
+      "datetime": "2020-06-18 16:24:42",
+      "time": 1592465082,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.17,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 16:24:31",
+      "time": 1592465071,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.22,
+      "battery": 3320
+    },
+    "15AC": {
+      "datetime": "2020-06-18 16:24:54",
+      "time": 1592465094,
+      "route": 5,
+      "signal": 159,
+      "temperature": 25.5,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 16:24:36",
+      "time": 1592465076,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.71,
+      "battery": 3340
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 16:24:47",
+      "time": 1592465087,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.31,
+      "battery": 3350
+    }
+  },
+  "1592465100": {
+    "1618": {
+      "datetime": "2020-06-18 16:29:30",
+      "time": 1592465370,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.18,
+      "battery": 3320
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 16:29:34",
+      "time": 1592465374,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.63,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 16:29:46",
+      "time": 1592465386,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.82,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 16:29:49",
+      "time": 1592465389,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.16,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 16:29:49",
+      "time": 1592465389,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.28,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 16:29:42",
+      "time": 1592465382,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.46,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 16:29:57",
+      "time": 1592465397,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.31,
+      "battery": 3270
+    },
+    "B356": {
+      "datetime": "2020-06-18 16:29:36",
+      "time": 1592465376,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.03,
+      "battery": 3350
+    }
+  },
+  "1592465400": {
+    "1618": {
+      "datetime": "2020-06-18 16:34:58",
+      "time": 1592465698,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.11,
+      "battery": 3320
+    },
+    "B356": {
+      "datetime": "2020-06-18 16:34:38",
+      "time": 1592465678,
+      "route": 2,
+      "signal": 87,
+      "temperature": 27.02,
+      "battery": 3360
+    },
+    "15AC": {
+      "datetime": "2020-06-18 16:34:59",
+      "time": 1592465699,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.46,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 16:34:25",
+      "time": 1592465665,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.86,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 16:34:51",
+      "time": 1592465691,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.32,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 16:34:56",
+      "time": 1592465696,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.14,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 16:34:55",
+      "time": 1592465695,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.29,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 16:34:31",
+      "time": 1592465671,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.6,
+      "battery": 3340
+    }
+  },
+  "1592465700": {
+    "F2B6": {
+      "datetime": "2020-06-18 16:39:59",
+      "time": 1592465999,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.56,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 16:39:40",
+      "time": 1592465980,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.04,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 16:39:54",
+      "time": 1592465994,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.29,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 16:39:32",
+      "time": 1592465972,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.83,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 16:39:53",
+      "time": 1592465993,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.25,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 16:39:35",
+      "time": 1592465975,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.18,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 16:39:46",
+      "time": 1592465986,
+      "route": 1,
+      "signal": 159,
+      "temperature": 25.47,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 16:39:57",
+      "time": 1592465997,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.08,
+      "battery": 3320
+    }
+  },
+  "1592466000": {
+    "DFA5": {
+      "datetime": "2020-06-18 16:44:39",
+      "time": 1592466279,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.86,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 16:44:43",
+      "time": 1592466283,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.15,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 16:44:42",
+      "time": 1592466282,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.05,
+      "battery": 3360
+    },
+    "15AC": {
+      "datetime": "2020-06-18 16:44:34",
+      "time": 1592466274,
+      "route": 3,
+      "signal": 156,
+      "temperature": 25.47,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 16:44:51",
+      "time": 1592466291,
+      "route": 2,
+      "signal": 99,
+      "temperature": 28.24,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 16:44:56",
+      "time": 1592466296,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.31,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 16:44:55",
+      "time": 1592466295,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.07,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 16:44:57",
+      "time": 1592466297,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.58,
+      "battery": 3340
+    }
+  },
+  "1592466300": {
+    "15AC": {
+      "datetime": "2020-06-18 16:49:51",
+      "time": 1592466591,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.45,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 16:49:47",
+      "time": 1592466587,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.82,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 16:49:44",
+      "time": 1592466584,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.03,
+      "battery": 3360
+    },
+    "14AF": {
+      "datetime": "2020-06-18 16:49:50",
+      "time": 1592466590,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.17,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 16:49:58",
+      "time": 1592466598,
+      "route": 1,
+      "signal": 24,
+      "temperature": 27.33,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 16:49:54",
+      "time": 1592466594,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.02,
+      "battery": 3320
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 16:49:25",
+      "time": 1592466565,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.57,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 16:49:50",
+      "time": 1592466590,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.25,
+      "battery": 3270
+    }
+  },
+  "1592466600": {
+    "DFA5": {
+      "datetime": "2020-06-18 16:54:54",
+      "time": 1592466894,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.88,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 16:54:48",
+      "time": 1592466888,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.26,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 16:54:57",
+      "time": 1592466897,
+      "route": 1,
+      "signal": 66,
+      "temperature": 24.12,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 16:54:38",
+      "time": 1592466878,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.47,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 16:54:52",
+      "time": 1592466892,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.93,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 16:54:52",
+      "time": 1592466892,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.54,
+      "battery": 3340
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 16:54:33",
+      "time": 1592466873,
+      "route": 2,
+      "signal": 33,
+      "temperature": 27.36,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 16:54:46",
+      "time": 1592466886,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.01,
+      "battery": 3350
+    }
+  },
+  "1592466900": {
+    "B0E9": {
+      "datetime": "2020-06-18 16:59:36",
+      "time": 1592467176,
+      "route": 2,
+      "signal": 27,
+      "temperature": 27.33,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 16:59:55",
+      "time": 1592467195,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.46,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 16:59:48",
+      "time": 1592467188,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.01,
+      "battery": 3360
+    },
+    "F390": {
+      "datetime": "2020-06-18 16:59:46",
+      "time": 1592467186,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.25,
+      "battery": 3270
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 16:59:33",
+      "time": 1592467173,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.83,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 16:59:50",
+      "time": 1592467190,
+      "route": 5,
+      "signal": 39,
+      "temperature": 28.52,
+      "battery": 3340
+    },
+    "1618": {
+      "datetime": "2020-06-18 16:59:51",
+      "time": 1592467191,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.02,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 16:59:37",
+      "time": 1592467177,
+      "route": 1,
+      "signal": 66,
+      "temperature": 24.12,
+      "battery": 3350
+    }
+  },
+  "1592467200": {
+    "DFA5": {
+      "datetime": "2020-06-18 17:04:40",
+      "time": 1592467480,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.83,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 17:04:38",
+      "time": 1592467478,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.34,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 17:04:44",
+      "time": 1592467484,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.13,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 17:04:44",
+      "time": 1592467484,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.24,
+      "battery": 3270
+    },
+    "B356": {
+      "datetime": "2020-06-18 17:04:50",
+      "time": 1592467490,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.03,
+      "battery": 3360
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 17:04:48",
+      "time": 1592467488,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.48,
+      "battery": 3340
+    },
+    "1618": {
+      "datetime": "2020-06-18 17:04:49",
+      "time": 1592467489,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.99,
+      "battery": 3320
+    },
+    "15AC": {
+      "datetime": "2020-06-18 17:04:43",
+      "time": 1592467483,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.46,
+      "battery": 3330
+    }
+  },
+  "1592467500": {
+    "B0E9": {
+      "datetime": "2020-06-18 17:09:40",
+      "time": 1592467780,
+      "route": 1,
+      "signal": 24,
+      "temperature": 27.35,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 17:09:19",
+      "time": 1592467759,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.86,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 17:09:42",
+      "time": 1592467782,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.24,
+      "battery": 3270
+    },
+    "15AC": {
+      "datetime": "2020-06-18 17:09:59",
+      "time": 1592467799,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.44,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 17:09:51",
+      "time": 1592467791,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.12,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 17:09:45",
+      "time": 1592467785,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.51,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 17:09:52",
+      "time": 1592467792,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.03,
+      "battery": 3360
+    },
+    "1618": {
+      "datetime": "2020-06-18 17:09:48",
+      "time": 1592467788,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.98,
+      "battery": 3320
+    }
+  },
+  "1592467800": {
+    "B0E9": {
+      "datetime": "2020-06-18 17:14:43",
+      "time": 1592468083,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.34,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 17:14:40",
+      "time": 1592468080,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.22,
+      "battery": 3270
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 17:14:54",
+      "time": 1592468094,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.86,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 17:14:43",
+      "time": 1592468083,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.44,
+      "battery": 3340
+    },
+    "1618": {
+      "datetime": "2020-06-18 17:14:46",
+      "time": 1592468086,
+      "route": 4,
+      "signal": 99,
+      "temperature": 25.0,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 17:14:59",
+      "time": 1592468099,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.13,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 17:14:54",
+      "time": 1592468094,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.03,
+      "battery": 3360
+    },
+    "15AC": {
+      "datetime": "2020-06-18 17:14:47",
+      "time": 1592468087,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.45,
+      "battery": 3330
+    }
+  },
+  "1592468100": {
+    "F390": {
+      "datetime": "2020-06-18 17:19:38",
+      "time": 1592468378,
+      "route": 2,
+      "signal": 99,
+      "temperature": 28.21,
+      "battery": 3260
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 17:19:45",
+      "time": 1592468385,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.35,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 17:19:41",
+      "time": 1592468381,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.41,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 17:19:35",
+      "time": 1592468375,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.43,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 17:19:45",
+      "time": 1592468385,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.92,
+      "battery": 3320
+    },
+    "B356": {
+      "datetime": "2020-06-18 17:19:56",
+      "time": 1592468396,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.0,
+      "battery": 3360
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 17:19:33",
+      "time": 1592468373,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.85,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 17:19:38",
+      "time": 1592468378,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.14,
+      "battery": 3350
+    }
+  },
+  "1592468400": {
+    "DFA5": {
+      "datetime": "2020-06-18 17:24:40",
+      "time": 1592468680,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.85,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 17:24:51",
+      "time": 1592468691,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.45,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 17:24:37",
+      "time": 1592468677,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.23,
+      "battery": 3260
+    },
+    "14AF": {
+      "datetime": "2020-06-18 17:24:45",
+      "time": 1592468685,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.11,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 17:24:39",
+      "time": 1592468679,
+      "route": 4,
+      "signal": 27,
+      "temperature": 28.4,
+      "battery": 3340
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 17:24:48",
+      "time": 1592468688,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.33,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 17:24:43",
+      "time": 1592468683,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.82,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 17:24:58",
+      "time": 1592468698,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.03,
+      "battery": 3360
+    }
+  },
+  "1592468700": {
+    "F390": {
+      "datetime": "2020-06-18 17:29:35",
+      "time": 1592468975,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.19,
+      "battery": 3270
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 17:29:47",
+      "time": 1592468987,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.84,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 17:29:37",
+      "time": 1592468977,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.37,
+      "battery": 3340
+    },
+    "1618": {
+      "datetime": "2020-06-18 17:29:42",
+      "time": 1592468982,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.87,
+      "battery": 3320
+    },
+    "14AF": {
+      "datetime": "2020-06-18 17:29:53",
+      "time": 1592468993,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.14,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 17:29:50",
+      "time": 1592468990,
+      "route": 1,
+      "signal": 24,
+      "temperature": 27.32,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 17:29:39",
+      "time": 1592468979,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.42,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 17:29:05",
+      "time": 1592468945,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.0,
+      "battery": 3360
+    }
+  },
+  "1592469000": {
+    "B356": {
+      "datetime": "2020-06-18 17:34:34",
+      "time": 1592469274,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.01,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 17:34:33",
+      "time": 1592469273,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.21,
+      "battery": 3260
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 17:34:34",
+      "time": 1592469274,
+      "route": 3,
+      "signal": 93,
+      "temperature": 28.38,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 17:34:55",
+      "time": 1592469295,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.46,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 17:34:40",
+      "time": 1592469280,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.78,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 17:34:26",
+      "time": 1592469266,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.81,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 17:34:53",
+      "time": 1592469293,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.32,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 17:34:32",
+      "time": 1592469272,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.11,
+      "battery": 3350
+    }
+  },
+  "1592469300": {
+    "F390": {
+      "datetime": "2020-06-18 17:39:58",
+      "time": 1592469598,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.21,
+      "battery": 3260
+    },
+    "14AF": {
+      "datetime": "2020-06-18 17:39:39",
+      "time": 1592469579,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.12,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 17:39:32",
+      "time": 1592469572,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.35,
+      "battery": 3340
+    },
+    "1618": {
+      "datetime": "2020-06-18 17:39:39",
+      "time": 1592469579,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.82,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 17:39:55",
+      "time": 1592469595,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.32,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 17:39:05",
+      "time": 1592469545,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.82,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 17:39:43",
+      "time": 1592469583,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.41,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 17:39:36",
+      "time": 1592469576,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.02,
+      "battery": 3360
+    }
+  },
+  "1592469600": {
+    "DFA5": {
+      "datetime": "2020-06-18 17:44:40",
+      "time": 1592469880,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.81,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 17:44:30",
+      "time": 1592469870,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.34,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 17:44:38",
+      "time": 1592469878,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.0,
+      "battery": 3360
+    },
+    "14AF": {
+      "datetime": "2020-06-18 17:44:47",
+      "time": 1592469887,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.13,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 17:44:37",
+      "time": 1592469877,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.82,
+      "battery": 3330
+    },
+    "15AC": {
+      "datetime": "2020-06-18 17:44:59",
+      "time": 1592469899,
+      "route": 1,
+      "signal": 156,
+      "temperature": 25.42,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 17:44:58",
+      "time": 1592469898,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.34,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 17:44:56",
+      "time": 1592469896,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.21,
+      "battery": 3270
+    }
+  },
+  "1592469900": {
+    "15AC": {
+      "datetime": "2020-06-18 17:49:48",
+      "time": 1592470188,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.41,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 17:49:58",
+      "time": 1592470198,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.33,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 17:49:40",
+      "time": 1592470180,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.02,
+      "battery": 3360
+    },
+    "1618": {
+      "datetime": "2020-06-18 17:49:36",
+      "time": 1592470176,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.81,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 17:49:47",
+      "time": 1592470187,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.85,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 17:49:54",
+      "time": 1592470194,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.13,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 17:49:54",
+      "time": 1592470194,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.14,
+      "battery": 3260
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 17:49:32",
+      "time": 1592470172,
+      "route": 1,
+      "signal": 27,
+      "temperature": 27.39,
+      "battery": 3350
+    }
+  },
+  "1592470200": {
+    "B0E9": {
+      "datetime": "2020-06-18 17:54:35",
+      "time": 1592470475,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.35,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 17:54:35",
+      "time": 1592470475,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.75,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 17:54:42",
+      "time": 1592470482,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.0,
+      "battery": 3360
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 17:54:54",
+      "time": 1592470494,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.85,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 17:54:35",
+      "time": 1592470475,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.41,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 17:54:53",
+      "time": 1592470493,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.17,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 17:54:33",
+      "time": 1592470473,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.12,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 17:54:55",
+      "time": 1592470495,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.29,
+      "battery": 3340
+    }
+  },
+  "1592470500": {
+    "14AF": {
+      "datetime": "2020-06-18 17:59:41",
+      "time": 1592470781,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.14,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 17:59:37",
+      "time": 1592470777,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.32,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 17:59:52",
+      "time": 1592470792,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.44,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 17:59:33",
+      "time": 1592470773,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.67,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 17:59:44",
+      "time": 1592470784,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.01,
+      "battery": 3360
+    },
+    "F390": {
+      "datetime": "2020-06-18 17:59:51",
+      "time": 1592470791,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.16,
+      "battery": 3270
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 17:59:34",
+      "time": 1592470774,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.83,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 17:59:53",
+      "time": 1592470793,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.28,
+      "battery": 3340
+    }
+  },
+  "1592470800": {
+    "DFA5": {
+      "datetime": "2020-06-18 18:04:41",
+      "time": 1592471081,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.82,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 18:04:32",
+      "time": 1592471072,
+      "route": 4,
+      "signal": 105,
+      "temperature": 24.71,
+      "battery": 3320
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 18:04:40",
+      "time": 1592471080,
+      "route": 2,
+      "signal": 30,
+      "temperature": 27.3,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 18:04:20",
+      "time": 1592471060,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 18:04:18",
+      "time": 1592471058,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.0,
+      "battery": 3360
+    },
+    "F390": {
+      "datetime": "2020-06-18 18:04:49",
+      "time": 1592471089,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.15,
+      "battery": 3270
+    },
+    "15AC": {
+      "datetime": "2020-06-18 18:04:39",
+      "time": 1592471079,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.43,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 18:04:51",
+      "time": 1592471091,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.25,
+      "battery": 3340
+    }
+  },
+  "1592471100": {
+    "1618": {
+      "datetime": "2020-06-18 18:09:30",
+      "time": 1592471370,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.67,
+      "battery": 3320
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 18:09:42",
+      "time": 1592471382,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.29,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 18:09:56",
+      "time": 1592471396,
+      "route": 5,
+      "signal": 159,
+      "temperature": 25.42,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 18:09:48",
+      "time": 1592471388,
+      "route": 2,
+      "signal": 87,
+      "temperature": 27.0,
+      "battery": 3360
+    },
+    "14AF": {
+      "datetime": "2020-06-18 18:09:55",
+      "time": 1592471395,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.07,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 18:09:47",
+      "time": 1592471387,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.12,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 18:09:49",
+      "time": 1592471389,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.26,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 18:09:48",
+      "time": 1592471388,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.83,
+      "battery": 3350
+    }
+  },
+  "1592471400": {
+    "1618": {
+      "datetime": "2020-06-18 18:14:59",
+      "time": 1592471699,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.69,
+      "battery": 3320
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 18:14:44",
+      "time": 1592471684,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.3,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 18:14:45",
+      "time": 1592471685,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.11,
+      "battery": 3270
+    },
+    "B356": {
+      "datetime": "2020-06-18 18:14:50",
+      "time": 1592471690,
+      "route": 2,
+      "signal": 87,
+      "temperature": 27.02,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 18:14:55",
+      "time": 1592471695,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.85,
+      "battery": 3360
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 18:14:47",
+      "time": 1592471687,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.25,
+      "battery": 3340
+    },
+    "14AF": {
+      "datetime": "2020-06-18 18:14:35",
+      "time": 1592471675,
+      "route": 1,
+      "signal": 66,
+      "temperature": 24.13,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 18:14:43",
+      "time": 1592471683,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.39,
+      "battery": 3330
+    }
+  },
+  "1592471700": {
+    "14AF": {
+      "datetime": "2020-06-18 18:19:42",
+      "time": 1592471982,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 18:19:47",
+      "time": 1592471987,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.35,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 18:19:31",
+      "time": 1592471971,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.43,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 18:19:43",
+      "time": 1592471983,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.11,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 18:19:45",
+      "time": 1592471985,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.22,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 18:19:34",
+      "time": 1592471974,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.82,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 18:19:57",
+      "time": 1592471997,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.6,
+      "battery": 3320
+    },
+    "B356": {
+      "datetime": "2020-06-18 18:19:52",
+      "time": 1592471992,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.96,
+      "battery": 3360
+    }
+  },
+  "1592472000": {
+    "15AC": {
+      "datetime": "2020-06-18 18:24:48",
+      "time": 1592472288,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.42,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 18:24:41",
+      "time": 1592472281,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.85,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 18:24:49",
+      "time": 1592472289,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.04,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 18:24:42",
+      "time": 1592472282,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.12,
+      "battery": 3260
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 18:24:49",
+      "time": 1592472289,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.32,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 18:24:43",
+      "time": 1592472283,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.21,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 18:24:26",
+      "time": 1592472266,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.0,
+      "battery": 3360
+    },
+    "1618": {
+      "datetime": "2020-06-18 18:24:56",
+      "time": 1592472296,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.57,
+      "battery": 3320
+    }
+  },
+  "1592472300": {
+    "F390": {
+      "datetime": "2020-06-18 18:29:40",
+      "time": 1592472580,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.12,
+      "battery": 3270
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 18:29:48",
+      "time": 1592472588,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.87,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 18:29:40",
+      "time": 1592472580,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.16,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 18:29:35",
+      "time": 1592472575,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.41,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 18:29:52",
+      "time": 1592472592,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.33,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 18:29:57",
+      "time": 1592472597,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 18:29:56",
+      "time": 1592472596,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.97,
+      "battery": 3360
+    },
+    "1618": {
+      "datetime": "2020-06-18 18:29:55",
+      "time": 1592472595,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.5,
+      "battery": 3330
+    }
+  },
+  "1592472600": {
+    "15AC": {
+      "datetime": "2020-06-18 18:34:52",
+      "time": 1592472892,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.39,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 18:34:38",
+      "time": 1592472878,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.07,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 18:34:38",
+      "time": 1592472878,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.17,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 18:33:59",
+      "time": 1592472839,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.84,
+      "battery": 3360
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 18:34:54",
+      "time": 1592472894,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.31,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 18:34:57",
+      "time": 1592472897,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.96,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 18:34:53",
+      "time": 1592472893,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.43,
+      "battery": 3320
+    },
+    "14AF": {
+      "datetime": "2020-06-18 18:34:08",
+      "time": 1592472848,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.07,
+      "battery": 3350
+    }
+  },
+  "1592472900": {
+    "14AF": {
+      "datetime": "2020-06-18 18:39:43",
+      "time": 1592473183,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.08,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 18:39:36",
+      "time": 1592473176,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.05,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 18:39:36",
+      "time": 1592473176,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.17,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 18:39:40",
+      "time": 1592473180,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.37,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 18:39:56",
+      "time": 1592473196,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.35,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 18:39:52",
+      "time": 1592473192,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.4,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 18:39:59",
+      "time": 1592473199,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.99,
+      "battery": 3360
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 18:39:06",
+      "time": 1592473146,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.8,
+      "battery": 3350
+    }
+  },
+  "1592473200": {
+    "DFA5": {
+      "datetime": "2020-06-18 18:44:41",
+      "time": 1592473481,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.85,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 18:44:34",
+      "time": 1592473474,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.06,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 18:44:34",
+      "time": 1592473474,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.16,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 18:44:56",
+      "time": 1592473496,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.42,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 18:44:51",
+      "time": 1592473491,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 18:44:51",
+      "time": 1592473491,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.4,
+      "battery": 3320
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 18:44:59",
+      "time": 1592473499,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.3,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 18:44:34",
+      "time": 1592473474,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.99,
+      "battery": 3360
+    }
+  },
+  "1592473500": {
+    "F390": {
+      "datetime": "2020-06-18 18:49:59",
+      "time": 1592473799,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.07,
+      "battery": 3270
+    },
+    "B356": {
+      "datetime": "2020-06-18 18:49:08",
+      "time": 1592473748,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.99,
+      "battery": 3360
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 18:49:32",
+      "time": 1592473772,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.1,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 18:49:48",
+      "time": 1592473788,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.82,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 18:49:30",
+      "time": 1592473770,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 18:49:49",
+      "time": 1592473789,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.33,
+      "battery": 3320
+    },
+    "15AC": {
+      "datetime": "2020-06-18 18:49:44",
+      "time": 1592473784,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.42,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 18:49:33",
+      "time": 1592473773,
+      "route": 1,
+      "signal": 21,
+      "temperature": 27.3,
+      "battery": 3350
+    }
+  },
+  "1592473800": {
+    "F2B6": {
+      "datetime": "2020-06-18 18:54:59",
+      "time": 1592474099,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.12,
+      "battery": 3340
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 18:54:36",
+      "time": 1592474076,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.28,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 18:54:38",
+      "time": 1592474078,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.98,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 18:54:32",
+      "time": 1592474072,
+      "route": 3,
+      "signal": 156,
+      "temperature": 25.35,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 18:54:55",
+      "time": 1592474095,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.82,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 18:54:48",
+      "time": 1592474088,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.27,
+      "battery": 3320
+    },
+    "14AF": {
+      "datetime": "2020-06-18 18:54:37",
+      "time": 1592474077,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 18:54:57",
+      "time": 1592474097,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.09,
+      "battery": 3270
+    }
+  },
+  "1592474100": {
+    "15AC": {
+      "datetime": "2020-06-18 18:59:48",
+      "time": 1592474388,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.4,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 18:59:38",
+      "time": 1592474378,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.32,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 18:59:40",
+      "time": 1592474380,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.97,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 18:59:45",
+      "time": 1592474385,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 18:59:46",
+      "time": 1592474386,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.2,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 18:59:07",
+      "time": 1592474347,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.82,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 18:59:55",
+      "time": 1592474395,
+      "route": 2,
+      "signal": 96,
+      "temperature": 28.05,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 18:59:57",
+      "time": 1592474397,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.07,
+      "battery": 3340
+    }
+  },
+  "1592474400": {
+    "B0E9": {
+      "datetime": "2020-06-18 19:04:41",
+      "time": 1592474681,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.33,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 19:04:14",
+      "time": 1592474654,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.0,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 19:04:52",
+      "time": 1592474692,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 19:04:45",
+      "time": 1592474685,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.2,
+      "battery": 3320
+    },
+    "15AC": {
+      "datetime": "2020-06-18 19:04:36",
+      "time": 1592474676,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.4,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 19:04:55",
+      "time": 1592474695,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.08,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 19:04:14",
+      "time": 1592474654,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.78,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 19:04:54",
+      "time": 1592474694,
+      "route": 2,
+      "signal": 99,
+      "temperature": 28.03,
+      "battery": 3260
+    }
+  },
+  "1592474700": {
+    "15AC": {
+      "datetime": "2020-06-18 19:09:52",
+      "time": 1592474992,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.4,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 19:09:43",
+      "time": 1592474983,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.3,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 19:09:43",
+      "time": 1592474983,
+      "route": 2,
+      "signal": 84,
+      "temperature": 27.0,
+      "battery": 3360
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 19:09:49",
+      "time": 1592474989,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.8,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 19:09:44",
+      "time": 1592474984,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.17,
+      "battery": 3320
+    },
+    "14AF": {
+      "datetime": "2020-06-18 19:09:59",
+      "time": 1592474999,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 19:09:52",
+      "time": 1592474992,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.04,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 19:09:53",
+      "time": 1592474993,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.06,
+      "battery": 3340
+    }
+  },
+  "1592475000": {
+    "B0E9": {
+      "datetime": "2020-06-18 19:14:46",
+      "time": 1592475286,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.3,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 19:14:45",
+      "time": 1592475285,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.91,
+      "battery": 3360
+    },
+    "1618": {
+      "datetime": "2020-06-18 19:14:42",
+      "time": 1592475282,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.13,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 19:14:56",
+      "time": 1592475296,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.81,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 19:14:50",
+      "time": 1592475290,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.03,
+      "battery": 3270
+    },
+    "15AC": {
+      "datetime": "2020-06-18 19:14:40",
+      "time": 1592475280,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.4,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 19:14:51",
+      "time": 1592475291,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.07,
+      "battery": 3340
+    },
+    "14AF": {
+      "datetime": "2020-06-18 19:14:39",
+      "time": 1592475279,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    }
+  },
+  "1592475300": {
+    "14AF": {
+      "datetime": "2020-06-18 19:19:46",
+      "time": 1592475586,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.12,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 19:19:57",
+      "time": 1592475597,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.38,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 19:19:41",
+      "time": 1592475581,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.13,
+      "battery": 3320
+    },
+    "B356": {
+      "datetime": "2020-06-18 19:19:47",
+      "time": 1592475587,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.99,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 19:19:48",
+      "time": 1592475588,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.29,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 19:19:48",
+      "time": 1592475588,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.03,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 19:19:48",
+      "time": 1592475588,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.06,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 19:19:35",
+      "time": 1592475575,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.78,
+      "battery": 3350
+    }
+  },
+  "1592475600": {
+    "DFA5": {
+      "datetime": "2020-06-18 19:24:42",
+      "time": 1592475882,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.78,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 19:24:39",
+      "time": 1592475879,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.09,
+      "battery": 3320
+    },
+    "14AF": {
+      "datetime": "2020-06-18 19:24:53",
+      "time": 1592475893,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.07,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 19:24:49",
+      "time": 1592475889,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.96,
+      "battery": 3360
+    },
+    "F390": {
+      "datetime": "2020-06-18 19:24:46",
+      "time": 1592475886,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.03,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 19:24:50",
+      "time": 1592475890,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.26,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 19:24:46",
+      "time": 1592475886,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.04,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 19:24:44",
+      "time": 1592475884,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.39,
+      "battery": 3330
+    }
+  },
+  "1592475900": {
+    "1618": {
+      "datetime": "2020-06-18 19:29:38",
+      "time": 1592476178,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.06,
+      "battery": 3320
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 19:29:49",
+      "time": 1592476189,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.78,
+      "battery": 3360
+    },
+    "15AC": {
+      "datetime": "2020-06-18 19:29:32",
+      "time": 1592476172,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.37,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 19:29:45",
+      "time": 1592476185,
+      "route": 6,
+      "signal": 99,
+      "temperature": 28.0,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 19:29:44",
+      "time": 1592476184,
+      "route": 7,
+      "signal": 96,
+      "temperature": 28.03,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 19:29:51",
+      "time": 1592476191,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.95,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 19:29:53",
+      "time": 1592476193,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.27,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 19:29:33",
+      "time": 1592476173,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.07,
+      "battery": 3350
+    }
+  },
+  "1592476200": {
+    "15AC": {
+      "datetime": "2020-06-18 19:34:49",
+      "time": 1592476489,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.39,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 19:34:40",
+      "time": 1592476480,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.09,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 19:34:37",
+      "time": 1592476477,
+      "route": 4,
+      "signal": 99,
+      "temperature": 24.02,
+      "battery": 3320
+    },
+    "F390": {
+      "datetime": "2020-06-18 19:34:43",
+      "time": 1592476483,
+      "route": 6,
+      "signal": 96,
+      "temperature": 28.0,
+      "battery": 3260
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 19:34:42",
+      "time": 1592476482,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.0,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 19:34:56",
+      "time": 1592476496,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.82,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 19:34:53",
+      "time": 1592476493,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.98,
+      "battery": 3360
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 19:34:55",
+      "time": 1592476495,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.3,
+      "battery": 3350
+    }
+  },
+  "1592476500": {
+    "1618": {
+      "datetime": "2020-06-18 19:39:35",
+      "time": 1592476775,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.91,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 19:39:47",
+      "time": 1592476787,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 19:39:41",
+      "time": 1592476781,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.96,
+      "battery": 3260
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 19:39:40",
+      "time": 1592476780,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.01,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 19:39:36",
+      "time": 1592476776,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.38,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 19:39:55",
+      "time": 1592476795,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.95,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 19:39:58",
+      "time": 1592476798,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.29,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 19:39:35",
+      "time": 1592476775,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.8,
+      "battery": 3350
+    }
+  },
+  "1592476800": {
+    "DFA5": {
+      "datetime": "2020-06-18 19:44:42",
+      "time": 1592477082,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.79,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 19:44:53",
+      "time": 1592477093,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.37,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 19:44:34",
+      "time": 1592477074,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.82,
+      "battery": 3320
+    },
+    "F390": {
+      "datetime": "2020-06-18 19:44:39",
+      "time": 1592477079,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.98,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 19:44:38",
+      "time": 1592477078,
+      "route": 7,
+      "signal": 93,
+      "temperature": 28.03,
+      "battery": 3340
+    },
+    "14AF": {
+      "datetime": "2020-06-18 19:44:55",
+      "time": 1592477095,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.09,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 19:44:29",
+      "time": 1592477069,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.92,
+      "battery": 3360
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 19:44:33",
+      "time": 1592477073,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.28,
+      "battery": 3350
+    }
+  },
+  "1592477100": {
+    "B0E9": {
+      "datetime": "2020-06-18 19:49:35",
+      "time": 1592477375,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.28,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 19:49:33",
+      "time": 1592477373,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.85,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 19:49:37",
+      "time": 1592477377,
+      "route": 6,
+      "signal": 96,
+      "temperature": 27.97,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 19:49:35",
+      "time": 1592477375,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.97,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 19:49:49",
+      "time": 1592477389,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.79,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 19:49:41",
+      "time": 1592477381,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.36,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 19:49:34",
+      "time": 1592477374,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 19:49:59",
+      "time": 1592477399,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.96,
+      "battery": 3360
+    }
+  },
+  "1592477400": {
+    "14AF": {
+      "datetime": "2020-06-18 19:54:13",
+      "time": 1592477653,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.07,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 19:54:37",
+      "time": 1592477677,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.32,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 19:54:31",
+      "time": 1592477671,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.8,
+      "battery": 3320
+    },
+    "F390": {
+      "datetime": "2020-06-18 19:54:36",
+      "time": 1592477676,
+      "route": 2,
+      "signal": 99,
+      "temperature": 27.94,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 19:54:33",
+      "time": 1592477673,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.94,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 19:54:57",
+      "time": 1592477697,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.39,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 19:54:06",
+      "time": 1592477646,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.92,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 19:54:56",
+      "time": 1592477696,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.77,
+      "battery": 3350
+    }
+  },
+  "1592477700": {
+    "B356": {
+      "datetime": "2020-06-18 19:59:35",
+      "time": 1592477975,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.95,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 19:59:30",
+      "time": 1592477970,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.73,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 19:59:06",
+      "time": 1592477946,
+      "route": 2,
+      "signal": 96,
+      "temperature": 27.94,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 19:59:31",
+      "time": 1592477971,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.94,
+      "battery": 3340
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 19:59:40",
+      "time": 1592477980,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.27,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 19:59:49",
+      "time": 1592477989,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.07,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 19:59:35",
+      "time": 1592477975,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.74,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 19:59:45",
+      "time": 1592477985,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.39,
+      "battery": 3330
+    }
+  },
+  "1592478000": {
+    "1618": {
+      "datetime": "2020-06-18 20:04:59",
+      "time": 1592478299,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.68,
+      "battery": 3320
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 20:04:59",
+      "time": 1592478299,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.96,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 20:04:59",
+      "time": 1592478299,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.93,
+      "battery": 3270
+    },
+    "B356": {
+      "datetime": "2020-06-18 20:04:37",
+      "time": 1592478277,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.92,
+      "battery": 3360
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 20:04:43",
+      "time": 1592478283,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.76,
+      "battery": 3360
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 20:04:42",
+      "time": 1592478282,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.26,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 20:04:33",
+      "time": 1592478273,
+      "route": 3,
+      "signal": 156,
+      "temperature": 25.39,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 20:04:56",
+      "time": 1592478296,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.06,
+      "battery": 3350
+    }
+  },
+  "1592478300": {
+    "15AC": {
+      "datetime": "2020-06-18 20:09:49",
+      "time": 1592478589,
+      "route": 3,
+      "signal": 159,
+      "temperature": 25.39,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 20:09:39",
+      "time": 1592478579,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.92,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 20:09:45",
+      "time": 1592478585,
+      "route": 2,
+      "signal": 33,
+      "temperature": 27.28,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 20:09:36",
+      "time": 1592478576,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.06,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 20:09:57",
+      "time": 1592478597,
+      "route": 2,
+      "signal": 99,
+      "temperature": 27.92,
+      "battery": 3260
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 20:09:56",
+      "time": 1592478596,
+      "route": 3,
+      "signal": 93,
+      "temperature": 27.92,
+      "battery": 3340
+    },
+    "1618": {
+      "datetime": "2020-06-18 20:09:57",
+      "time": 1592478597,
+      "route": 4,
+      "signal": 102,
+      "temperature": 23.64,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 20:09:50",
+      "time": 1592478590,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.78,
+      "battery": 3350
+    }
+  },
+  "1592478600": {
+    "B356": {
+      "datetime": "2020-06-18 20:14:41",
+      "time": 1592478881,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.91,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 20:14:47",
+      "time": 1592478887,
+      "route": 1,
+      "signal": 24,
+      "temperature": 27.26,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 20:14:29",
+      "time": 1592478869,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.76,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 20:14:37",
+      "time": 1592478877,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.39,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 20:14:55",
+      "time": 1592478895,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.94,
+      "battery": 3260
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 20:14:54",
+      "time": 1592478894,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.91,
+      "battery": 3340
+    },
+    "1618": {
+      "datetime": "2020-06-18 20:14:56",
+      "time": 1592478896,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.57,
+      "battery": 3320
+    },
+    "14AF": {
+      "datetime": "2020-06-18 20:14:43",
+      "time": 1592478883,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.06,
+      "battery": 3350
+    }
+  },
+  "1592478900": {
+    "15AC": {
+      "datetime": "2020-06-18 20:19:54",
+      "time": 1592479194,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.37,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 20:19:43",
+      "time": 1592479183,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.93,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 20:19:22",
+      "time": 1592479162,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.08,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 20:19:49",
+      "time": 1592479189,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.25,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 20:19:54",
+      "time": 1592479194,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.89,
+      "battery": 3260
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 20:19:52",
+      "time": 1592479192,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.9,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 20:19:08",
+      "time": 1592479148,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.75,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 20:19:54",
+      "time": 1592479194,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.52,
+      "battery": 3320
+    }
+  },
+  "1592479200": {
+    "DFA5": {
+      "datetime": "2020-06-18 20:24:43",
+      "time": 1592479483,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.78,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 20:24:45",
+      "time": 1592479485,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.92,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 20:24:52",
+      "time": 1592479492,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.24,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 20:24:58",
+      "time": 1592479498,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.08,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 20:24:52",
+      "time": 1592479492,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.87,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 20:24:50",
+      "time": 1592479490,
+      "route": 5,
+      "signal": 39,
+      "temperature": 27.88,
+      "battery": 3340
+    },
+    "15AC": {
+      "datetime": "2020-06-18 20:24:41",
+      "time": 1592479481,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.38,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 20:24:53",
+      "time": 1592479493,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.44,
+      "battery": 3320
+    }
+  },
+  "1592479500": {
+    "15AC": {
+      "datetime": "2020-06-18 20:29:58",
+      "time": 1592479798,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.39,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 20:29:50",
+      "time": 1592479790,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.91,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 20:29:54",
+      "time": 1592479794,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.25,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 20:29:48",
+      "time": 1592479788,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.85,
+      "battery": 3340
+    },
+    "1618": {
+      "datetime": "2020-06-18 20:29:51",
+      "time": 1592479791,
+      "route": 4,
+      "signal": 105,
+      "temperature": 23.42,
+      "battery": 3320
+    },
+    "14AF": {
+      "datetime": "2020-06-18 20:29:37",
+      "time": 1592479777,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.09,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 20:29:50",
+      "time": 1592479790,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.75,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 20:29:46",
+      "time": 1592479786,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.89,
+      "battery": 3360
+    }
+  },
+  "1592479800": {
+    "14AF": {
+      "datetime": "2020-06-18 20:34:45",
+      "time": 1592480085,
+      "route": 1,
+      "signal": 66,
+      "temperature": 24.08,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 20:34:48",
+      "time": 1592480088,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.92,
+      "battery": 3360
+    },
+    "F390": {
+      "datetime": "2020-06-18 20:34:48",
+      "time": 1592480088,
+      "route": 6,
+      "signal": 96,
+      "temperature": 27.93,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 20:34:46",
+      "time": 1592480086,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.85,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 20:34:29",
+      "time": 1592480069,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.73,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 20:34:57",
+      "time": 1592480097,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.27,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 20:34:50",
+      "time": 1592480090,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.37,
+      "battery": 3320
+    },
+    "15AC": {
+      "datetime": "2020-06-18 20:34:45",
+      "time": 1592480085,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.39,
+      "battery": 3330
+    }
+  },
+  "1592480100": {
+    "14AF": {
+      "datetime": "2020-06-18 20:39:52",
+      "time": 1592480392,
+      "route": 1,
+      "signal": 66,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 20:39:33",
+      "time": 1592480373,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.36,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 20:39:46",
+      "time": 1592480386,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.92,
+      "battery": 3260
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 20:39:44",
+      "time": 1592480384,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.85,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 20:39:51",
+      "time": 1592480391,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.92,
+      "battery": 3360
+    },
+    "1618": {
+      "datetime": "2020-06-18 20:39:49",
+      "time": 1592480389,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.33,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 20:39:59",
+      "time": 1592480399,
+      "route": 3,
+      "signal": 33,
+      "temperature": 27.21,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 20:39:36",
+      "time": 1592480376,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.71,
+      "battery": 3350
+    }
+  },
+  "1592480400": {
+    "15AC": {
+      "datetime": "2020-06-18 20:44:50",
+      "time": 1592480690,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.39,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 20:44:43",
+      "time": 1592480683,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.77,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 20:44:44",
+      "time": 1592480684,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.89,
+      "battery": 3260
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 20:44:42",
+      "time": 1592480682,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.84,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 20:44:52",
+      "time": 1592480692,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.91,
+      "battery": 3360
+    },
+    "1618": {
+      "datetime": "2020-06-18 20:44:48",
+      "time": 1592480688,
+      "route": 4,
+      "signal": 102,
+      "temperature": 23.28,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 20:44:59",
+      "time": 1592480699,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.08,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 20:44:34",
+      "time": 1592480674,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.21,
+      "battery": 3350
+    }
+  },
+  "1592480700": {
+    "B0E9": {
+      "datetime": "2020-06-18 20:49:36",
+      "time": 1592480976,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.21,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 20:49:39",
+      "time": 1592480979,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.83,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 20:49:22",
+      "time": 1592480962,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.75,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 20:49:43",
+      "time": 1592480983,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.84,
+      "battery": 3270
+    },
+    "1618": {
+      "datetime": "2020-06-18 20:49:46",
+      "time": 1592480986,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.22,
+      "battery": 3320
+    },
+    "15AC": {
+      "datetime": "2020-06-18 20:49:37",
+      "time": 1592480977,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.37,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 20:49:54",
+      "time": 1592480994,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.89,
+      "battery": 3360
+    },
+    "14AF": {
+      "datetime": "2020-06-18 20:49:39",
+      "time": 1592480979,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    }
+  },
+  "1592481000": {
+    "B0E9": {
+      "datetime": "2020-06-18 20:54:39",
+      "time": 1592481279,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.2,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 20:54:54",
+      "time": 1592481294,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.38,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 20:54:46",
+      "time": 1592481286,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.08,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 20:54:37",
+      "time": 1592481277,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.8,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 20:54:41",
+      "time": 1592481281,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.89,
+      "battery": 3270
+    },
+    "1618": {
+      "datetime": "2020-06-18 20:54:45",
+      "time": 1592481285,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.21,
+      "battery": 3320
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 20:54:57",
+      "time": 1592481297,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.73,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 20:54:56",
+      "time": 1592481296,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.87,
+      "battery": 3360
+    }
+  },
+  "1592481300": {
+    "B0E9": {
+      "datetime": "2020-06-18 20:59:41",
+      "time": 1592481581,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.2,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 20:59:35",
+      "time": 1592481575,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.81,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 20:59:39",
+      "time": 1592481579,
+      "route": 6,
+      "signal": 96,
+      "temperature": 27.86,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 20:59:53",
+      "time": 1592481593,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.08,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 20:59:44",
+      "time": 1592481584,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.21,
+      "battery": 3330
+    },
+    "15AC": {
+      "datetime": "2020-06-18 20:59:42",
+      "time": 1592481582,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.38,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 20:59:58",
+      "time": 1592481598,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.89,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 20:59:09",
+      "time": 1592481549,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.69,
+      "battery": 3350
+    }
+  },
+  "1592481600": {
+    "F2B6": {
+      "datetime": "2020-06-18 21:04:33",
+      "time": 1592481873,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.82,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 21:04:44",
+      "time": 1592481884,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.7,
+      "battery": 3360
+    },
+    "F390": {
+      "datetime": "2020-06-18 21:04:37",
+      "time": 1592481877,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.87,
+      "battery": 3260
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 21:04:43",
+      "time": 1592481883,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.22,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 21:04:58",
+      "time": 1592481898,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.35,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 21:04:42",
+      "time": 1592481882,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.16,
+      "battery": 3320
+    },
+    "14AF": {
+      "datetime": "2020-06-18 21:04:33",
+      "time": 1592481873,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.09,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 21:04:33",
+      "time": 1592481873,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.85,
+      "battery": 3350
+    }
+  },
+  "1592481900": {
+    "B356": {
+      "datetime": "2020-06-18 21:09:34",
+      "time": 1592482174,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.9,
+      "battery": 3360
+    },
+    "14AF": {
+      "datetime": "2020-06-18 21:09:40",
+      "time": 1592482180,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.07,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 21:09:31",
+      "time": 1592482171,
+      "route": 7,
+      "signal": 96,
+      "temperature": 27.75,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 21:09:35",
+      "time": 1592482175,
+      "route": 6,
+      "signal": 96,
+      "temperature": 27.85,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 21:09:46",
+      "time": 1592482186,
+      "route": 3,
+      "signal": 30,
+      "temperature": 27.21,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 21:09:51",
+      "time": 1592482191,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.71,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 21:09:41",
+      "time": 1592482181,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.14,
+      "battery": 3320
+    },
+    "15AC": {
+      "datetime": "2020-06-18 21:09:46",
+      "time": 1592482186,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.36,
+      "battery": 3330
+    }
+  },
+  "1592482200": {
+    "F2B6": {
+      "datetime": "2020-06-18 21:14:58",
+      "time": 1592482498,
+      "route": 7,
+      "signal": 78,
+      "temperature": 27.76,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 21:14:36",
+      "time": 1592482476,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.86,
+      "battery": 3360
+    },
+    "F390": {
+      "datetime": "2020-06-18 21:14:33",
+      "time": 1592482473,
+      "route": 4,
+      "signal": 21,
+      "temperature": 27.85,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 21:14:20",
+      "time": 1592482460,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.07,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 21:14:40",
+      "time": 1592482480,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.03,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 21:14:48",
+      "time": 1592482488,
+      "route": 3,
+      "signal": 24,
+      "temperature": 27.18,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 21:14:34",
+      "time": 1592482474,
+      "route": 5,
+      "signal": 159,
+      "temperature": 25.35,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 21:14:58",
+      "time": 1592482498,
+      "route": 2,
+      "signal": 48,
+      "temperature": 27.67,
+      "battery": 3350
+    }
+  },
+  "1592482500": {
+    "F390": {
+      "datetime": "2020-06-18 21:19:59",
+      "time": 1592482799,
+      "route": 6,
+      "signal": 102,
+      "temperature": 27.88,
+      "battery": 3260
+    },
+    "15AC": {
+      "datetime": "2020-06-18 21:19:50",
+      "time": 1592482790,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.38,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 21:19:11",
+      "time": 1592482751,
+      "route": 6,
+      "signal": 87,
+      "temperature": 26.76,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 21:19:39",
+      "time": 1592482779,
+      "route": 4,
+      "signal": 99,
+      "temperature": 23.06,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 21:19:50",
+      "time": 1592482790,
+      "route": 3,
+      "signal": 27,
+      "temperature": 27.02,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 21:19:37",
+      "time": 1592482777,
+      "route": 2,
+      "signal": 48,
+      "temperature": 27.68,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 21:19:56",
+      "time": 1592482796,
+      "route": 7,
+      "signal": 96,
+      "temperature": 27.76,
+      "battery": 3340
+    },
+    "14AF": {
+      "datetime": "2020-06-18 21:19:55",
+      "time": 1592482795,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.1,
+      "battery": 3350
+    }
+  },
+  "1592482800": {
+    "DFA5": {
+      "datetime": "2020-06-18 21:24:44",
+      "time": 1592483084,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.68,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 21:24:40",
+      "time": 1592483080,
+      "route": 4,
+      "signal": 9,
+      "temperature": 26.61,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 21:24:37",
+      "time": 1592483077,
+      "route": 4,
+      "signal": 96,
+      "temperature": 23.06,
+      "battery": 3320
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 21:24:53",
+      "time": 1592483093,
+      "route": 3,
+      "signal": 30,
+      "temperature": 26.9,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 21:24:38",
+      "time": 1592483078,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.34,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 21:24:34",
+      "time": 1592483074,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.09,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 21:24:57",
+      "time": 1592483097,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.89,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 21:24:54",
+      "time": 1592483094,
+      "route": 7,
+      "signal": 99,
+      "temperature": 27.7,
+      "battery": 3340
+    }
+  },
+  "1592483100": {
+    "15AC": {
+      "datetime": "2020-06-18 21:29:54",
+      "time": 1592483394,
+      "route": 5,
+      "signal": 159,
+      "temperature": 25.36,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 21:29:36",
+      "time": 1592483376,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.95,
+      "battery": 3320
+    },
+    "B356": {
+      "datetime": "2020-06-18 21:29:42",
+      "time": 1592483382,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.54,
+      "battery": 3360
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 21:29:51",
+      "time": 1592483391,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.67,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 21:29:55",
+      "time": 1592483395,
+      "route": 3,
+      "signal": 30,
+      "temperature": 26.79,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 21:29:55",
+      "time": 1592483395,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.87,
+      "battery": 3270
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 21:29:52",
+      "time": 1592483392,
+      "route": 7,
+      "signal": 99,
+      "temperature": 27.62,
+      "battery": 3340
+    },
+    "14AF": {
+      "datetime": "2020-06-18 21:29:42",
+      "time": 1592483382,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.07,
+      "battery": 3350
+    }
+  },
+  "1592483400": {
+    "1618": {
+      "datetime": "2020-06-18 21:34:35",
+      "time": 1592483675,
+      "route": 6,
+      "signal": 99,
+      "temperature": 22.94,
+      "battery": 3320
+    },
+    "B356": {
+      "datetime": "2020-06-18 21:34:44",
+      "time": 1592483684,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.45,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 21:34:49",
+      "time": 1592483689,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 21:34:50",
+      "time": 1592483690,
+      "route": 7,
+      "signal": 99,
+      "temperature": 27.65,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 21:34:53",
+      "time": 1592483693,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.93,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 21:34:57",
+      "time": 1592483697,
+      "route": 1,
+      "signal": 30,
+      "temperature": 26.73,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 21:34:42",
+      "time": 1592483682,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.33,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 21:34:58",
+      "time": 1592483698,
+      "route": 2,
+      "signal": 48,
+      "temperature": 27.69,
+      "battery": 3350
+    }
+  },
+  "1592483700": {
+    "1618": {
+      "datetime": "2020-06-18 21:39:33",
+      "time": 1592483973,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.93,
+      "battery": 3330
+    },
+    "15AC": {
+      "datetime": "2020-06-18 21:39:59",
+      "time": 1592483999,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.28,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 21:39:46",
+      "time": 1592483986,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.46,
+      "battery": 3360
+    },
+    "14AF": {
+      "datetime": "2020-06-18 21:39:56",
+      "time": 1592483996,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.16,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 21:39:48",
+      "time": 1592483988,
+      "route": 7,
+      "signal": 99,
+      "temperature": 27.64,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 21:39:51",
+      "time": 1592483991,
+      "route": 2,
+      "signal": 99,
+      "temperature": 27.89,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 21:39:33",
+      "time": 1592483973,
+      "route": 3,
+      "signal": 27,
+      "temperature": 26.65,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 21:39:37",
+      "time": 1592483977,
+      "route": 2,
+      "signal": 42,
+      "temperature": 27.67,
+      "battery": 3350
+    }
+  },
+  "1592484000": {
+    "B0E9": {
+      "datetime": "2020-06-18 21:44:07",
+      "time": 1592484247,
+      "route": 1,
+      "signal": 27,
+      "temperature": 26.59,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 21:44:32",
+      "time": 1592484272,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.89,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 21:44:46",
+      "time": 1592484286,
+      "route": 7,
+      "signal": 105,
+      "temperature": 27.63,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 21:44:49",
+      "time": 1592484289,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.85,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 21:44:36",
+      "time": 1592484276,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.18,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 21:44:46",
+      "time": 1592484286,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.31,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 21:44:44",
+      "time": 1592484284,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.73,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 21:44:48",
+      "time": 1592484288,
+      "route": 6,
+      "signal": 87,
+      "temperature": 26.39,
+      "battery": 3360
+    }
+  },
+  "1592484300": {
+    "1618": {
+      "datetime": "2020-06-18 21:49:31",
+      "time": 1592484571,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.9,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 21:49:10",
+      "time": 1592484550,
+      "route": 1,
+      "signal": 27,
+      "temperature": 26.54,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 21:49:43",
+      "time": 1592484583,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.18,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 21:49:51",
+      "time": 1592484591,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.64,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 21:49:05",
+      "time": 1592484545,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.34,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 21:49:43",
+      "time": 1592484583,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.65,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 21:49:50",
+      "time": 1592484590,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.31,
+      "battery": 3360
+    },
+    "F390": {
+      "datetime": "2020-06-18 21:49:48",
+      "time": 1592484588,
+      "route": 6,
+      "signal": 102,
+      "temperature": 27.87,
+      "battery": 3270
+    }
+  },
+  "1592484600": {
+    "1618": {
+      "datetime": "2020-06-18 21:54:59",
+      "time": 1592484899,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.89,
+      "battery": 3320
+    },
+    "15AC": {
+      "datetime": "2020-06-18 21:54:51",
+      "time": 1592484891,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.33,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 21:54:40",
+      "time": 1592484880,
+      "route": 3,
+      "signal": 27,
+      "temperature": 26.52,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 21:54:50",
+      "time": 1592484890,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.2,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 21:54:41",
+      "time": 1592484881,
+      "route": 5,
+      "signal": 24,
+      "temperature": 27.62,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 21:54:46",
+      "time": 1592484886,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.87,
+      "battery": 3270
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 21:54:58",
+      "time": 1592484898,
+      "route": 2,
+      "signal": 60,
+      "temperature": 27.65,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 21:54:52",
+      "time": 1592484892,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.28,
+      "battery": 3360
+    }
+  },
+  "1592484900": {
+    "B0E9": {
+      "datetime": "2020-06-18 21:59:42",
+      "time": 1592485182,
+      "route": 1,
+      "signal": 27,
+      "temperature": 26.45,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 21:59:39",
+      "time": 1592485179,
+      "route": 7,
+      "signal": 96,
+      "temperature": 27.6,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 21:59:44",
+      "time": 1592485184,
+      "route": 6,
+      "signal": 96,
+      "temperature": 27.82,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 21:59:58",
+      "time": 1592485198,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.19,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 21:59:38",
+      "time": 1592485178,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.32,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 21:59:58",
+      "time": 1592485198,
+      "route": 4,
+      "signal": 96,
+      "temperature": 22.88,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 21:59:37",
+      "time": 1592485177,
+      "route": 2,
+      "signal": 66,
+      "temperature": 27.67,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 21:59:53",
+      "time": 1592485193,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.21,
+      "battery": 3360
+    }
+  },
+  "1592485200": {
+    "DFA5": {
+      "datetime": "2020-06-18 22:04:45",
+      "time": 1592485485,
+      "route": 2,
+      "signal": 69,
+      "temperature": 27.64,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 22:04:55",
+      "time": 1592485495,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.31,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 22:04:37",
+      "time": 1592485477,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.58,
+      "battery": 3340
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 22:04:44",
+      "time": 1592485484,
+      "route": 1,
+      "signal": 27,
+      "temperature": 26.4,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 22:04:42",
+      "time": 1592485482,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.8,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 22:04:37",
+      "time": 1592485477,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.2,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 22:04:57",
+      "time": 1592485497,
+      "route": 4,
+      "signal": 96,
+      "temperature": 22.85,
+      "battery": 3320
+    },
+    "B356": {
+      "datetime": "2020-06-18 22:04:55",
+      "time": 1592485495,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.23,
+      "battery": 3350
+    }
+  },
+  "1592485500": {
+    "14AF": {
+      "datetime": "2020-06-18 22:09:44",
+      "time": 1592485784,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.17,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 22:09:35",
+      "time": 1592485775,
+      "route": 7,
+      "signal": 96,
+      "temperature": 27.58,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 22:09:13",
+      "time": 1592485753,
+      "route": 2,
+      "signal": 99,
+      "temperature": 27.8,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 22:09:47",
+      "time": 1592485787,
+      "route": 1,
+      "signal": 30,
+      "temperature": 26.35,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 22:09:52",
+      "time": 1592485792,
+      "route": 2,
+      "signal": 54,
+      "temperature": 27.63,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 22:09:57",
+      "time": 1592485797,
+      "route": 6,
+      "signal": 87,
+      "temperature": 26.16,
+      "battery": 3360
+    },
+    "15AC": {
+      "datetime": "2020-06-18 22:09:42",
+      "time": 1592485782,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.33,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 22:09:56",
+      "time": 1592485796,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.83,
+      "battery": 3330
+    }
+  },
+  "1592485800": {
+    "F2B6": {
+      "datetime": "2020-06-18 22:14:33",
+      "time": 1592486073,
+      "route": 7,
+      "signal": 84,
+      "temperature": 27.57,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 22:14:11",
+      "time": 1592486051,
+      "route": 4,
+      "signal": 24,
+      "temperature": 27.75,
+      "battery": 3270
+    },
+    "15AC": {
+      "datetime": "2020-06-18 22:14:59",
+      "time": 1592486099,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.31,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 22:14:52",
+      "time": 1592486092,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.21,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 22:14:49",
+      "time": 1592486089,
+      "route": 1,
+      "signal": 33,
+      "temperature": 26.32,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 22:14:31",
+      "time": 1592486071,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.61,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 22:14:59",
+      "time": 1592486099,
+      "route": 6,
+      "signal": 87,
+      "temperature": 26.1,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 22:14:54",
+      "time": 1592486094,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.92,
+      "battery": 3320
+    }
+  },
+  "1592486100": {
+    "F2B6": {
+      "datetime": "2020-06-18 22:19:31",
+      "time": 1592486371,
+      "route": 5,
+      "signal": 21,
+      "temperature": 27.5,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 22:19:36",
+      "time": 1592486376,
+      "route": 4,
+      "signal": 24,
+      "temperature": 27.71,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 22:19:52",
+      "time": 1592486392,
+      "route": 1,
+      "signal": 30,
+      "temperature": 26.28,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 22:19:59",
+      "time": 1592486399,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.21,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 22:19:53",
+      "time": 1592486393,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.91,
+      "battery": 3330
+    },
+    "B356": {
+      "datetime": "2020-06-18 22:19:34",
+      "time": 1592486374,
+      "route": 6,
+      "signal": 87,
+      "temperature": 26.08,
+      "battery": 3360
+    },
+    "15AC": {
+      "datetime": "2020-06-18 22:19:47",
+      "time": 1592486387,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.31,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 22:19:38",
+      "time": 1592486378,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.58,
+      "battery": 3350
+    }
+  },
+  "1592486400": {
+    "F2B6": {
+      "datetime": "2020-06-18 22:24:58",
+      "time": 1592486698,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.48,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 22:24:35",
+      "time": 1592486675,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.75,
+      "battery": 3270
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 22:24:45",
+      "time": 1592486685,
+      "route": 2,
+      "signal": 66,
+      "temperature": 27.58,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 22:24:34",
+      "time": 1592486674,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.27,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 22:24:54",
+      "time": 1592486694,
+      "route": 1,
+      "signal": 30,
+      "temperature": 26.29,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 22:24:52",
+      "time": 1592486692,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.78,
+      "battery": 3320
+    },
+    "14AF": {
+      "datetime": "2020-06-18 22:24:39",
+      "time": 1592486679,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.21,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 22:21:51",
+      "time": 1592486511,
+      "route": 6,
+      "signal": 87,
+      "temperature": 26.04,
+      "battery": 3360
+    }
+  },
+  "1592486700": {
+    "F390": {
+      "datetime": "2020-06-18 22:29:33",
+      "time": 1592486973,
+      "route": 4,
+      "signal": 21,
+      "temperature": 27.75,
+      "battery": 3270
+    },
+    "B356": {
+      "datetime": "2020-06-18 22:29:37",
+      "time": 1592486977,
+      "route": 4,
+      "signal": 3,
+      "temperature": 26.05,
+      "battery": 3360
+    },
+    "15AC": {
+      "datetime": "2020-06-18 22:29:51",
+      "time": 1592486991,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.25,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 22:29:18",
+      "time": 1592486958,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.2,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 22:29:52",
+      "time": 1592486992,
+      "route": 2,
+      "signal": 66,
+      "temperature": 27.57,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 22:29:50",
+      "time": 1592486990,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.77,
+      "battery": 3320
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 22:29:56",
+      "time": 1592486996,
+      "route": 1,
+      "signal": 33,
+      "temperature": 26.25,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 22:29:56",
+      "time": 1592486996,
+      "route": 7,
+      "signal": 96,
+      "temperature": 27.46,
+      "battery": 3340
+    }
+  },
+  "1592487000": {
+    "B356": {
+      "datetime": "2020-06-18 22:34:39",
+      "time": 1592487279,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.09,
+      "battery": 3360
+    },
+    "14AF": {
+      "datetime": "2020-06-18 22:34:53",
+      "time": 1592487293,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.16,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 22:34:38",
+      "time": 1592487278,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.27,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 22:34:49",
+      "time": 1592487289,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.76,
+      "battery": 3320
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 22:34:59",
+      "time": 1592487299,
+      "route": 1,
+      "signal": 36,
+      "temperature": 26.25,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 22:34:54",
+      "time": 1592487294,
+      "route": 5,
+      "signal": 18,
+      "temperature": 27.46,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 22:34:31",
+      "time": 1592487271,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.72,
+      "battery": 3260
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 22:34:59",
+      "time": 1592487299,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.55,
+      "battery": 3350
+    }
+  },
+  "1592487300": {
+    "B356": {
+      "datetime": "2020-06-18 22:38:46",
+      "time": 1592487526,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.06,
+      "battery": 3360
+    },
+    "15AC": {
+      "datetime": "2020-06-18 22:39:55",
+      "time": 1592487595,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.26,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 22:39:48",
+      "time": 1592487588,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.75,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 22:39:33",
+      "time": 1592487573,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.15,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 22:39:22",
+      "time": 1592487562,
+      "route": 7,
+      "signal": 96,
+      "temperature": 27.42,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 22:39:56",
+      "time": 1592487596,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.66,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 22:39:34",
+      "time": 1592487574,
+      "route": 1,
+      "signal": 27,
+      "temperature": 26.21,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 22:39:38",
+      "time": 1592487578,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.52,
+      "battery": 3360
+    }
+  },
+  "1592487600": {
+    "14AF": {
+      "datetime": "2020-06-18 22:44:40",
+      "time": 1592487880,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.13,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 22:44:45",
+      "time": 1592487885,
+      "route": 2,
+      "signal": 66,
+      "temperature": 27.53,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 22:44:47",
+      "time": 1592487887,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.69,
+      "battery": 3320
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 22:44:50",
+      "time": 1592487890,
+      "route": 7,
+      "signal": 93,
+      "temperature": 27.41,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 22:44:54",
+      "time": 1592487894,
+      "route": 4,
+      "signal": 21,
+      "temperature": 27.66,
+      "battery": 3270
+    },
+    "15AC": {
+      "datetime": "2020-06-18 22:44:43",
+      "time": 1592487883,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.23,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 22:44:36",
+      "time": 1592487876,
+      "route": 3,
+      "signal": 30,
+      "temperature": 26.24,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 22:44:43",
+      "time": 1592487883,
+      "route": 2,
+      "signal": 87,
+      "temperature": 26.05,
+      "battery": 3350
+    }
+  },
+  "1592487900": {
+    "B0E9": {
+      "datetime": "2020-06-18 22:49:39",
+      "time": 1592488179,
+      "route": 1,
+      "signal": 24,
+      "temperature": 26.19,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 22:49:47",
+      "time": 1592488187,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.12,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 22:49:59",
+      "time": 1592488199,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.23,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 22:45:41",
+      "time": 1592487941,
+      "route": 2,
+      "signal": 57,
+      "temperature": 27.55,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 22:49:45",
+      "time": 1592488185,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.72,
+      "battery": 3320
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 22:49:48",
+      "time": 1592488188,
+      "route": 5,
+      "signal": 24,
+      "temperature": 27.42,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 22:49:52",
+      "time": 1592488192,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.62,
+      "battery": 3270
+    },
+    "B356": {
+      "datetime": "2020-06-18 22:49:45",
+      "time": 1592488185,
+      "route": 2,
+      "signal": 84,
+      "temperature": 26.0,
+      "battery": 3360
+    }
+  },
+  "1592488200": {
+    "B0E9": {
+      "datetime": "2020-06-18 22:54:41",
+      "time": 1592488481,
+      "route": 3,
+      "signal": 39,
+      "temperature": 26.2,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 22:54:19",
+      "time": 1592488459,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.91,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 22:54:44",
+      "time": 1592488484,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.64,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 22:54:55",
+      "time": 1592488495,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.08,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 22:54:46",
+      "time": 1592488486,
+      "route": 5,
+      "signal": 21,
+      "temperature": 27.4,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 22:54:50",
+      "time": 1592488490,
+      "route": 4,
+      "signal": 21,
+      "temperature": 27.6,
+      "battery": 3270
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 22:54:59",
+      "time": 1592488499,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.57,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 22:54:47",
+      "time": 1592488487,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.25,
+      "battery": 3330
+    }
+  },
+  "1592488500": {
+    "B0E9": {
+      "datetime": "2020-06-18 22:59:44",
+      "time": 1592488784,
+      "route": 3,
+      "signal": 39,
+      "temperature": 26.17,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 22:59:48",
+      "time": 1592488788,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.92,
+      "battery": 3360
+    },
+    "1618": {
+      "datetime": "2020-06-18 22:59:43",
+      "time": 1592488783,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.63,
+      "battery": 3330
+    },
+    "15AC": {
+      "datetime": "2020-06-18 22:59:35",
+      "time": 1592488775,
+      "route": 5,
+      "signal": 159,
+      "temperature": 25.22,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 22:59:22",
+      "time": 1592488762,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.64,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 22:59:34",
+      "time": 1592488774,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.11,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 22:59:38",
+      "time": 1592488778,
+      "route": 2,
+      "signal": 60,
+      "temperature": 27.53,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 22:59:44",
+      "time": 1592488784,
+      "route": 7,
+      "signal": 102,
+      "temperature": 27.42,
+      "battery": 3340
+    }
+  },
+  "1592488800": {
+    "14AF": {
+      "datetime": "2020-06-18 23:04:42",
+      "time": 1592489082,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.11,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 23:04:51",
+      "time": 1592489091,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.26,
+      "battery": 3330
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 23:04:46",
+      "time": 1592489086,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.56,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 23:04:46",
+      "time": 1592489086,
+      "route": 2,
+      "signal": 42,
+      "temperature": 26.17,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 23:04:41",
+      "time": 1592489081,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.69,
+      "battery": 3320
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 23:04:42",
+      "time": 1592489082,
+      "route": 7,
+      "signal": 102,
+      "temperature": 27.41,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 23:04:47",
+      "time": 1592489087,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.64,
+      "battery": 3270
+    },
+    "B356": {
+      "datetime": "2020-06-18 23:04:23",
+      "time": 1592489063,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.87,
+      "battery": 3360
+    }
+  },
+  "1592489100": {
+    "14AF": {
+      "datetime": "2020-06-18 23:09:49",
+      "time": 1592489389,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 23:09:40",
+      "time": 1592489380,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.6,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 23:09:40",
+      "time": 1592489380,
+      "route": 7,
+      "signal": 102,
+      "temperature": 27.39,
+      "battery": 3340
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 23:09:48",
+      "time": 1592489388,
+      "route": 3,
+      "signal": 36,
+      "temperature": 26.2,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 23:09:52",
+      "time": 1592489392,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.52,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 23:09:45",
+      "time": 1592489385,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.64,
+      "battery": 3270
+    },
+    "B356": {
+      "datetime": "2020-06-18 23:09:52",
+      "time": 1592489392,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.82,
+      "battery": 3360
+    },
+    "15AC": {
+      "datetime": "2020-06-18 23:09:39",
+      "time": 1592489379,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.23,
+      "battery": 3330
+    }
+  },
+  "1592489400": {
+    "15AC": {
+      "datetime": "2020-06-18 23:14:55",
+      "time": 1592489695,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.22,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 23:14:38",
+      "time": 1592489678,
+      "route": 7,
+      "signal": 102,
+      "temperature": 27.4,
+      "battery": 3340
+    },
+    "1618": {
+      "datetime": "2020-06-18 23:14:39",
+      "time": 1592489679,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.56,
+      "battery": 3330
+    },
+    "F390": {
+      "datetime": "2020-06-18 23:14:43",
+      "time": 1592489683,
+      "route": 4,
+      "signal": 27,
+      "temperature": 27.61,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 23:14:51",
+      "time": 1592489691,
+      "route": 3,
+      "signal": 36,
+      "temperature": 26.17,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 23:14:56",
+      "time": 1592489696,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.05,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 23:14:54",
+      "time": 1592489694,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.91,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 23:14:32",
+      "time": 1592489672,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.53,
+      "battery": 3360
+    }
+  },
+  "1592489700": {
+    "DFA5": {
+      "datetime": "2020-06-18 23:19:39",
+      "time": 1592489979,
+      "route": 2,
+      "signal": 60,
+      "temperature": 27.54,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 23:19:36",
+      "time": 1592489976,
+      "route": 7,
+      "signal": 102,
+      "temperature": 27.4,
+      "battery": 3340
+    },
+    "1618": {
+      "datetime": "2020-06-18 23:19:38",
+      "time": 1592489978,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.57,
+      "battery": 3320
+    },
+    "F390": {
+      "datetime": "2020-06-18 23:19:41",
+      "time": 1592489981,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.67,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 23:19:53",
+      "time": 1592489993,
+      "route": 3,
+      "signal": 39,
+      "temperature": 26.18,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 23:19:56",
+      "time": 1592489996,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.96,
+      "battery": 3360
+    },
+    "15AC": {
+      "datetime": "2020-06-18 23:19:43",
+      "time": 1592489983,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.23,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 23:19:36",
+      "time": 1592489976,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.06,
+      "battery": 3350
+    }
+  },
+  "1592490000": {
+    "14AF": {
+      "datetime": "2020-06-18 23:24:43",
+      "time": 1592490283,
+      "route": 1,
+      "signal": 63,
+      "temperature": 24.07,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 23:24:34",
+      "time": 1592490274,
+      "route": 6,
+      "signal": 105,
+      "temperature": 27.37,
+      "battery": 3340
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 23:24:46",
+      "time": 1592490286,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.5,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 23:24:36",
+      "time": 1592490276,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.51,
+      "battery": 3320
+    },
+    "F390": {
+      "datetime": "2020-06-18 23:24:39",
+      "time": 1592490279,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.68,
+      "battery": 3270
+    },
+    "15AC": {
+      "datetime": "2020-06-18 23:24:59",
+      "time": 1592490299,
+      "route": 1,
+      "signal": 159,
+      "temperature": 25.18,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 23:24:56",
+      "time": 1592490296,
+      "route": 3,
+      "signal": 36,
+      "temperature": 26.17,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 23:24:58",
+      "time": 1592490298,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.89,
+      "battery": 3360
+    }
+  },
+  "1592490300": {
+    "15AC": {
+      "datetime": "2020-06-18 23:29:47",
+      "time": 1592490587,
+      "route": 5,
+      "signal": 159,
+      "temperature": 25.2,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 23:29:32",
+      "time": 1592490572,
+      "route": 7,
+      "signal": 102,
+      "temperature": 27.38,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 23:29:38",
+      "time": 1592490578,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.67,
+      "battery": 3270
+    },
+    "1618": {
+      "datetime": "2020-06-18 23:29:35",
+      "time": 1592490575,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.5,
+      "battery": 3320
+    },
+    "14AF": {
+      "datetime": "2020-06-18 23:29:50",
+      "time": 1592490590,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.1,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 23:29:53",
+      "time": 1592490593,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.5,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 23:29:58",
+      "time": 1592490598,
+      "route": 3,
+      "signal": 39,
+      "temperature": 26.15,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 23:29:59",
+      "time": 1592490599,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.84,
+      "battery": 3360
+    }
+  },
+  "1592490600": {
+    "F2B6": {
+      "datetime": "2020-06-18 23:34:59",
+      "time": 1592490899,
+      "route": 1,
+      "signal": 18,
+      "temperature": 27.39,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 23:34:35",
+      "time": 1592490875,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.69,
+      "battery": 3270
+    },
+    "1618": {
+      "datetime": "2020-06-18 23:34:34",
+      "time": 1592490874,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.49,
+      "battery": 3320
+    },
+    "15AC": {
+      "datetime": "2020-06-18 23:34:35",
+      "time": 1592490875,
+      "route": 7,
+      "signal": 159,
+      "temperature": 25.21,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 23:34:58",
+      "time": 1592490898,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.06,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 23:34:32",
+      "time": 1592490872,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.53,
+      "battery": 3360
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 23:34:33",
+      "time": 1592490873,
+      "route": 1,
+      "signal": 36,
+      "temperature": 26.12,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 23:34:07",
+      "time": 1592490847,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.84,
+      "battery": 3360
+    }
+  },
+  "1592490900": {
+    "DFA5": {
+      "datetime": "2020-06-18 23:39:39",
+      "time": 1592491179,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.52,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 23:39:35",
+      "time": 1592491175,
+      "route": 1,
+      "signal": 36,
+      "temperature": 26.14,
+      "battery": 3350
+    },
+    "F390": {
+      "datetime": "2020-06-18 23:39:34",
+      "time": 1592491174,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.64,
+      "battery": 3270
+    },
+    "15AC": {
+      "datetime": "2020-06-18 23:39:52",
+      "time": 1592491192,
+      "route": 5,
+      "signal": 156,
+      "temperature": 25.17,
+      "battery": 3330
+    },
+    "1618": {
+      "datetime": "2020-06-18 23:39:33",
+      "time": 1592491173,
+      "route": 4,
+      "signal": 105,
+      "temperature": 22.46,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 23:39:37",
+      "time": 1592491177,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.05,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 23:39:09",
+      "time": 1592491149,
+      "route": 2,
+      "signal": 84,
+      "temperature": 25.89,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 23:39:57",
+      "time": 1592491197,
+      "route": 7,
+      "signal": 102,
+      "temperature": 27.37,
+      "battery": 3340
+    }
+  },
+  "1592491200": {
+    "F390": {
+      "datetime": "2020-06-18 23:44:59",
+      "time": 1592491499,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.62,
+      "battery": 3270
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 23:44:38",
+      "time": 1592491478,
+      "route": 3,
+      "signal": 33,
+      "temperature": 26.14,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 23:44:32",
+      "time": 1592491472,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.43,
+      "battery": 3320
+    },
+    "14AF": {
+      "datetime": "2020-06-18 23:44:44",
+      "time": 1592491484,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.03,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 23:44:46",
+      "time": 1592491486,
+      "route": 2,
+      "signal": 60,
+      "temperature": 27.47,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 23:44:39",
+      "time": 1592491479,
+      "route": 1,
+      "signal": 156,
+      "temperature": 25.24,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 23:44:55",
+      "time": 1592491495,
+      "route": 2,
+      "signal": 102,
+      "temperature": 27.36,
+      "battery": 3340
+    },
+    "B356": {
+      "datetime": "2020-06-18 23:44:38",
+      "time": 1592491478,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.88,
+      "battery": 3350
+    }
+  },
+  "1592491500": {
+    "1618": {
+      "datetime": "2020-06-18 23:49:30",
+      "time": 1592491770,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.35,
+      "battery": 3320
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 23:49:40",
+      "time": 1592491780,
+      "route": 1,
+      "signal": 36,
+      "temperature": 26.14,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 23:49:40",
+      "time": 1592491780,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.79,
+      "battery": 3360
+    },
+    "15AC": {
+      "datetime": "2020-06-18 23:49:56",
+      "time": 1592491796,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.18,
+      "battery": 3330
+    },
+    "14AF": {
+      "datetime": "2020-06-18 23:49:52",
+      "time": 1592491792,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.08,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 23:49:53",
+      "time": 1592491793,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.48,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 23:49:53",
+      "time": 1592491793,
+      "route": 5,
+      "signal": 18,
+      "temperature": 27.35,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 23:49:57",
+      "time": 1592491797,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.6,
+      "battery": 3270
+    }
+  },
+  "1592491800": {
+    "1618": {
+      "datetime": "2020-06-18 23:54:59",
+      "time": 1592492099,
+      "route": 4,
+      "signal": 102,
+      "temperature": 22.39,
+      "battery": 3330
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 23:54:43",
+      "time": 1592492083,
+      "route": 3,
+      "signal": 39,
+      "temperature": 26.14,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 23:54:42",
+      "time": 1592492082,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.77,
+      "battery": 3350
+    },
+    "14AF": {
+      "datetime": "2020-06-18 23:54:59",
+      "time": 1592492099,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.09,
+      "battery": 3350
+    },
+    "DFA5": {
+      "datetime": "2020-06-18 23:54:32",
+      "time": 1592492072,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.5,
+      "battery": 3350
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 23:54:51",
+      "time": 1592492091,
+      "route": 7,
+      "signal": 102,
+      "temperature": 27.34,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 23:54:55",
+      "time": 1592492095,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.66,
+      "battery": 3270
+    },
+    "15AC": {
+      "datetime": "2020-06-18 23:54:44",
+      "time": 1592492084,
+      "route": 5,
+      "signal": 159,
+      "temperature": 25.2,
+      "battery": 3330
+    }
+  },
+  "1592492100": {
+    "DFA5": {
+      "datetime": "2020-06-18 23:59:39",
+      "time": 1592492379,
+      "route": 2,
+      "signal": 63,
+      "temperature": 27.44,
+      "battery": 3350
+    },
+    "B356": {
+      "datetime": "2020-06-18 23:59:44",
+      "time": 1592492384,
+      "route": 2,
+      "signal": 87,
+      "temperature": 25.82,
+      "battery": 3350
+    },
+    "B0E9": {
+      "datetime": "2020-06-18 23:59:45",
+      "time": 1592492385,
+      "route": 3,
+      "signal": 36,
+      "temperature": 26.14,
+      "battery": 3350
+    },
+    "15AC": {
+      "datetime": "2020-06-18 23:59:31",
+      "time": 1592492371,
+      "route": 7,
+      "signal": 156,
+      "temperature": 25.2,
+      "battery": 3330
+    },
+    "F2B6": {
+      "datetime": "2020-06-18 23:59:49",
+      "time": 1592492389,
+      "route": 2,
+      "signal": 102,
+      "temperature": 27.34,
+      "battery": 3340
+    },
+    "F390": {
+      "datetime": "2020-06-18 23:59:53",
+      "time": 1592492393,
+      "route": 6,
+      "signal": 99,
+      "temperature": 27.67,
+      "battery": 3270
+    },
+    "14AF": {
+      "datetime": "2020-06-18 23:59:39",
+      "time": 1592492379,
+      "route": 1,
+      "signal": 60,
+      "temperature": 24.02,
+      "battery": 3350
+    },
+    "1618": {
+      "datetime": "2020-06-18 23:59:58",
+      "time": 1592492398,
+      "route": 4,
+      "signal": 99,
+      "temperature": 22.32,
+      "battery": 3320
+    }
+  }
+}
