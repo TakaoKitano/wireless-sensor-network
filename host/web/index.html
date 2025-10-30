@@ -146,7 +146,7 @@
       $.each(data, function(nodename, node) {
         if (nodes[nodename]) {
           var s = '<p><font size="2">' + nodes[nodename]['name'] + '   ' + node['temperature'] + '</font></p>';
-          if ( (node['time'] * 1000) + 1000 * 120 < (new Date).getTime()) {
+          if ( (node['time'] * 1000) + 1000 * 600 < (new Date).getTime()) {
               s += '<p class="red"><small>' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</small></p>';
           } else {
               s += '<p class="black"><font size="1">' + nodename + ':' + node['datetime'] + ',\t' + node['battery'] + ',\t' + node['signal'] + ',\t' + node['route'] + '</font></p>';
